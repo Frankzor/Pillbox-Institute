@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<livre>
+
+ <tableau>
+  <molecule> Nadolol</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Non cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effet tératogène observé chez trois espèces animales.</grossesse2>
+  <grossesse3> Pas d'augmentation du taux de malformations majeures dans une étude de surveillance rapportant 71 nouveau-nés exposés durant le premier trimestre de la grossesse.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Nifedipine</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Anomalies digitales chez deux espèces animales et autres anomalies diverses (malformations squelettiques, fentes palatines) chez trois espèces animales à doses similaires ou supérieures à celles utilisées chez l'humain.</grossesse1>
+  <grossesse2> Quatre observations cliniques isolées de malformations des membres ou des doigts rapportés chez l'humain; lien de causalité inconnu.</grossesse2>
+  <grossesse3> Deux malformations majeures notées chez 37 nouveau-nés exposés au premier trimestre dans une étude de surveillance. </grossesse3>
+  <grossesse4> Une étude de cohorte comptant 78 femmes enceintes traitées avec un bloqueur des canaux calciques pendant le premier trimestre, la majorité avec la nifedipine (44 %) ou le verapamil (41 %), et les autres avec du diltiazem, de la nimodipine ou de.la felodipine: pas d'augmentation du taux de malformations majeures par rapport au groupe témoin. Le taux de prématurité et le poids à la naissance étaient plus faibles dans le groupe traité avec les bloqueurs de canaux calciques. </grossesse4>
+  <grossesse5> La nifedipine est également utilisée comme tocolytique avec une efficacité similaire à d'autres agents et un meilleur profil d'effets indésirables.</grossesse5>
+  <grossesse6> Un suivi jusqu'à l'âge de 9 à 12 ans d'enfants de mères tocolysées avec la ritodrine et la nifedipine a démontré qu'il n'y avait pas de différence dans le développement moteur. Les enfants exposés à la nifedipine avaient un développement psychologique légèrement meilleur. Anomalies digitales et autres anomalies diverses (malformations squelettiques, fentes palatines) chez trois espèces animales à doses similaires ou supérieures à celles utilisées chez l'humain.</grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
+  <allaitement1> Dose reçue par l'enfant estimée à moins de 1 % de la dose pédiatrique; aucun effet indésirable rapporté chez les nourrissons.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Compatible avec l'allaitement.</recommandationallaitement>
+ </tableau>
+
+</livre>

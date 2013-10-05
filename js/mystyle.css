@@ -1,0 +1,127 @@
+h1
+{
+font-size:1.125em;
+}
+h2
+{
+font-size:1.125em;
+}
+.appearOn1
+{
+display:block;
+}
+.appearOn2
+{
+display:inline;
+}
+.appearOff
+{
+display:none;
+}
+.mettreEnItalique
+{
+font-style:italic;
+}
+.mettreEnGras
+{
+font-weight:bold;
+}
+.mettreAuCentre
+{
+text-align:center;
+}
+.bigfish
+{
+font-size:1.25em;
+}
+.verybigfish
+{
+font-size:2.0em;
+text-align:center;
+}
+.checkOn
+{
+text-decoration:line-through;
+}
+.checkOff
+{
+text-decoration:off;
+}
+table
+{
+border-style:inset;
+}
+thead
+{
+font-weight:bold;
+border-style:inset;
+}
+th
+{
+font-weight:bold;
+border-style:inset;
+}
+td
+{
+border-style:inset;
+}
+.big-btn
+{
+height:70px;
+}
+.violet
+{
+color:rgb(100,0,100);
+}
+.blanc
+{
+color:rgb(255,255,255);
+}
+.break
+{
+page-break-before:always;
+}
+.imageADroite
+{
+float:right;
+}
+/* double size checkbox, credits to jdw from stackoverflow.com/questions/306924/checkbox-size */
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  padding: 10px;
+}
+.checkboxtext
+{
+  /* Checkbox text */
+  font-size: 110%;
+  display: inline;
+}
+/* stickyNavBar, credits to Umair Maqsood from www.techknowlogists.com/how-to-create-sticky-navigation-bar */
+body
+{
+margin: 0;
+}
+.header
+{
+height: 50px;
+background-color: #000;
+font-size: 16px;
+text-align: center;
+color: #fff;
+padding-top: 3%;
+}
+.nav
+{
+height: 30px;
+background-color: #D7D7D7;
+font-size: 16px;
+text-align: center;
+color: #000;
+padding-top: 5px;
+width: 100%;
+}

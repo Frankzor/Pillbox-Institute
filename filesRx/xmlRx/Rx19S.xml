@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<livre>
+
+ <tableau>
+  <molecule> Spironolactone</molecule>
+  <indication> Hypertension, acné</indication>
+  <grossesse1> Premièrement, la spironolactone démontre des propriétés antiandrogéniques en agissant comme un antagoniste des récepteurs androgéniques et en inhibant l'enzyme 5-alpha-réductase. Chez les rates gravides exposées à ce médicament, une féminisation des foetus mâles a été notée. Cette observation a amené l'inquiétude d'une virilisation insuffisante chez les garçons exposés in utero. À ce jour, un tel effet n'a pas été rapporté chez l'humain. En fait, les notifications de cas totalisent 3 foetus mâles exposés à la spironolactone durant toute la grosesse sans qu'une virilisation insuffisante ne soit décrite. Une étude de surveillance recueille 31 enfants exposés au premier trimestre de la grossesse, dont 2 malformations majeures (dont 1 attendue).</grossesse1>
+  <grossesse2> Par ailleurs, les propriétés diurétiques de la spironolactone sont une source d'inquiétudes supplémentaires. En tant que classe, les diurétiques pourraient théoriquement diminuer la perfusion placentaire et causer un retard de croissance intra-utérine.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Il est préférable de ne pas utiliser les diurétiques pendant la grossesse, car ils n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire. L'utilisation du triamterene est associée à une augmentation du taux d'anomalies congénitales et un suivi échographique détaillé est recommandé lors d'une exposition au premier trimestre de la grossesse. De par leur mécanisque d'action, l'usage de ces agents est déconseillé en cours de grossesse. En effet, la cyproterone et la spironolactone pourraient théoriquement entraîner des anomalies au niveau des organes génitaux externes de l'enfant de sexe masculin. La période critique pour ces malformations majeures se situe entre la neuvième et la onzième semaine gestationnelle. Cependant, l'exposition par inadvertance à ces agents ne justifie ni une interruption volontaire de grossesse, ni une investigation particulière.</recommandationgrossesse>
+  <allaitement1> Dose reçue par l'enfant par le lait maternel estimé à moins de 1 % de la dose pédiatrique (n=1).</allaitement1>
+  <allaitement2> La canrenone, son principal métabolite actif, se retrouve toutefois dans le lait maternel en petite quantité. Pour une mère qui reçoit une dose unique de 25 mg, il est estimé que l'enfant allaité exclusivement est exposé à 1.6 % de la dose néonatale. Aucun effet indésirable n'a d'ailleurs été rapporté chez l'enfant allaité dont la mère prend de la spironolactone.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Préférer l'utilisation de la spironolactone si un diurétique épargneur de potassium doit être utilisé. La spironolactone est habituellement compatible avec l'allaitement. Si la mère observe une diminution de la production lactée avec la prise du spironolactone, l'arrêt du traitement est recommandé.</recommandationallaitement>
+ </tableau>
+
+</livre>

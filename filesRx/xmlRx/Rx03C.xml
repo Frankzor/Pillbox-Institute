@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<livre>
+
+ <tableau>
+  <molecule> Cabergoline</molecule>
+  <indication> Syndrome des jambes sans repos</indication>
+  <grossesse1> 1) La majorité des données concernent des patientes traitées pour améliorer la fertilité lors d'hyperprolactinémie avec un traitement discontinué une fois la grossesse connue: plus de 700 femmes traitées dans différentes études, sans risque accru observé de malformations majeures, avortement spontané ou autres issues défavorables.</grossesse1>
+  <grossesse2> 2) Deux études ont évalué le développement des enfants à long terme, sans preuve d'atteinte.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les données sur la cabergoline n'indiquent pas un risque augmenté de malformations majeure lorsque le traitement est cessé tôt durant la grossesse. Les données sont trop limitées pour conclure sur son innocuité si le traitement est poursuivi durant toute la grossesse. Ainsi, son utilisation ne sera pas recommandée durant la grossesse.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Candesartan</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
+  <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
+  <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
+  <grossesse4> L'utilisation des ARA durant les deuxième et troisième trimestres est associée à de l'insuffisance rénale, de l'hypophasie pulmonaire et crânienne, des contractures des membres et de la mortalité in utero et néonatale.</grossesse4>
+  <grossesse5> Notification de cas associant les ARA à des effets similaires à ceux observés avec les IECA.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'utilisation des ARA n'est pas recommandée durant la grossesse. En cas d'exposition durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Aucune donnée sur le passage dans le lait maternel n'a été retrouvée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Privilégier un IECA si possible, car le passage dans le lait a été évalué pour plusieurs d'entre eux.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Captopril</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
+  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
+  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
+  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Dose reçue par l'enfant par le lait maternel estimée à moins de 1 % de la dose pédiatrique. Aucun effet indésirable rapporté chez les nourrissons allaités (n=12).</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Chlorthalidone</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
+  <grossesse2> Étude de surveillance rapportant 635 expositions au premier trimestre (chlorthalidone (n=20), chlorothiazide (n=48), hydrochlorothiazide (n=567)): pas d'augmentation du taux d'anomalies congénitales ni de patron de malformations identifié.</grossesse2>
+  <grossesse3> Quelques cas de thrombocytopénie, d'hypoglycémie, d'hyponatrémie et d'hypokaliémie néonatales ont été rapportés avec les thiazidiques.</grossesse3>
+  <grossesse4> Les thiazidiques pourraient être diabétogènes chez la femme enceinte.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
+  <allaitement1> Données pharmacocinétiques: poids moléculaire de 339 Da, temps de demi-vie de 54 heures.</allaitement1>
+  <allaitement2> Aucune donnée sur le passage dans le lait maternel.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Préférer l'utilisation de l'hydrochlorothiazide si un agent thiazidique doit être utilisé.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Cilazapril</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
+  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
+  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
+  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Aucune donnée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Clonazepam</molecule>
+  <indication> Syndrome des jambes sans repos, insomnie</indication>
+  <grossesse1> Pas d'augmentation du risque de malformation majeure notée dans plusieurs études de cohortes réalisées auprès de milliers de femmes exposées à une benzodiazépine au premier trimestre, incluant 435 expositions au clonazepam.</grossesse1>
+  <grossesse2> Association avec un risque augmenté de fentes labio-palatines dans quelques études cas-témoins rassemblées dans une méta-analyse; le risque absolu est estimé à environ 2 pour 1000 expositions, contre 1 pour 1000 naissances dans la population générale canadienne (période critique de palatogenèse de 8 à 11 semaines de grossesse)</grossesse2>
+  <grossesse3> Autres associations (malformations cardiovasculaires, atrésies digestives ou anales) parfois suggérées par d'autres études cas-témoins ou de surveillance; lien de causalité non confirmé pour le moment.</grossesse3>
+  <grossesse4> Dans une étude, l'utilisation à la fin de la grossesse est associée à une augmentation du risque (environ 2 fois) de prématurité, de faible poids à la naissance, de score d'Apgar diminué et de problèmes respiratoires; lien de causalité indéterminé; d'autres études montrent des résultats similaires ou contraires.</grossesse4>
+  <grossesse5> Syndrome d'imprégnation (floppy infant syndrome) possible chez les enfants exposés à des doses importantes ou régulières à la fin de la grossesse. Plus rarement un syndrome de retrait a été décrit. Apparition des symptômes rapidement après la naissance et durée généralement de quelques jours.</grossesse5>
+  <grossesse6> Peu d'évidence d'anomalies du développement neurocomportemental à ce jour dans de petites cohortes d'enfants exposés in utero.</grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Un traitement par benzodiazépines est possible au cours de la grossesse. Des complications néonatales transitoires sont possibles pour une utilisation répétée en fin de grossesse.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Clonidine</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Études animales: pas d'effets tératogène observé ni chez le rat ni chez le lapin; toxicité développementale notée chez la souris mais à des doses entraînant une toxicité maternelle et très supérieures à celles utilisées chez l'homme.</grossesse1>
+  <grossesse2> Pas d'augmentation du taux de malformations majeures chez 59 nouveau-nés exposées à la clonidine durant le premier trimestre.</grossesse2>
+  <grossesse3> La clonidine (n=47) et la méthyldopa (n=48) ont été étudiées chez des femmes hypertendues aux deuxième et troisième trimestres. On n'a pas noté de différence dans le contrôle de l'hypertension, la morbidité maternelle et la mortalité et morbidité foetales.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La clonidine est moins étudiée que la méthyldopa. (Par contre, la clonidine est préférée au méthyldopa en cas d'hypertension sévère à cause du long début d'action de la méthyldopa, qui est de 12 à 48 heures...) Utiliser au besoin lors d'justement du traitement antihypertenseur en combinaison avec d'autres agents. </recommandationgrossesse>
+  <allaitement1> Passage dans le lait estimé à 7 à 8 % de la dose maternelle ajustée au poids; aucun effet indésirable n'a été rapporté chez les nourrissons (n=13).</allaitement1>
+  <allaitement2> Les concentrations sériques mesurées chez 9 enfants allaités correspondent environ à 66 % des niveaux maternels simultanés, sans effets indésirables chez les enfants.</allaitement2>
+  <allaitement3> Risque théorique d'hypotension et de diminution de production lactée par diminution de sécrétion de prolactine (non rapporté).</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Passage dans le lait maternel plus élevé que la methyldopa. Toutefois, la clonidine peut être utilisée comme traitement d'appoint au besoin avec d'autres antihypertenseurs.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Codeine</molecule>
+  <indication> Syndrome des jambes sans repos</indication>
+  <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (près de 10 000 expositions au premier trimestre à la codeine).</grossesse1> 
+  <grossesse2> PLusieurs études rétrospectives ont associé l'utilisation de la codeine avec diverses anomalies (voies respiratoires, génito-urinaires, hernies ombilicales ou inguinales, sténose du pylore, hydrocéphalie, anomalies cardiaques, neuroblastome, fentes labio-palatines.) Les limites méthodologiques présentes dans ces études et l'absence de patron reproductible d'anomalies ne permettent pas d'établir clairement un lien de causalité.</grossesse2>
+  <grossesse3> Opiacés associés à un risque de syndrome de sevrage chez les bébés à la naissance. Symptômes de sevrage (perturbation du système nerveux central [par exemple, tremblements, température instable, pleurs et sursauts spontanés] et du système gastro-intestinal [par exemple, difficulté à s'alimenter, vomissements] pris en charge par des mesures allant d'un simple emmaillotement à l'administration d'un traitement pharmacologique de courte durée pour les cas plus graves (par exemple, faibles doses de morphine).</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Un traitement par un opiacé est possible au cours de la grossesse. La codeine est à privilégier au premier trimestre, étant plus documentée chez la femme enceinte. D'autres opiacés pourraient être utilisés selon le jugement clinique; l'utilisation d'un opiacé ayant une structure similaire à celle de la codeine pourrait alors être privilégiée. Lors d'une utilisation répétée en fin de grossesse, suivi plus étroit nécessaire chez le nouveau-né dans les premiers jours de vie.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+</livre>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, height=device-height, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="./js/mystyle.css" />
+<script src="./js/ajaxGoogleAPISjQuery.js"></script>
+<script src="./js/stickyNavBar.js"></script>
+<script src="./js/external/mootools-core-1.3-full-compat.js"></script>
+<script src="./js/dynamic-table-of-contents.js"></script>
+<script src="./js/loadXMLdoc.js"></script>
+<script src="./js/goBack.js"></script>
+</head>
+<body>
+<div class="header"><strong>M&eacute;diagraphie</strong></div>
+<div class="nav">
+<button type="button" class="mettreEnGras" onclick="myFunctiongoBack()">Retour</button>
+</div>
+<script> 
+var xmlDoc=myFunctionloadXMLdoc("./xmlRx/mediagraphie.xml");
+var x=xmlDoc.getElementsByTagName("article");
+document.write('<ol>');
+for (i=0;i<x.length;i++)
+ {
+ document.write('<li>');
+ document.write(x[i].getElementsByTagName("nom")[0].childNodes[0].nodeValue);
+ document.write("</li>");
+ }
+document.write('</ol>');
+</script>
+</body>
+</html>

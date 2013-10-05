@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<livre>
+
+ <tableau>
+  <molecule> Acebutolol</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Cardiosélectif avec activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effets tératogène observé chez deux espèces animales.</grossesse2>
+  <grossesse3> Étude rapportant 56 nouveau-nés exposés à l'acebutolol dont 6 au premier trimestre; pas de malformations chez ces enfants.</grossesse3>
+  <grossesse4> Chez dix nouveau-nés exposés à l'acebutolol près de l'accouchement, on a observé plus de bradycardie, d'hypotension et d'hypoglycémie transitoires par rapport à un groupe de nouveau-nés exposés à la méthyldopa.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
+  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0.9 à 3.6 % (plus élevé si on ajoute le métabolite actif)</allaitement1>
+  <allaitement2> Effets de beta-blocage observé chez des nourrissons de mères recevant de l'acebutolol à des doses de 400 mg par jour.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Amiloride</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Étude de surveillance: 28 cas d'exposition à l'amiloride au premier trimestre, 2 anomalies observées.</grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Il est préférable de ne pas utiliser les diurétiques pendant la grossesse, car ils n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire. L'utilisation du triamterene est associée à une augmentation du taux d'anomalies congénitales et un suivi échographique détaillé est recommandé lors d'une exposition au premier trimestre de la grossesse.</recommandationgrossesse>
+  <allaitement1> Aucune donnée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Préférer l'utilisation de la spironolactone si un diurétique épargneur de potassium doit être utilisé.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Amlodipine</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Pas d'effet tératogène observé chez deux espèces animales.</grossesse1>
+  <grossesse2> Pas de données retracées chez l'humain.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
+  <allaitement1> Absence de données, longue demi-vie d'élimination chez l'adulte (30 à 50 heures) donc risque théorique d'accumulation et d'effets indésirables chez le nourrisson.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Il est préférable d'utiliser la nifedipine.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Atenolol</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effet tératogène observé chez deux espèces mais effets feototoxiques observés (diminution du poids du placenta et du poids foetal et retard de croissance intra-utérine).</grossesse2>
+  <grossesse3> Étude de surveillance rapportant 105 nouveau-nés exposés à l'atenolol durant le premier trimestre: 11.4% de malformations majeures; pathologies maternelles et médicaments concomitants inconnus.</grossesse3>
+  <grossesse4> Étude rapportant 31 nouveau-nés exposés à l'atenolol dont 5 au premier trimestre: pas de malformations chez ces enfants.</grossesse4>
+  <grossesse5> Revue de douze études chez la femme enceinte et comparaison avec les données animales: retard de croissance intra-utérine, diminution du poids du placenta et diminution du poids de naissance notés dans les études animales et humaines sauf en cas d'exposition durant le premier trimestre seulement.</grossesse5>
+  <grossesse6> Retard de croissance intra-utérine rapporté chez 7 femmes sur 25 traitées avec l'atenolol dans une étude le comparant au vérapamil pour le traitement de l'hypertension gestationnelle (pas de retard de croissance avec vérapamil).</grossesse6>
+  <grossesse7> Complications néonatales: bradycardie et hypoglycémie durant la périoden postnatale immédiate.</grossesse7>
+  <grossesse8> Développement normal dans quelques études avec de faibles effectifs (suivi entre 1 et 2 ans).</grossesse8>
+  <grossesse9> Notification d'un cas de fibromatose rétropéritonéale.</grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
+   <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 7 à 29 % (13 à 35 % d'une dose pédiatrique)</allaitement1>
+  <allaitement2> Effets indésirables rapportés chez le nourrisson d'une mère recevant 100 mg par jour d'atenolol (bradycardie, cyanose, diminution de température corporelle et hypotension).</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+</livre>

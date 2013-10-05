@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<livre>
+
+ <tableau>
+  <molecule> Methyldopa</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Études animales: pas d'effet tératogène observé chez trois espèces.</grossesse1>
+  <grossesse2> Pas d'augmentation du taux de malformations majeures ni de patron d'anomalie chez 292 nouveau-nés exposés à la methyldopa au cours du 1er trimestre dans une étude de surveillance.</grossesse2>
+  <grossesse3> Pas de toxicité foetale ni maternelle rapportées dans de nombreuses séries de cas qui datent des années 60-70.</grossesse3>
+  <grossesse4> Croissance et développement similaires à un groupe témoin chez 98 enfants exposés in utero à la méthyldopa et suivis à l'âge de 7 ans et demi; toutefois, la taille et la circonférence crânienne des garçons de mères traitées avec le méthyldopa étaient plus petites que celles du groupe témoin.</grossesse4>
+  <grossesse5> Développements mental et physique normaux à 18 mois chez 46 enfants exposés durant la grossesse pendant 13 jours au troisième trimestre.</grossesse5>
+  <grossesse6> Expérience clinique importante: antihypertenseur le plus utilisé pendant la grossesse depuis de nombreuses années.</grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La methyldopa est l'agent de permier recours pour le traitement de l'hypertension durant la grossesse.</recommandationgrossesse>
+  <allaitement1> Dix mesures de la methyldopa dans le lait maternel (500 à 2000 mg par jour): dose estimée reçue par l'enfant est de moins de 1 % de la dose maternelle ajustée au poids.</allaitement1>
+  <allaitement2> Pas d'effets indésirables notés chez quinze nourrissons exposés à la methyldopa par le lait maternel.</allaitement2>
+  <allaitement3> Un cas de gynécomastie et de galactorrhée rapporté chez une fille de deux semaines née à terme dont la mère avait reçu 7 jours de methyldopa 250 mg par voie orale 3 fois par jour. Cependant, il s'agit d'un cas isolé et aucun lien de causalité n'a été raporté.</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Compatible avec l'allaitement: premier recours parmi les agents centraux.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Metolazone</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
+  <grossesse2> Étude de surveillance rapportant 635 expositions au premier trimestre (chlorthalidone (n=20), chlorothiazide (n=48), hydrochlorothiazide (n=567)): pas d'augmentation du taux d'anomalies congénitales ni de patron de malformations identifié.</grossesse2>
+  <grossesse3> Quelques cas de thrombocytopénie, d'hypoglycémie, d'hyponatrémie et d'hypokaliémie néonatales ont été rapportés avec les thiazidiques.</grossesse3>
+  <grossesse4> Les thiazidiques pourraient être diabétogènes chez la femme enceinte.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
+  <allaitement1> Données pharmacocinétiques: poids moléculaire de 366 Da, temps de demi-vie de 8 à 14 heures.</allaitement1>
+  <allaitement2> Aucune donnée sur le passage dans le lait maternel.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Préférer l'utilisation de l'hydrochlorothiazide si un agent thiazidique doit être utilisé.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Metoprolol</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effet tératogène observé chez deux espèces.</grossesse2>
+  <grossesse3> 52 nouveau-nés exposés durant le premier trimestre dans une étude de surveillance: 5.8 % de malformations majeures (non précisés).</grossesse3>
+  <grossesse4> Pas d'effet néfaste noté chez plus de 130 expositions au metoprolol aux deuxième et troisième trimestres dans plusieurs essais cliniques.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
+  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0.5 à 3.6 %</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Morphine</molecule>
+  <indication> Syndrome des jambes sans repos</indication>
+  <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (70 expositions au premier trimestre à la morphine).</grossesse1> 
+  <grossesse2> </grossesse2>
+  <grossesse3> Opiacés associés à un risque de syndrome de sevrage chez les bébés à la naissance. Symptômes de sevrage (perturbation du système nerveux central [par exemple, tremblements, température instable, pleurs et sursauts spontanés] et du système gastro-intestinal [par exemple, difficulté à s'alimenter, vomissements] pris en charge par des mesures allant d'un simple emmaillotement à l'administration d'un traitement pharmacologique de courte durée pour les cas plus graves (par exemple, faibles doses de morphine).</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Un traitement par un opiacé est possible au cours de la grossesse. La codeine est à privilégier au premier trimestre, étant plus documentée chez la femme enceinte. D'autres opiacés pourraient être utilisés selon le jugement clinique; l'utilisation d'un opiacé ayant une structure similaire à celle de la codeine pourrait alors être privilégiée. Lors d'une utilisation répétée en fin de grossesse, suivi plus étroit nécessaire chez le nouveau-né dans les premiers jours de vie.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+</livre>
