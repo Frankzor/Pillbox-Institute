@@ -13,33 +13,21 @@
 <title> </title>
 </head>
 <body>
-<table id="myTable" class="notMakingAChart">
-	<!--
-	id of <col> tags should be "col" + index of table(1 = first table, 2 = second table) + _ (underscore) + column index(1.2.3.4...)
-	-->
-	<colgroup class="notMakingAChart">
-		<col id="col1_1" class="notMakingAChart"></col>
-	</colgroup>
-	<thead class="notMakingAChart">
-		<tr>
-			<td> M&eacute;dicaments en grossesse et en allaitement<br /><br /> Table des mati&egrave;res</td>
-		</tr>
-	</thead>
-	<tbody class="notMakingAChart">
-
+<h1> M&eacute;dicaments en grossesse et en allaitement</h1>
+<p> Table des mati&egrave;res</p>
 <script>
 var xmlDoc=myFunctionloadXMLdoc("indexRx.xml")
 var x=xmlDoc.getElementsByTagName("article");
+document.write("<ul>");
 for (i=0;i<x.length;i++)
   { 
-  document.write('<tr><td class="notMakingAChart"><a href="./filesRx/');
+  document.write('<li><a href="./filesRx/');
   document.write(x[i].getElementsByTagName("lien")[0].childNodes[0].nodeValue);
   document.write('">');
   document.write(x[i].getElementsByTagName("nom")[0].childNodes[0].nodeValue);
-  document.write("</a><br /><br /></td></tr>");
+  document.write("</a></li><br />");
   }
-document.write("</tbody></table>");
-initSortTable('myTable',Array('S'));
+document.write("</ul>");
 </script>
 </body>
 </html>

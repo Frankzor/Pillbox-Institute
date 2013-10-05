@@ -1,10 +1,10 @@
 h1
 {
-font-size:1.125em;
+font-size:2em;
 }
 h2
 {
-font-size:1.125em;
+font-size:1.75em;
 }
 .appearOn1
 {
@@ -32,11 +32,11 @@ text-align:center;
 }
 .bigfish
 {
-font-size:1.25em;
+font-size:3.5em;
 }
 .verybigfish
 {
-font-size:2.0em;
+font-size:4.0em;
 text-align:center;
 }
 .checkOn
@@ -104,7 +104,8 @@ input[type=checkbox]
 /* stickyNavBar, credits to Umair Maqsood from www.techknowlogists.com/how-to-create-sticky-navigation-bar */
 body
 {
-margin: 0;
+margin: 1;
+font-size: 1.5em;
 }
 .header
 {
