@@ -11,11 +11,13 @@
 <script src="./js/dynamic-table-of-contents.js"></script>
 <script src="./js/loadXMLdoc.js"></script>
 <script src="./js/goBack.js"></script>
+<script src="./js/magnify.js"></script>
 </head>
 <body>
 <div class="header"><strong>A</strong></div>
 <div class="nav">
 <button type="button" class="mettreEnGras" onclick="myFunctiongoBack()">Retour</button>
+<input type="button" class="mettreEnGras"  value="Agrandir" onclick="resizeText()" />
 </div>
 <div class="content">
 <div class="DG-toc-container" id="myWalkthrough">
@@ -28,7 +30,7 @@ for (i=0;i<x.length;i++)
  document.write(x[i].getElementsByTagName("molecule")[0].childNodes[0].nodeValue);
  document.write("</h1><p><b>Indication envisagée:</b> ");
  document.write(x[i].getElementsByTagName("indication")[0].childNodes[0].nodeValue);
- document.write("</p><p><b>Données durant la grossesse</b></p><p>");
+ document.write('</p><p><b>Données durant la grossesse</b></p><p>');
  document.write(x[i].getElementsByTagName("grossesse1")[0].childNodes[0].nodeValue);
  document.write("</p><p>");
  document.write(x[i].getElementsByTagName("grossesse2")[0].childNodes[0].nodeValue);

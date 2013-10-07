@@ -28,6 +28,56 @@
  </tableau>
 
  <tableau>
+  <molecule> Insuline humaine (régulière, NPH, lente, ultralente)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Pas de passage transplacentaire.</grossesse1>
+  <grossesse2> L'insuline permet un contrôle glycémique adéquat chez les femmes diabétiques de type 1 ou 2 et chez les femmes présentant un diabète gestationnel non contrôlé par la diète seule. Il a été montré dans de nombreuses études que le contrôle glycémique pendant la période préconceptionnelle et la grossesse permettait de réduire de manière significative le taux de malformations et de complications maternelles et foetales.</grossesse2>
+  <grossesse3> Bonne expérience clinique avec l'insuline humaine.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'insuline humaine est le traitement de premier recours du diabète chez la femme enceinte.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Insuline lispro</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Pas de passage placentaire.</grossesse1>
+  <grossesse2> Plus de 500 femmes exposées au premier trimestre sans augmentation du risque de malformations par rapport à des femmes traitées par insuline humaine régulière.</grossesse2>
+  <grossesse3> Amélioration ou contrôle glycémique identique et diminution ou nombre similaire d'hypoglycémies par rapport à une insuline régulière.</grossesse3>
+  <grossesse4> Pas d'augmentation des complications maternelles et néonatales chez les femmes traitées par insuline lispro par rapport aux femmes traitées par insuline régulière pour un diabète préexistant ou gestationnel.</grossesse4>
+  <grossesse5> Deux cas rapportés de malformations congénitales chez des femmes diabétiques de type 1 traitées au premier trimestre [anomalies cardiaques, pulmonaires et situs invertus abdominal; hernie diaphragmatique (décès à 3 semaines de vie)]. Dans les deux cas, les femmes présentaient une hémoglobine glyquée bien contrôlée.</grossesse5>
+  <grossesse6> Dans une cohorte de 14 patientes, trois ont développé une rétinopathie proliférative bilatérale pendant leur grossesse. Ces trois femmes présentaient des glycémies anormalement élevées. L'auteur a conclu que la progression de la rétinopathie chez ces femmes pouvait être lié au pouvoir mitogène de l'insuline lispro. Cependant, cette complication n'a pas été retrouvé dans les autres études.</grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'insuline lispro peut être utilisée pendant la grossesse si son emploi est jugé nécessaire. Cet analogue semble présenter des avantages importants au niveau du contrôle glycémique, un nombre plus faible d'hypoglycémie par rapport à une insuline régulière et des issues de grossesse similaires. La satisfaction des patientes est supérieure à celles utilisant une insuline régulière, ce qui contribue à une meilleure adhésion des patientes au traitement.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Irbesartan</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>

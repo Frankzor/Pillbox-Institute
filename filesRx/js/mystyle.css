@@ -1,89 +1,80 @@
-h1
-{
-font-size:2em;
-}
-h2
-{
-font-size:1.75em;
-}
 .appearOn1
 {
-display:block;
+display: block;
 }
 .appearOn2
 {
-display:inline;
+display: inline;
 }
 .appearOff
 {
-display:none;
+display: none;
 }
 .mettreEnItalique
 {
-font-style:italic;
+font-style: italic;
 }
 .mettreEnGras
 {
-font-weight:bold;
+font-weight: bold;
 }
 .mettreAuCentre
 {
-text-align:center;
+text-align: center;
+}
+.normalfish
+{
+font-size: 1em;
 }
 .bigfish
 {
-font-size:3.5em;
-}
-.verybigfish
-{
-font-size:4.0em;
-text-align:center;
+font-size: 1.2em;
 }
 .checkOn
 {
-text-decoration:line-through;
+text-decoration: line-through;
 }
 .checkOff
 {
-text-decoration:off;
+text-decoration: off;
 }
 table
 {
-border-style:inset;
+border-style: inset;
 }
 thead
 {
-font-weight:bold;
-border-style:inset;
+font-weight: bold;
+border-style: inset;
 }
 th
 {
-font-weight:bold;
-border-style:inset;
+font-weight: bold;
+border-style: inset;
 }
 td
 {
-border-style:inset;
+border-style: inset;
 }
 .big-btn
 {
-height:70px;
+height: 70px;
 }
 .violet
 {
-color:rgb(100,0,100);
+color: rgb(100,0,100);
 }
 .blanc
 {
-color:rgb(255,255,255);
+color: rgb(255,255,255);
 }
 .break
 {
-page-break-before:always;
+page-break-before: always;
 }
 .imageADroite
 {
-float:right;
+float: right;
 }
 /* double size checkbox, credits to jdw from stackoverflow.com/questions/306924/checkbox-size */
 input[type=checkbox]
@@ -105,7 +96,6 @@ input[type=checkbox]
 body
 {
 margin: 1;
-font-size: 1.5em;
 }
 .header
 {
@@ -125,4 +115,8 @@ text-align: center;
 color: #000;
 padding-top: 5px;
 width: 100%;
+}
+html
+{
+font-size: 1em
 }
