@@ -3,6 +3,56 @@
 <livre>
 
  <tableau>
+  <molecule> Mavik (trandolapril)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
+  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
+  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
+  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Metformin</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Passage placentaire à terme entraînant des concentrations foetales identiques ou supérieures à celle de la mère. Cependant, le metformin ne modifie pas le transport placentaire du glucose.</grossesse1>
+  <grossesse2> Environ 500 expositions au premier trimestre dans le traitement du diabète ou du syndrome des ovaires polykystiques sans augmentation du taux de malformations foetales.</grossesse2>
+  <grossesse3> Diminution du nombre d'avortements spontanées au premier trimestre et de diabète gestationnel lors du traitement de l'infertilité par metformin chez des femmes atteintes de syndrome des ovaires polykystiques.</grossesse3>
+  <grossesse4> Une étude a montré un taux plus élevé de prééclampsie et de mortalité périnatale (pour les femmes traitées au troisième trimestre) chez 50 femmes traitées par metformin comparées à des femmes traitées par une sulfonylurée ou par l'insuline. Dans cette étude, les femmes traitées par metformin étaient significativement plus obèses. Ces résultats n'ont pas été retrouvés dans une étude chez 93 femmes traitées par metformin ayant des facteurs de risque similaires aux femmes de la première étude (obésité et mauvais contrôle glycémique).</grossesse4>
+  <grossesse5> Développement moteur et social normal à 3 et 6 mois chez 111 enfants dont les mères étaient par metformin pendant toute la grossesse.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Le metformin n'est pas un traitement de premier recours pendant la grossesse en raison d'un meilleur contrôle de la glycémie par l'insuline pendant cette période. En pratique, le metformin peut être utilisé en association avec l'insuline lorsque l'insuline seule ne permet pas un contrôle glycémique adéquat.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 129 Da. Liaison protéique minimale. </allaitement1>
+  <allaitement2> Absorption orale: 50 à 60 %. Temps de demi-vie: 1.5 à 6 h.</allaitement2>
+  <allaitement3> Passage dans le lait maternel au maximum de 0.65 % de la dose maternelle ajustée au poids chez 17 femmes traitées par des doses moyennes de 500 à 1500 mg/jour.</allaitement3>
+  <allaitement4> Niveaux sériques mesurés:</allaitement4>
+  <allaitement5> - chez 4 enfants allaités dont les mères prenaient en moyenne 1500 mg de metformin par jour, niveau sérique indétectable chez 2 enfants (moins de 10 mcg/L) et 10 et 15 % des niveaux sériques maternels mesurés chez deux autres enfants;</allaitement5>
+  <allaitement6> - chez deux enfants de 2 et 14 mois dont les mères prenaient 500 mg 2 fois par jour: niveaux sériques indétectables (moins de 5 mcg/L).</allaitement6>
+  <allaitement7> La glycémie de 3 enfants allaités par des mères était dans les valeurs normales.</allaitement7>
+  <allaitement8> Pas d'effet secondaire chez 74 enfants allaités dont les mères étaient traitées par metformin (aucune donnée sur les doses maternelles et l'âge des enfants).</allaitement8>
+  <allaitement9> Une étude prospective de suivi de 61 enfants allaités et 50 enfants prenant du lait commercial n'a montré aucune différence à 3 et 6 mois en terme de développement moteur et social, de taille, de poids et état général.</allaitement9>
+  <recommandationallaitement> Parmi les antidiabétiques oraux, le metformin est l'agent de premier recours pendant l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Methyldopa</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Études animales: pas d'effet tératogène observé chez trois espèces.</grossesse1>
@@ -75,6 +125,156 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Micardis (telmisartan)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
+  <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
+  <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
+  <grossesse4> L'utilisation des ARA durant les deuxième et troisième trimestres est associée à de l'insuffisance rénale, de l'hypophasie pulmonaire et crânienne, des contractures des membres et de la mortalité in utero et néonatale.</grossesse4>
+  <grossesse5> Notification de cas associant les ARA à des effets similaires à ceux observés avec les IECA.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'utilisation des ARA n'est pas recommandée durant la grossesse. En cas d'exposition durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Aucune donnée sur le passage dans le lait maternel n'a été retrouvée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Privilégier un IECA si possible, car le passage dans le lait a été évalué pour plusieurs d'entre eux.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Midamor (amiloride)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Étude de surveillance: 28 cas d'exposition à l'amiloride au premier trimestre, 2 anomalies observées.</grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Il est préférable de ne pas utiliser les diurétiques pendant la grossesse, car ils n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire. L'utilisation du triamterene est associée à une augmentation du taux d'anomalies congénitales et un suivi échographique détaillé est recommandé lors d'une exposition au premier trimestre de la grossesse.</recommandationgrossesse>
+  <allaitement1> Aucune donnée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Préférer l'utilisation de la spironolactone si un diurétique épargneur de potassium doit être utilisé.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Mirapex (pramipexole)</molecule>
+  <indication> Syndrome des jambes sans repos</indication>
+  <grossesse1> 1) Données animales: pas d'effet tératogène identifié chez deux espèces animales. Diminution des taux d'implantation et augmentation de l'incidence des résorptions totales chez le rat pour des doses supérieures aux doses humaines: effet attribué à la diminution de prolactine, hormone nécessaire à l'implantation chez le rat mais pas chez l'humain.</grossesse1>
+  <grossesse2> 2) Patiente traitée par pramipexole pour maladie de Parkinson pendant toute la grossesse à la dose de 4.5 mg par jour. Naissance d'un enfant à terme et en santé avec une évaluation à l'âge de 6 mois ne montrant pas d'anomalies.</grossesse2>
+  <grossesse3> 3) Une étude observationnelle publiée sous forme de résumé a recensé 8 patientes traitées par pramipexole, période d'exposition inconnue: 1 avortement spontané et 7 enfants en santé.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Le pramipexole n'a pas été suffisamment documenté pour évaluer leur risque tératogène. Son utilisation n'est pas recommandée durant la grossesse.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Monitan (acebutolol)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Cardiosélectif avec activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effets tératogène observé chez deux espèces animales.</grossesse2>
+  <grossesse3> Étude rapportant 56 nouveau-nés exposés à l'acebutolol dont 6 au premier trimestre; pas de malformations chez ces enfants.</grossesse3>
+  <grossesse4> Chez dix nouveau-nés exposés à l'acebutolol près de l'accouchement, on a observé plus de bradycardie, d'hypotension et d'hypoglycémie transitoires par rapport à un groupe de nouveau-nés exposés à la méthyldopa.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
+  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0.9 à 3.6 % (plus élevé si on ajoute le métabolite actif)</allaitement1>
+  <allaitement2> Effets de beta-blocage observé chez des nourrissons de mères recevant de l'acebutolol à des doses de 400 mg par jour.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Monocor (bisoprolol)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effet tératogène observé chez deux espèces animales.</grossesse2>
+  <grossesse3> Notification d'un cas de malformations associées: fente labio-palatine, hypertélorisme chez un bébé exposé au bisoprolol, sumatriptan, et naproxène lors des cinq premières semaines de gestation.</grossesse3>
+  <grossesse4> Aucune étude épidémiologique durant la grossesse n'a été retrouvée.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
+  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: aucune donnée...</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Monopril (fosinopril)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
+  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
+  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
+  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Quantité non détectable dans le lait hhumain selon le fabricant. </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
  </tableau>
 
  <tableau>

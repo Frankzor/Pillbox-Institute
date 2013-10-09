@@ -53,6 +53,31 @@
  </tableau>
 
  <tableau>
+  <molecule> Capoten (captopril)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
+  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
+  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
+  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Dose reçue par l'enfant par le lait maternel estimée à moins de 1 % de la dose pédiatrique. Aucun effet indésirable rapporté chez les nourrissons allaités (n=12).</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Captopril</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -75,6 +100,81 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Cardizem (diltiazem)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Malformations squelettiques rapportées chez les animaux avec des doses supérieures aux doses humaines.</grossesse1>
+  <grossesse2> Étude de surveillance comptant 27 nouveau-nés exposés au premier trimestre: 14 % de malformations majeures dont 2 malformations cardiaques.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> Utilisation comme agent tocolytique rapportée.</grossesse4>
+  <grossesse5> Une étude de cohorte comptant 78 femmes enceintes traitées avec un bloqueur des canaux calciques pendant le premier trimestre, la majorité avec la nifedipine (44 %) ou le verapamil (41 %), et les autres avec du diltiazem, de la nimodipine ou de.la felodipine: pas d'augmentation du taux de malformations majeures par rapport au groupe témoin. Le taux de prématurité et le poids à la naissance étaient plus faibles dans le groupe traité avec les bloqueurs de canaux calciques. </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
+  <allaitement1> Dose reçue par l'enfant estimée à moins de 1 % de la dose maternelle ajustée au poids (un seul cas rapporté).</allaitement1>
+  <allaitement2> Risque théorique d'hypotension et de bradycardie.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Il est préférable d'utiliser la nifedipine. Toutefois, la quantité de verapamil et de diltiazem reçue par l'enfant par le lait maternel est faible et risque peu de produire des effets secondaires.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Catapres (clonidine)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Études animales: pas d'effets tératogène observé ni chez le rat ni chez le lapin; toxicité développementale notée chez la souris mais à des doses entraînant une toxicité maternelle et très supérieures à celles utilisées chez l'homme.</grossesse1>
+  <grossesse2> Pas d'augmentation du taux de malformations majeures chez 59 nouveau-nés exposées à la clonidine durant le premier trimestre.</grossesse2>
+  <grossesse3> La clonidine (n=47) et la méthyldopa (n=48) ont été étudiées chez des femmes hypertendues aux deuxième et troisième trimestres. On n'a pas noté de différence dans le contrôle de l'hypertension, la morbidité maternelle et la mortalité et morbidité foetales.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La clonidine est moins étudiée que la méthyldopa. (Par contre, la clonidine est préférée au méthyldopa en cas d'hypertension sévère à cause du long début d'action de la méthyldopa, qui est de 12 à 48 heures...) Utiliser au besoin lors d'justement du traitement antihypertenseur en combinaison avec d'autres agents. </recommandationgrossesse>
+  <allaitement1> Passage dans le lait estimé à 7 à 8 % de la dose maternelle ajustée au poids; aucun effet indésirable n'a été rapporté chez les nourrissons (n=13).</allaitement1>
+  <allaitement2> Les concentrations sériques mesurées chez 9 enfants allaités correspondent environ à 66 % des niveaux maternels simultanés, sans effets indésirables chez les enfants.</allaitement2>
+  <allaitement3> Risque théorique d'hypotension et de diminution de production lactée par diminution de sécrétion de prolactine (non rapporté).</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Passage dans le lait maternel plus élevé que la methyldopa. Toutefois, la clonidine peut être utilisée comme traitement d'appoint au besoin avec d'autres antihypertenseurs.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Chlorpropramide</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Passage placentaire connu chez l'humain.</grossesse5>
+  <grossesse6> Pas d'augmentation du taux de malformations majeures chez 59 femmes traitées par le chlorpropramide au premier trimestre.</grossesse6>
+  <grossesse7> Quatre cas rapportés de malformations foetales qui pourraient être attribuées au chlorpropramide. On ne connaît pas les doses ni les périodes d'exposition foetale.</grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 277 Da.</allaitement1>
+  <allaitement2> Liaison protéique: 60 à 90 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 33 h.</allaitement3>
+  <allaitement4> Après une dose de 500 mg, 10.5 % de la dose maternelle ajustée au poids est retrouvée dans le lait maternel (nombre de femmes dans l'étude non connu).</allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Non recommandé pendant l'allaitement.</recommandationallaitement>
  </tableau>
 
  <tableau>
@@ -201,5 +301,80 @@
   <allaitement9> </allaitement9>
   <recommandationallaitement> </recommandationallaitement>
  </tableau>
+
+ <tableau>
+  <molecule> Corgard (nadolol)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Non cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effet tératogène observé chez trois espèces animales.</grossesse2>
+  <grossesse3> Pas d'augmentation du taux de malformations majeures dans une étude de surveillance rapportant 71 nouveau-nés exposés durant le premier trimestre de la grossesse.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Coversyl (perindopril)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
+  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
+  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
+  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Aucune donnée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Cozaar (losartan)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
+  <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
+  <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
+  <grossesse4> L'utilisation des ARA durant les deuxième et troisième trimestres est associée à de l'insuffisance rénale, de l'hypophasie pulmonaire et crânienne, des contractures des membres et de la mortalité in utero et néonatale.</grossesse4>
+  <grossesse5> Notification de cas associant les ARA à des effets similaires à ceux observés avec les IECA.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'utilisation des ARA n'est pas recommandée durant la grossesse. En cas d'exposition durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Aucune donnée sur le passage dans le lait maternel n'a été retrouvée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Privilégier un IECA si possible, car le passage dans le lait a été évalué pour plusieurs d'entre eux.</recommandationallaitement>
+  </tableau>
 
 </livre>

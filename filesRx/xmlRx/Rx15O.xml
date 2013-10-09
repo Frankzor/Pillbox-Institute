@@ -3,6 +3,56 @@
 <livre>
 
  <tableau>
+  <molecule> Orinase (tolbutamide)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Augmentation du taux de malformations ophtalmiques et du système nerveux central, effet embryotoxique direct, malformations, retard de croissance et mort in utero dans les études animales.</grossesse5>
+  <grossesse6> En fin de grossesse chez le foetus, concentrations sériques supérieures aux concentrations maternelles.</grossesse6>
+  <grossesse7> Sept cas rapportés de malformations foetales chez des enfants exposés in utero sans présence claire de patron de malformations impliquant le traitement. Onze études n'ont pas montré d'augmentation du taux de malformations foetales par rapport au taux de base. Cependant, on ne connaît pas les périodes d'exposition pendant la grossesse.</grossesse7>
+  <grossesse8> Dix-sept femmes exposées au premier trimestre avec des issues de grossesse favorables.</grossesse8>
+  <grossesse9> Complications néonatales: thrombocytopénies et hypoglycémies néonatales décrites notamment chez le prématuré. Cependant, la période d'exposition n'est pas indiquée.</grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 270 Da.</allaitement1>
+  <allaitement2> Liaison protéique: 93 %.</allaitement2>
+  <allaitement3> Absorption orale complète.</allaitement3>
+  <allaitement4> Temps de demi-vie: 4 à 9 h.</allaitement4>
+  <allaitement5> Chez 2 femmes ayant pris une dose de 500 mg 2 fois par jour de tolbutamide, 4 h après la dose maternelle. Passage dans le lait maternel de 15 % de la dose maternelle ajustée au poids.</allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Non recommandé pendant l'allaitement. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Orlistat</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Études animales controversées: </grossesse1>
+  <grossesse2> - Pas d'effet sur la fertilité ni d'effet tératogène chez deux espèces à des doses supérieures à la dose humaine recommandée.</grossesse2>
+  <grossesse3> - Cependant, 2 études sur 4 chez le rat montrent une augmentation du taux de dilatation des ventricules cérébraux.</grossesse3>
+  <grossesse4> Aucune donnée humaine retrouvée dans la littérature médicale.</grossesse4>
+  <grossesse5> Trois études ont émis l'hypothèse que la perte de poids ou un gain de poids trop faible pendant la grossesse pourrait être lié à des anomalies chez le foetus notamment au niveau du tube neural.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La prise d'orlistat n'est pas recommandée pendant la grossesse. Un suivi échographique doit être effectué lors de la prise à plus long terme notamment lorsqu'elle est associée à une perte de poids en début de grossesse.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 496 Da.</allaitement1>
+  <allaitement2> Absorption orale inférieure à 5 %.</allaitement2>
+  <allaitement3> Aucune information rapportée concernant l'utilisation de l'orlistat pendant l'allaitement. </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Non recommandé pendant l'allaitement en raison du manque de données. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Oxprenolol</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Non cardiosélectif, mais avec activité sympathomimétique intrinsèque</grossesse1>

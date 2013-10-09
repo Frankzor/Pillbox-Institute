@@ -42,7 +42,7 @@ DG.TableOfContents = new Class({
 	toTop : {
 		depth : 3,
 		enabled : true,
-		txt : 'Index'
+		txt : ''
 	}, 
 	numbering : {
 		enabled : false,
@@ -52,7 +52,7 @@ DG.TableOfContents = new Class({
 		formatObj : null
 	},
 	 
-	heading : 'Index',
+	heading : '',
 	depth : 4,
 
 	currentNumberingValues : [null, 0,0,0,0,0,0],

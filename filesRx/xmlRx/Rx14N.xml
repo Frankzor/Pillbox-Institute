@@ -28,6 +28,56 @@
  </tableau>
 
  <tableau>
+  <molecule> Nateglinide</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Pas d'effet tératogène chez le rat.</grossesse1>
+  <grossesse2> Passage placentaire chez le rat.</grossesse2>
+  <grossesse3> En fin de gestation chez le rat, une diminution du poids de la progéniture a été observée à des doses supérieures à la dose humaine recommandée.</grossesse3>
+  <grossesse4> Chez le lapin, on a noté une incidence accrue d'agénésie vésiculaire ou de vésicule biliaire de petite taille à une dose toxique chez la mère.</grossesse4>
+  <grossesse5> Un seul cas rapporté d'une femme traitée pendant les 24 premières semaines de sa grossesse par pravastatin, metformin et nateglinide, puis par insuline au diagnostic de la grossesse. Naissance d'un bébé en santé.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Non recommandé pendant la grossesse en raison du manque de données humaines.</recommandationgrossesse>
+  <allaitement1> Liaison protéique: 97 à 99 %.</allaitement1>
+  <allaitement2> Absorption orale: 75 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 1.25 à 3 h.</allaitement3>
+  <allaitement4> Aucune information rapportée concernant l'utilisation de nateglinide ou de repaglinide pendant l'alaitement.</allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les metiglinides ne sont pas recommandés pendant l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Neurontin (gabapentine)</molecule>
+  <indication> Syndrome des jambes sans repos, épilepsie</indication>
+  <grossesse1> 261 grossesses exposées à la gabapentine en monothérapie dans une compilation de séries de cas, d'études et de registres, sans risque accru de malformations majeures.</grossesse1>
+  <grossesse2> Quatre registres récents cumulent au total 129 grossesses exposées (surtout polythérapie, sans risque accru de malformations majeures).</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les données sont limitées pour évaluer les risques. Une utilisation peut être envisagée après le premier trimestre en cas de symptômes graves ne répondant pas aux traitements de premier recours, en particulier en présence de douleurs associées ou de mouvements périodiques des jambes durant le sommeil.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Nifedipine</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Anomalies digitales chez deux espèces animales et autres anomalies diverses (malformations squelettiques, fentes palatines) chez trois espèces animales à doses similaires ou supérieures à celles utilisées chez l'humain.</grossesse1>
@@ -50,6 +100,81 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> Compatible avec l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Norvasc (amlodipine)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Pas d'effet tératogène observé chez deux espèces animales.</grossesse1>
+  <grossesse2> Pas de données retracées chez l'humain.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
+  <allaitement1> Absence de données, longue demi-vie d'élimination chez l'adulte (30 à 50 heures) donc risque théorique d'accumulation et d'effets indésirables chez le nourrisson.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Il est préférable d'utiliser la nifedipine.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Novolin Toronto ou NPH [insuline humaine (régulière, NPH, lente, ultralente)]</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Pas de passage transplacentaire.</grossesse1>
+  <grossesse2> L'insuline permet un contrôle glycémique adéquat chez les femmes diabétiques de type 1 ou 2 et chez les femmes présentant un diabète gestationnel non contrôlé par la diète seule. Il a été montré dans de nombreuses études que le contrôle glycémique pendant la période préconceptionnelle et la grossesse permettait de réduire de manière significative le taux de malformations et de complications maternelles et foetales.</grossesse2>
+  <grossesse3> Bonne expérience clinique avec l'insuline humaine.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'insuline humaine est le traitement de premier recours du diabète chez la femme enceinte.</recommandationgrossesse>
+  <allaitement1> Poids moléculaires supérieurs à 6000 Da.</allaitement1>
+  <allaitement2> L'insuline est détruite dans le tractus gastro-intestinal de l'enfant.</allaitement2>
+  <allaitement3> Aucune étude sur le passage de l'insuline dans le lait maternel de femmes diabétiques traitées par insuline.</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'insuline est le traitement de premier recours lors de l'allaitement. La surveillance de la glycémie maternelle est essentielle pendant le traitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Novorapid (insuline aspart)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Une seule étude regroupant 157 femmes exposées pendant toute leur grossesse: pas d'augmentation du risque de malformations, de mortalité et de complications maternelles et foetales par rapport à l'insuline régulière. Les hypoglycémies sévères avec l'insuline aspart étaient significativement plus faibles qu'avec l'insuline régulière pour des valeurs d'HbA1c similaires.</grossesse1>
+  <grossesse2> Étude d'efficacité de l'insuline aspart sur le contrôle glycémique chez 15 femmes traitées pour un diabète gestationnel. Les issues de grossesse sont non specifiées.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> En pratique, malgré une expérience moindre et des données limitéss, l'insuline aspart est utilisée pendant la grossesse du fait de l'amélioration du profil glycémique qu'elle procure par rapport à une insuline régulière.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 5826 Da.</allaitement1>
+  <allaitement2> Temps de demi-vie: 81 min.</allaitement2>
+  <allaitement3> Aucune étude sur le passage des analogues insuliniques dans le lait maternel de femmes diabétiques traitées par insuline.</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Il n'existe aucune donnée dans la littérature médicale sur l'utilisation des analogues insuliniques pendant l'allaitement. Cependant, au regard des données pharmacocinétiques et de la destruction de l'insuline dans le tractus gastro-intestinal, leur utilisation semble sécuritaire. La surveillance de la glycémie maternelle est essentielle pendant le traitement.</recommandationallaitement>
  </tableau>
 
 </livre>

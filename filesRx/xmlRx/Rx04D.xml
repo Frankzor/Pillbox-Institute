@@ -3,6 +3,106 @@
 <livre>
 
  <tableau>
+  <molecule> Diabeta (glyburide)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Très faible passage transplacentaire (3.9 %) de la molécule en comparaison des autres sulfonylurées et faible modification du transfert de glucose dans des études in vivo. Le glyburide était indétectable dans le sang de cordon chez 201 femmes exposées entre la onzième et la trente-troisième semaine de grossesse.</grossesse5>
+  <grossesse6> Bon contrôle glycémique chez plus de 500 femmes traitées pour un diabète gestationnel par glyburide comparé à l'insuline humaine régulière. Une étude chez 201 femmes n'a pas montré de différence au niveau néonatal en terme de poids de naissance, de macrosomies, de malformations, de polycythémies, d'hyperbilirubinémies, d'hypoglycémies, d'hypocalcémie, de détresse respiratoire, de transfert des nouveau-nés aux soins intensifs et de mortalité périnatale. Cependant...</grossesse6>
+  <grossesse7> - augmentation du nombre d'hypoglycémies et de détresses respiratoires néonatales dans une étude chez 101 femmes exposées;</grossesse7>
+  <grossesse8> - augmentation du taux de prééclampsie et de recours à la photothérapie chez les enfants dans une étude regroupant 236 femmes exposées entre la douxième et la trente-quatrième semaine;</grossesse8>
+  <grossesse9> - chez 44 femmes traitées par glyburide avec des élévations marquées des tests d'hyperglycémie provoquée par voie orale et des glycémies à jeun avant traitement, le risque de macrosomie était plus élevé comparé aux femmes traitées par insuline.</grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 494 Da.</allaitement1>
+  <allaitement2> Liaison protéique supérieure à 99 %.</allaitement2>
+  <allaitement3> Absorption orale complète.</allaitement3>
+  <allaitement4> Temps de demi-vie: 5 à 10 h.</allaitement4>
+  <allaitement5> Chez 7 femmes ayant reçu une dose unique de 5 à 10 mg, les niveaux mesurés dans le lait maternel étaient indétectables (moins de 5 mcg/L) entre 2 et 8 h après la dose. Passage dans le lait maternel de moins de 1.5 % de la dose maternelle ajustée au poids.</allaitement5>
+  <allaitement6> Taux de glyburide indétectable (moins de 80 mcg/L) dans le lait maternel de 2 femmes traitées par 5 mg/jour de glyburide. Le seuil de détection de l'étude était trop élevé pour pouvoir conclure à l'absence de passage dans le lait maternel.</allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Le glyburide n'est pas un agent de premier recours pendant l'allaitement. Le glyburide est la sulfonylurée pour laquelle on a le plus de données et pourrait être utilisé si un bon contrôle glycémique avec l'insuline ou le metformin n'est pas atteint.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Diabinese (chlorpropramide)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Passage placentaire connu chez l'humain.</grossesse5>
+  <grossesse6> Pas d'augmentation du taux de malformations majeures chez 59 femmes traitées par le chlorpropramide au premier trimestre.</grossesse6>
+  <grossesse7> Quatre cas rapportés de malformations foetales qui pourraient être attribuées au chlorpropramide. On ne connaît pas les doses ni les périodes d'exposition foetale.</grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 277 Da.</allaitement1>
+  <allaitement2> Liaison protéique: 60 à 90 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 33 h.</allaitement3>
+  <allaitement4> Après une dose de 500 mg, 10.5 % de la dose maternelle ajustée au poids est retrouvée dans le lait maternel (nombre de femmes dans l'étude non connu).</allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Non recommandé pendant l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Diamicron (gliclazide)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Pas d'effet tératogène chez deux espèces.</grossesse5>
+  <grossesse6> Un seul cas d'exposition rapporté d'une femme traitée par gliclazide, rosiglitazone et atorvastatin pendant les huit premières semaines de sa grossesse. Naissance d'un bébé en santé.</grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Absorption orale: 80 %.</allaitement1>
+  <allaitement2> Liaison aux protéines: 85 à 99 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 8 à 12 h.</allaitement3>
+  <allaitement4> Aucune information rapportée concernant l'utilisation du gliclazide pendant l'allaitement.</allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Non recommandé pendant l'allaitement. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Dilaudid (hydromorphone)</molecule>
+  <indication> Syndrome des jambes sans repos</indication>
+  <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (12 expositions au premier trimestre à l'hydromorphone).</grossesse1> 
+  <grossesse2> </grossesse2>
+  <grossesse3> Opiacés associés à un risque de syndrome de sevrage chez les bébés à la naissance. Symptômes de sevrage (perturbation du système nerveux central [par exemple, tremblements, température instable, pleurs et sursauts spontanés] et du système gastro-intestinal [par exemple, difficulté à s'alimenter, vomissements] pris en charge par des mesures allant d'un simple emmaillotement à l'administration d'un traitement pharmacologique de courte durée pour les cas plus graves (par exemple, faibles doses de morphine).</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Un traitement par un opiacé est possible au cours de la grossesse. La codeine est à privilégier au premier trimestre, étant plus documentée chez la femme enceinte. D'autres opiacés pourraient être utilisés selon le jugement clinique; l'utilisation d'un opiacé ayant une structure similaire à celle de la codeine pourrait alors être privilégiée. Lors d'une utilisation répétée en fin de grossesse, suivi plus étroit nécessaire chez le nouveau-né dans les premiers jours de vie.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Diltiazem</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Malformations squelettiques rapportées chez les animaux avec des doses supérieures aux doses humaines.</grossesse1>
@@ -25,6 +125,81 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> Il est préférable d'utiliser la nifedipine. Toutefois, la quantité de verapamil et de diltiazem reçue par l'enfant par le lait maternel est faible et risque peu de produire des effets secondaires.</recommandationallaitement>
+ </tableau>
+ 
+ <tableau>
+  <molecule> Diovan (valsartan)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
+  <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
+  <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
+  <grossesse4> L'utilisation des ARA durant les deuxième et troisième trimestres est associée à de l'insuffisance rénale, de l'hypophasie pulmonaire et crânienne, des contractures des membres et de la mortalité in utero et néonatale.</grossesse4>
+  <grossesse5> Notification de cas associant les ARA à des effets similaires à ceux observés avec les IECA.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'utilisation des ARA n'est pas recommandée durant la grossesse. En cas d'exposition durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Aucune donnée sur le passage dans le lait maternel n'a été retrouvée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Privilégier un IECA si possible, car le passage dans le lait a été évalué pour plusieurs d'entre eux.</recommandationallaitement>
+  </tableau>
+ 
+ <tableau>
+  <molecule> Dostinex (cabergoline)</molecule>
+  <indication> Syndrome des jambes sans repos</indication>
+  <grossesse1> 1) La majorité des données concernent des patientes traitées pour améliorer la fertilité lors d'hyperprolactinémie avec un traitement discontinué une fois la grossesse connue: plus de 700 femmes traitées dans différentes études, sans risque accru observé de malformations majeures, avortement spontané ou autres issues défavorables.</grossesse1>
+  <grossesse2> 2) Deux études ont évalué le développement des enfants à long terme, sans preuve d'atteinte.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les données sur la cabergoline n'indiquent pas un risque augmenté de malformations majeure lorsque le traitement est cessé tôt durant la grossesse. Les données sont trop limitées pour conclure sur son innocuité si le traitement est poursuivi durant toute la grossesse. Ainsi, son utilisation ne sera pas recommandée durant la grossesse.</recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+ 
+ <tableau>
+  <molecule> Dyrenium (triamterene)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Antagoniste des folates.</grossesse1>
+  <grossesse2> Étude de surveillance: 318 expositions au triamterene durant le premier trimestre avec 4.7 % d'anomalies majeures.</grossesse2>
+  <grossesse3> Association entre une exposition aux antagonistes des folates au premier trimestre et diverses anomalies congénitales telles que des anomalies du tube neural, des malformations cardiovasculaires et des fentes palatines rapportée dans plusieurs études; risque diminué en présence d'acide folique.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Il est préférable de ne pas utiliser les diurétiques pendant la grossesse, car ils n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire. L'utilisation du triamterene est associée à une augmentation du taux d'anomalies congénitales et un suivi échographique détaillé est recommandé lors d'une exposition au premier trimestre de la grossesse.</recommandationgrossesse>
+  <allaitement1> Aucune donnée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Préférer l'utilisation de la spironolactone si un diurétique épargneur de potassium doit être utilisé.</recommandationallaitement>
  </tableau>
  
 </livre>

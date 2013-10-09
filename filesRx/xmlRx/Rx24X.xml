@@ -3,28 +3,28 @@
 <livre>
 
  <tableau>
-  <molecule> </molecule>
-  <indication> </indication>
-  <grossesse1> </grossesse1>
-  <grossesse2> </grossesse2>
-  <grossesse3> </grossesse3>
-  <grossesse4> </grossesse4>
-  <grossesse5> </grossesse5>
+  <molecule> Xenical (orlistat)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Études animales controversées: </grossesse1>
+  <grossesse2> - Pas d'effet sur la fertilité ni d'effet tératogène chez deux espèces à des doses supérieures à la dose humaine recommandée.</grossesse2>
+  <grossesse3> - Cependant, 2 études sur 4 chez le rat montrent une augmentation du taux de dilatation des ventricules cérébraux.</grossesse3>
+  <grossesse4> Aucune donnée humaine retrouvée dans la littérature médicale.</grossesse4>
+  <grossesse5> Trois études ont émis l'hypothèse que la perte de poids ou un gain de poids trop faible pendant la grossesse pourrait être lié à des anomalies chez le foetus notamment au niveau du tube neural.</grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> </recommandationgrossesse>
-  <allaitement1> </allaitement1>
-  <allaitement2> </allaitement2>
-  <allaitement3> </allaitement3>
+  <recommandationgrossesse> La prise d'orlistat n'est pas recommandée pendant la grossesse. Un suivi échographique doit être effectué lors de la prise à plus long terme notamment lorsqu'elle est associée à une perte de poids en début de grossesse.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 496 Da.</allaitement1>
+  <allaitement2> Absorption orale inférieure à 5 %.</allaitement2>
+  <allaitement3> Aucune information rapportée concernant l'utilisation de l'orlistat pendant l'allaitement. </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> </recommandationallaitement>
+  <recommandationallaitement> Non recommandé pendant l'allaitement en raison du manque de données. </recommandationallaitement>
  </tableau>
 
 </livre>

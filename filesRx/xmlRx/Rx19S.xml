@@ -3,6 +3,56 @@
 <livre>
 
  <tableau>
+  <molecule> Sectral (acebutolol)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Cardiosélectif avec activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effets tératogène observé chez deux espèces animales.</grossesse2>
+  <grossesse3> Étude rapportant 56 nouveau-nés exposés à l'acebutolol dont 6 au premier trimestre; pas de malformations chez ces enfants.</grossesse3>
+  <grossesse4> Chez dix nouveau-nés exposés à l'acebutolol près de l'accouchement, on a observé plus de bradycardie, d'hypotension et d'hypoglycémie transitoires par rapport à un groupe de nouveau-nés exposés à la méthyldopa.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labetalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
+  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0.9 à 3.6 % (plus élevé si on ajoute le métabolite actif)</allaitement1>
+  <allaitement2> Effets de beta-blocage observé chez des nourrissons de mères recevant de l'acebutolol à des doses de 400 mg par jour.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Sinemet [levodopa (avec ou sans carbidopa)]</molecule>
+  <indication> Syndrome des jambes sans repos</indication>
+  <grossesse1> Levodopa: 1) 31 femmes enceintes traitées par levodopa dans une étude observationnelle publiée sous forme de résumé. 30 ont été traitées au moins au premier trimestre et 10 ont continué le traitement pendant toute la grossesse: pas de malformations majeures identifiées parmi les 24 naissances vivantes.</grossesse1>
+  <grossesse2> Levodopa: 2) Au moins 50 rapports d'expositions pour la prise en charge de Parkinson ou du syndrome de Segawa. Périodes d'exposition pas toujours spécifiées, mais dans la majorité des cas, traitements des patientes pendant toute la grossesse: 41 enfants sans anomalies identifiées, 4 avortements spontanées et 3 enfants avec malformations (toutes différentes). Un cas de complication néonatale avec convulsions à une heure de vie et pneumonie (lien de causalité non déterminé).</grossesse2>
+  <grossesse3> Levodopa: 3) 6 femmes ayant reçu la levodopa au cours du deuxième ou troisième trimestre en dose unique ou sur quelques jours: enfants sans anomalies rapportées.</grossesse3>
+  <grossesse4> Cardidopa: 1) Au total, 25 femmes exposées pendant la grossesse, toutes en association à la levodopa (cas inclus dans les données levodopa), aucun cas de malformation majeure parmi les naissances, au moins 3 avortements spontanées.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les données disponibles restent trop limitées pour évaluer clairement les risques.</recommandationgrossesse>  
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Spironolactone</molecule>
   <indication> Hypertension, acné</indication>
   <grossesse1> Premièrement, la spironolactone démontre des propriétés antiandrogéniques en agissant comme un antagoniste des récepteurs androgéniques et en inhibant l'enzyme 5-alpha-réductase. Chez les rates gravides exposées à ce médicament, une féminisation des foetus mâles a été notée. Cette observation a amené l'inquiétude d'une virilisation insuffisante chez les garçons exposés in utero. À ce jour, un tel effet n'a pas été rapporté chez l'humain. En fait, les notifications de cas totalisent 3 foetus mâles exposés à la spironolactone durant toute la grosesse sans qu'une virilisation insuffisante ne soit décrite. Une étude de surveillance recueille 31 enfants exposés au premier trimestre de la grossesse, dont 2 malformations majeures (dont 1 attendue).</grossesse1>
@@ -25,6 +75,31 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> Préférer l'utilisation de la spironolactone si un diurétique épargneur de potassium doit être utilisé. La spironolactone est habituellement compatible avec l'allaitement. Si la mère observe une diminution de la production lactée avec la prise du spironolactone, l'arrêt du traitement est recommandé.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Starlix (nateglinide)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Pas d'effet tératogène chez le rat.</grossesse1>
+  <grossesse2> Passage placentaire chez le rat.</grossesse2>
+  <grossesse3> En fin de gestation chez le rat, une diminution du poids de la progéniture a été observée à des doses supérieures à la dose humaine recommandée.</grossesse3>
+  <grossesse4> Chez le lapin, on a noté une incidence accrue d'agénésie vésiculaire ou de vésicule biliaire de petite taille à une dose toxique chez la mère.</grossesse4>
+  <grossesse5> Un seul cas rapporté d'une femme traitée pendant les 24 premières semaines de sa grossesse par pravastatin, metformin et nateglinide, puis par insuline au diagnostic de la grossesse. Naissance d'un bébé en santé.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Non recommandé pendant la grossesse en raison du manque de données humaines.</recommandationgrossesse>
+  <allaitement1> Liaison protéique: 97 à 99 %.</allaitement1>
+  <allaitement2> Absorption orale: 75 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 1.25 à 3 h.</allaitement3>
+  <allaitement4> Aucune information rapportée concernant l'utilisation de nateglinide ou de repaglinide pendant l'alaitement.</allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les metiglinides ne sont pas recommandés pendant l'allaitement.</recommandationallaitement>
  </tableau>
 
 </livre>

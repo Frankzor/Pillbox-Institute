@@ -8,12 +8,19 @@
 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/> 
 -->
 <link rel="stylesheet" type="text/css" href="./js/mystyle.css" />
-<script src="./js/sortableTable.js"></script>
+<script src="./js/ajaxGoogleAPISjQuery.js"></script>
+<script src="./js/stickyNavBar.js"></script>
 <script src="./js/loadXMLdoc.js"></script>
+<script src="./js/goBack.js"></script>
+<script src="./js/magnify.js"></script>
 <title> </title>
 </head>
 <body>
-<h1> M&eacute;dicaments en grossesse et en allaitement</h1>
+<div class="header"><strong> M&eacute;dicaments en grossesse et en allaitement</strong></div>
+<div class="nav">
+<button type="button" class="mettreEnGras" onclick="myFunctiongoBack()">Retour</button>
+<input type="button" class="mettreEnGras"  value="Agrandir" onclick="resizeText()" />
+</div>
 <h2> Table des mati&egrave;res</h2>
 <script>
 var xmlDoc=myFunctionloadXMLdoc("indexRx.xml")

@@ -3,6 +3,32 @@
 <livre>
 
  <tableau>
+  <molecule> Edecrin (ethacrynique, acide)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Pas d'anomalies animales observés avec l'acide éthacrynique (50 fois la dose humaine).</grossesse1>
+  <grossesse2> Pas d'études retrouvées chez l'humain avec l'acide ethacrynique.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Le furosemide peut être utilisé, si requis, dans certaines conditions particulières (oedème pulmonaire, hypertension sévère, insuffisance cardiaque) en utilisant la dose minimale efficace. Les diurétiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
+  <allaitement1> Aucune donnée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Malgré l'absence de données, le furosemide peut être utilisé pendant l'allaitement si nécessaire. Puisque le temps de demi-vie du furosemide est court, la dose pourra être prise immédiatement après un boire pour limiter le passage dans le lait.</recommandationallaitement>
+ </tableau>
+
+
+ <tableau>
   <molecule> Enalapril</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>

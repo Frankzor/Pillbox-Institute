@@ -25,7 +25,82 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> Privilégier un IECA si possible, car le passage dans le lait a été évalué pour plusieurs d'entre eux.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Tenormin (atenolol)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effet tératogène observé chez deux espèces mais effets feototoxiques observés (diminution du poids du placenta et du poids foetal et retard de croissance intra-utérine).</grossesse2>
+  <grossesse3> Étude de surveillance rapportant 105 nouveau-nés exposés à l'atenolol durant le premier trimestre: 11.4% de malformations majeures; pathologies maternelles et médicaments concomitants inconnus.</grossesse3>
+  <grossesse4> Étude rapportant 31 nouveau-nés exposés à l'atenolol dont 5 au premier trimestre: pas de malformations chez ces enfants.</grossesse4>
+  <grossesse5> Revue de douze études chez la femme enceinte et comparaison avec les données animales: retard de croissance intra-utérine, diminution du poids du placenta et diminution du poids de naissance notés dans les études animales et humaines sauf en cas d'exposition durant le premier trimestre seulement.</grossesse5>
+  <grossesse6> Retard de croissance intra-utérine rapporté chez 7 femmes sur 25 traitées avec l'atenolol dans une étude le comparant au vérapamil pour le traitement de l'hypertension gestationnelle (pas de retard de croissance avec vérapamil).</grossesse6>
+  <grossesse7> Complications néonatales: bradycardie et hypoglycémie durant la période postnatale immédiate.</grossesse7>
+  <grossesse8> Développement normal dans quelques études avec de faibles effectifs (suivi entre 1 et 2 ans).</grossesse8>
+  <grossesse9> Notification d'un cas de fibromatose rétropéritonéale.</grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
+   <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 7 à 29 % (13 à 35 % d'une dose pédiatrique)</allaitement1>
+  <allaitement2> Effets indésirables rapportés chez le nourrisson d'une mère recevant 100 mg par jour d'atenolol (bradycardie, cyanose, diminution de température corporelle et hypotension).</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Teveten (eprosartan)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
+  <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
+  <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
+  <grossesse4> L'utilisation des ARA durant les deuxième et troisième trimestres est associée à de l'insuffisance rénale, de l'hypophasie pulmonaire et crânienne, des contractures des membres et de la mortalité in utero et néonatale.</grossesse4>
+  <grossesse5> Notification de cas associant les ARA à des effets similaires à ceux observés avec les IECA.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'utilisation des ARA n'est pas recommandée durant la grossesse. En cas d'exposition durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
+  <allaitement1> Aucune donnée sur le passage dans le lait maternel n'a été retrouvée.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Privilégier un IECA si possible, car le passage dans le lait a été évalué pour plusieurs d'entre eux.</recommandationallaitement>
   </tableau>
+
+ <tableau>
+  <molecule> Tiazac (diltiazem)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Malformations squelettiques rapportées chez les animaux avec des doses supérieures aux doses humaines.</grossesse1>
+  <grossesse2> Étude de surveillance comptant 27 nouveau-nés exposés au premier trimestre: 14 % de malformations majeures dont 2 malformations cardiaques.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> Utilisation comme agent tocolytique rapportée.</grossesse4>
+  <grossesse5> Une étude de cohorte comptant 78 femmes enceintes traitées avec un bloqueur des canaux calciques pendant le premier trimestre, la majorité avec la nifedipine (44 %) ou le verapamil (41 %), et les autres avec du diltiazem, de la nimodipine ou de.la felodipine: pas d'augmentation du taux de malformations majeures par rapport au groupe témoin. Le taux de prématurité et le poids à la naissance étaient plus faibles dans le groupe traité avec les bloqueurs de canaux calciques. </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
+  <allaitement1> Dose reçue par l'enfant estimée à moins de 1 % de la dose maternelle ajustée au poids (un seul cas rapporté).</allaitement1>
+  <allaitement2> Risque théorique d'hypotension et de bradycardie.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Il est préférable d'utiliser la nifedipine. Toutefois, la quantité de verapamil et de diltiazem reçue par l'enfant par le lait maternel est faible et risque peu de produire des effets secondaires.</recommandationallaitement>
+ </tableau>
 
  <tableau>
   <molecule> Timolol</molecule>
@@ -39,7 +114,7 @@
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labetalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
   <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 1 % (oral), 0.4 % (ophtalmique).</allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
@@ -50,6 +125,31 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Tolbutamide</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Augmentation du taux de malformations ophtalmiques et du système nerveux central, effet embryotoxique direct, malformations, retard de croissance et mort in utero dans les études animales.</grossesse5>
+  <grossesse6> En fin de grossesse chez le foetus, concentrations sériques supérieures aux concentrations maternelles.</grossesse6>
+  <grossesse7> Sept cas rapportés de malformations foetales chez des enfants exposés in utero sans présence claire de patron de malformations impliquant le traitement. Onze études n'ont pas montré d'augmentation du taux de malformations foetales par rapport au taux de base. Cependant, on ne connaît pas les périodes d'exposition pendant la grossesse.</grossesse7>
+  <grossesse8> Dix-sept femmes exposées au premier trimestre avec des issues de grossesse favorables.</grossesse8>
+  <grossesse9> Complications néonatales: thrombocytopénies et hypoglycémies néonatales décrites notamment chez le prématuré. Cependant, la période d'exposition n'est pas indiquée.</grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 270 Da.</allaitement1>
+  <allaitement2> Liaison protéique: 93 %.</allaitement2>
+  <allaitement3> Absorption orale complète.</allaitement3>
+  <allaitement4> Temps de demi-vie: 4 à 9 h.</allaitement4>
+  <allaitement5> Chez 2 femmes ayant pris une dose de 500 mg 2 fois par jour de tolbutamide, 4 h après la dose maternelle. Passage dans le lait maternel de 15 % de la dose maternelle ajustée au poids.</allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Non recommandé pendant l'allaitement. </recommandationallaitement>
  </tableau>
 
  <tableau>
@@ -78,6 +178,31 @@
  </tableau>
 
  <tableau>
+  <molecule> Trandate (labetalol)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Bloquant alpha et beta-adrénergique sans activité sympatomimétique intrinsèque.</grossesse1>
+  <grossesse2> Pas d'effet tératogène observé chez deux espèces animales.</grossesse2>
+  <grossesse3> Étude de surveillance: 29 expositions durant le premier trimestre, 4 malformations majeures non précisées.</grossesse3>
+  <grossesse4> Développement physique et mental normal à l'âge de 18 mois chez 50 nouveau-nés exposé in utero pendant 14 jours au troisième trimestre.</grossesse4>
+  <grossesse5> Blocage beta-adrénergique rapporté chez plusieurs nouveau-nés exposés au labetalol en fin de grossesse.</grossesse5>
+  <grossesse6> Notification de deux cas d'épanchement périocardique et d'hypertrophie myocardique après exposition in utero au labetalol.</grossesse6>
+  <grossesse7> L'effet alpha-bloquant de part la diminution de la résistance périphérique pourrait permettre d'avoir une diminution moindre de la perfusion utéro-placentaire par rapport aux autres beta-bloquants.</grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
+  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0 à 0.6 %</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Trandolapril</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -100,6 +225,31 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Trasicor (oxprenolol)</molecule>
+  <indication> Hypertension</indication>
+  <grossesse1> Non cardiosélectif, mais avec activité sympathomimétique intrinsèque</grossesse1>
+  <grossesse2> Aucune étude de tératogénicité chez l'animal n'a été retrouvée.</grossesse2>
+  <grossesse3> Aucun cas d'exposition durant le premier trimestre n'a été retracé dans la littérature médicale.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
+  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: aucune donnée...</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
  </tableau>
 
  <tableau>

@@ -27,4 +27,154 @@
   <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
+ <tableau>
+  <molecule> Gliclazide</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Pas d'effet tératogène chez deux espèces.</grossesse5>
+  <grossesse6> Un seul cas d'exposition rapporté d'une femme traitée par gliclazide, rosiglitazone et atorvastatin pendant les huit premières semaines de sa grossesse. Naissance d'un bébé en santé.</grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Absorption orale: 80 %.</allaitement1>
+  <allaitement2> Liaison aux protéines: 85 à 99 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 8 à 12 h.</allaitement3>
+  <allaitement4> Aucune information rapportée concernant l'utilisation du gliclazide pendant l'allaitement.</allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Non recommandé pendant l'allaitement. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Glimepiride</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Données animales contradictoires:</grossesse5>
+  <grossesse6> - pas d'effet tératogène dans deux espèces;</grossesse6>
+  <grossesse7> - des malformations lors d'exposition après l'organogenèse et une augmentation des morts intra-utérines ont été rapportées chez deux espèces animales et seraient liées aux hypoglycémies maternelles suite à la prise de glimepiride.</grossesse7>
+  <grossesse8> Pas de données humaines retrouvées dans la littérature médicale.</grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 490 Da.</allaitement1>
+  <allaitement2> Liaison protéique supérieure à 99.5 %.</allaitement2>
+  <allaitement3> Absorption orale de 100 %.</allaitement3>
+  <allaitement4> Temps de demi-vie: 6 à 9 h.</allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Non recommandé pendant l'allaitement. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Glucobay (acarbose)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Absorption de moins de 2 % de la dose sous forme active et de plus de 30 % sous forme de métabolites.</grossesse1>
+  <grossesse2> Cinq expositions maternelles au premier trimestre: 2 avortements spontanés et 3 issues de grossesse favorable.</grossesse2>
+  <grossesse3> Six femmes traitées pendant leur grossesse: naissance de 6 bébés en santé (périodes d'expositions non disponibles).</grossesse3>
+  <grossesse4> Un cas rapporté d'une femme traitée pendant les 8 premières semaines de grossesse par acarbose en association avec rosiglitazone, gliclazide, carbamazépine, atorvastatin et de nombreux autres traitements. Les traitements antidiabétiques ont été arrêtés au diagnostic de la grossesse à 8 semaines et l'insulinothérapie a été débutée. Naissance d'un bébé en santé.</grossesse4>
+  <grossesse5> Quarante-cinq femmes traitées pour un diabète gestationnel après 20 semaines comparées à des femmes traitées par insuline: </grossesse5>
+  <grossesse6> - poids de naissance et âge gestationnel à la naissance comparables.</grossesse6>
+  <grossesse7> - pas de malformations ni d'effets indésirables chez les enfants exposés in utero.</grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Non recommandé pendant la grossesse en raison du manque de données humaines. Une exposition en début de grossesse ne nécessite pas de suivi particulier.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 645 Da.</allaitement1>
+  <allaitement2> Absorption orale de l'acarbose: 2 %. </allaitement2>
+  <allaitement3> Absorption orale de ses métabolites: 30 %.</allaitement3>
+  <allaitement4> Temps de demi-vie: 2 h.</allaitement4>
+  <allaitement5> Aucune information rapportée concernant l'utilisation de l'acarbose pendant l'allaitement. </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'acarbose n'est pas recommandé pendant l'allaitement. Malgré le manque de données, le passage dans le lait est probablement faible du fait de l'absorption orale minime.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> GlucoNorm (repaglinide)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Non tératogène chez le rat et le lapin.</grossesse1>
+  <grossesse2> Déformations squelettiques chez les rats exposés in utero après l'organogenèse et pendant l'allaitement. Ces malformations seraient liées, d'après les auteurs, à des effets néfastes du repaglinide sur la croissance et non à un effet tératogène.</grossesse2>
+  <grossesse3> Passage placentaire connu chez l'humain.</grossesse3>
+  <grossesse4> Trois cas rapportés de femmes traitées pendant les 6 ou 7 premières semaines de la grossesse, puis par insuline à partir du diagnostic de grossesse. Naissance de trois bébés en santé. Un des trois enfants a fait une jaunisse nécessitant un jour de photothérapie.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Non recommandé pendant la grossesse en raison de l'absence de données humaines.</recommandationgrossesse>
+  <allaitement1> Liaison protéique: 98 %.</allaitement1>
+  <allaitement2> Absorption orale: 56 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 1 h.</allaitement3>
+  <allaitement4> Poids moléculaire: 453 Da.</allaitement4>
+  <allaitement5> Aucune information rapportée concernant l'utilisation de nateglinide ou de repaglinide pendant l'alaitement. </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les metiglinides ne sont pas recommandés pendant l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Glucophage (metformin)</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Passage placentaire à terme entraînant des concentrations foetales identiques ou supérieures à celle de la mère. Cependant, le metformin ne modifie pas le transport placentaire du glucose.</grossesse1>
+  <grossesse2> Environ 500 expositions au premier trimestre dans le traitement du diabète ou du syndrome des ovaires polykystiques sans augmentation du taux de malformations foetales.</grossesse2>
+  <grossesse3> Diminution du nombre d'avortements spontanées au premier trimestre et de diabète gestationnel lors du traitement de l'infertilité par metformin chez des femmes atteintes de syndrome des ovaires polykystiques.</grossesse3>
+  <grossesse4> Une étude a montré un taux plus élevé de prééclampsie et de mortalité périnatale (pour les femmes traitées au troisième trimestre) chez 50 femmes traitées par metformin comparées à des femmes traitées par une sulfonylurée ou par l'insuline. Dans cette étude, les femmes traitées par metformin étaient significativement plus obèses. Ces résultats n'ont pas été retrouvés dans une étude chez 93 femmes traitées par metformin ayant des facteurs de risque similaires aux femmes de la première étude (obésité et mauvais contrôle glycémique).</grossesse4>
+  <grossesse5> Développement moteur et social normal à 3 et 6 mois chez 111 enfants dont les mères étaient par metformin pendant toute la grossesse.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Le metformin n'est pas un traitement de premier recours pendant la grossesse en raison d'un meilleur contrôle de la glycémie par l'insuline pendant cette période. En pratique, le metformin peut être utilisé en association avec l'insuline lorsque l'insuline seule ne permet pas un contrôle glycémique adéquat.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 129 Da. Liaison protéique minimale. </allaitement1>
+  <allaitement2> Absorption orale: 50 à 60 %. Temps de demi-vie: 1.5 à 6 h.</allaitement2>
+  <allaitement3> Passage dans le lait maternel au maximum de 0.65 % de la dose maternelle ajustée au poids chez 17 femmes traitées par des doses moyennes de 500 à 1500 mg/jour.</allaitement3>
+  <allaitement4> Niveaux sériques mesurés:</allaitement4>
+  <allaitement5> - chez 4 enfants allaités dont les mères prenaient en moyenne 1500 mg de metformin par jour, niveau sérique indétectable chez 2 enfants (moins de 10 mcg/L) et 10 et 15 % des niveaux sériques maternels mesurés chez deux autres enfants;</allaitement5>
+  <allaitement6> - chez deux enfants de 2 et 14 mois dont les mères prenaient 500 mg 2 fois par jour: niveaux sériques indétectables (moins de 5 mcg/L).</allaitement6>
+  <allaitement7> La glycémie de 3 enfants allaités par des mères était dans les valeurs normales.</allaitement7>
+  <allaitement8> Pas d'effet secondaire chez 74 enfants allaités dont les mères étaient traitées par metformin (aucune donnée sur les doses maternelles et l'âge des enfants).</allaitement8>
+  <allaitement9> Une étude prospective de suivi de 61 enfants allaités et 50 enfants prenant du lait commercial n'a montré aucune différence à 3 et 6 mois en terme de développement moteur et social, de taille, de poids et état général.</allaitement9>
+  <recommandationallaitement> Parmi les antidiabétiques oraux, le metformin est l'agent de premier recours pendant l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Glyburide</molecule>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
+  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
+  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
+  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
+  <grossesse5> Très faible passage transplacentaire (3.9 %) de la molécule en comparaison des autres sulfonylurées et faible modification du transfert de glucose dans des études in vivo. Le glyburide était indétectable dans le sang de cordon chez 201 femmes exposées entre la onzième et la trente-troisième semaine de grossesse.</grossesse5>
+  <grossesse6> Bon contrôle glycémique chez plus de 500 femmes traitées pour un diabète gestationnel par glyburide comparé à l'insuline humaine régulière. Une étude chez 201 femmes n'a pas montré de différence au niveau néonatal en terme de poids de naissance, de macrosomies, de malformations, de polycythémies, d'hyperbilirubinémies, d'hypoglycémies, d'hypocalcémie, de détresse respiratoire, de transfert des nouveau-nés aux soins intensifs et de mortalité périnatale. Cependant...</grossesse6>
+  <grossesse7> - augmentation du nombre d'hypoglycémies et de détresses respiratoires néonatales dans une étude chez 101 femmes exposées;</grossesse7>
+  <grossesse8> - augmentation du taux de prééclampsie et de recours à la photothérapie chez les enfants dans une étude regroupant 236 femmes exposées entre la douxième et la trente-quatrième semaine;</grossesse8>
+  <grossesse9> - chez 44 femmes traitées par glyburide avec des élévations marquées des tests d'hyperglycémie provoquée par voie orale et des glycémies à jeun avant traitement, le risque de macrosomie était plus élevé comparé aux femmes traitées par insuline.</grossesse9>
+  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
+  <allaitement1> Poids moléculaire: 494 Da.</allaitement1>
+  <allaitement2> Liaison protéique supérieure à 99 %.</allaitement2>
+  <allaitement3> Absorption orale complète.</allaitement3>
+  <allaitement4> Temps de demi-vie: 5 à 10 h.</allaitement4>
+  <allaitement5> Chez 7 femmes ayant reçu une dose unique de 5 à 10 mg, les niveaux mesurés dans le lait maternel étaient indétectables (moins de 5 mcg/L) entre 2 et 8 h après la dose. Passage dans le lait maternel de moins de 1.5 % de la dose maternelle ajustée au poids.</allaitement5>
+  <allaitement6> Taux de glyburide indétectable (moins de 80 mcg/L) dans le lait maternel de 2 femmes traitées par 5 mg/jour de glyburide. Le seuil de détection de l'étude était trop élevé pour pouvoir conclure à l'absence de passage dans le lait maternel.</allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Le glyburide n'est pas un agent de premier recours pendant l'allaitement. Le glyburide est la sulfonylurée pour laquelle on a le plus de données et pourrait être utilisé si un bon contrôle glycémique avec l'insuline ou le metformin n'est pas atteint.</recommandationallaitement>
+ </tableau>
+
 </livre>
