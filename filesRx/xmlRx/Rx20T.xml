@@ -3,6 +3,31 @@
 <livre>
 
  <tableau>
+  <molecule> Tapazole (methimazole)</molecule>
+  <indication> Hyperthyroïdie</indication>
+  <grossesse1> Métabolite du carbimazole.</grossesse1>
+  <grossesse2> Pas d'augmentation du taux de malformations majeures chez environ 500 femmes exposées au methimazole au premier trimestre dans des séries de cas et des petites études.</grossesse2>
+  <grossesse3> Notification spontanée d'au moins 19 cas d'aplasia cutis après une exposition in utero au methimazole. Il s'agit d'une agénésie partielle de la peau qui touche surtout le cuir chevelu et dont l'incidence dans la population générale est estimée à 0.03 %.</grossesse3>
+  <grossesse4> Pas de cas d'aplasia cutis rapporté suite à une exposition au methimazole ou au carbimazole dans les études épidémiologiques.</grossesse4>
+  <grossesse5> Émergence d'un syndrome malformatif rare lié au methimazole: au moins 18 cas notifiés de façon soontanée dans la littérature médicale suite à une exposition au methimazole ou au carbimazole au premier trimestre. Le syndrome malformatif correspond à des associations de malformations telles qu'une atrésie des choanes ou de l'oesophage, une absence de glande mammaire, un retard de développement, une perte de l'audition et des anomalies faciales. L'incidence de l'atrésie des choanes dans la population générale est estimée à moins de 0.01 % et à moins de 0.04 % pour l'atrésie de l'oesophage. Cependant, 11 cas d'atrésie des choanes ont déjà été rapportés suite à une exposition au methimazole ou au carbimazole au premier trimestre. Un rôle de l'hyperthyroïdie dans la survenue de ces malformations a été évoqué. Cependant, le lien est incertain et plusieurs cas ont été rapportés chez des femmes euthyroïdiennes tout au long de la grossesse.</grossesse5>
+  <grossesse6> Une hyperthyroïdie foetale et néonatale peut survenir.</grossesse6>
+  <grossesse7> Pas d'effet néfaste majeur sur le développement psychomoteur d'enfants exposés in utero au methimazole ou au carbimazole observé dans quelques études avec de faibles effectifs.</grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'analyse statistique des cas rapportés n'est pas possible, car il s'agit pour la plupart de notifications spontanées concernant des malformations rares. Les données sont insuffisantes pour exclure un risque de malformation du cuir chevelu et de survenue d'un syndrome malformatif sévère. Cependant, l'incidence du syndrome malformatif semble rare. Il est conseillé d'éviter l'utilisation du methimazole et du carbimazole au cours de la grossesse. En cas d'exposition, une surveillance échographique doit être réalisée afin de détecter l'apparition d'un goitre. La fonction thyroïdienne doit être contrôlée chez le bébé. </recommandationgrossesse>
+  <allaitement1> Si l'on considère un allaitement maternel exclusif, la dose théorique à laquelle est exposé le bébé est au maximum 3.5 % de la dose initiale utilisée en néonatologie.</allaitement1>
+  <allaitement2> Une étude a montré des concentrations plasmatiques chez des jumeaux proches des concentrations thérapeutiques. Cependant, leur fonction thyroïdienne n'a pas été perturbée. Des études ultérieures ont montré desn concentrations plasmatiques chez les enfants allaités très inférieures aux concentrations thérapeutiques.</allaitement2>
+  <allaitement3> Aucun effet indésirable ni modification des paramètres thyroïdiens n'ont été rapportés chez les bébés dont la mère prenait du methimazole ou du carbimazole au cours de l'allaitement, y compris lorsque le traitement est instauré à 20 ou 30 mg par jour pendant 1 mois.</allaitement3>
+  <allaitement4> Aucun effet néfaste sur le développement intellectuel n'a été montré.</allaitement4>
+  <allaitement5> Une hypothyroïdie transitoire chez la mère due à un excès de methimazole n'entraîne pas de modification dans les paramètres thyroïdiens des enfants allaités.</allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Le methimazole est compatible avec l'allaitement. Certains auteurs recommandent de surveiller les taux de T4 et de TSH chez le bébé durant l'allaitement. Cependant, une surveillance clinique semble suffisante en raison de la faible dose à laquelle est exposé le bébé, à moins que la patiente reçoive des doses supérieures à 40 mg par jour.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Telmisartan</molecule>
   <indication> Hypertension</indication>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>

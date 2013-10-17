@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, height=device-height, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="./js/mystyle.css" />
+<script src="./js/ajaxGoogleAPISjQuery.js"></script>
+<script src="./js/stickyNavBar.js"></script>
+<script src="./js/external/mootools-core-1.3-full-compat.js"></script>
+<script src="./js/dynamic-table-of-contents.js"></script>
+<script src="./js/loadXMLdoc.js"></script>
+<script src="./js/goBack.js"></script>
+<script src="./js/magnify.js"></script>
+</head>
+<body>
+<div class="header"><strong>A</strong></div>
+<div class="nav">
+<button type="button" class="mettreEnGras" onclick="myFunctiongoBack()">Retour</button>
+<input type="button" class="mettreEnGras"  value="Agrandir" onclick="resizeText()" />
+</div>
+<div class="content">
+<div class="DG-toc-container" id="myWalkthrough">
+<script> 
+var xmlDoc=myFunctionloadXMLdoc("./xmlRx/00TxPatho.xml");
+var x=xmlDoc.getElementsByTagName("tableau");
+for (i=0;i<x.length;i++)
+ {
+ document.write('<h1>');
+ document.write(x[i].getElementsByTagName("indication")[0].childNodes[0].nodeValue);
+ document.write("</h1><p><b>EN GROSSESSE</b></p><p><b>Traitements de premier recours:</b> ");
+ document.write(x[i].getElementsByTagName("grossesse1")[0].childNodes[0].nodeValue);
+ document.write('</p><p><b>Traitements de deuxi&egrave;me recours:</b> ');
+ document.write(x[i].getElementsByTagName("grossesse2")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>Traitements de troisi&egrave;me recours:</b> ");
+ document.write(x[i].getElementsByTagName("grossesse3")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>Traitements non recommandés:</b> ");
+ document.write(x[i].getElementsByTagName("grossesse4")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>Traitements contre-indiqu&eacute;s:</b> ");
+ document.write(x[i].getElementsByTagName("grossesse5")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>EN ALLAITEMENT</b></><p><b>Traitements compatibles:</b> ");
+ document.write(x[i].getElementsByTagName("allaitement1")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>Traitements non compatibles ou non recommand&eacute;s:</b> ");
+ document.write(x[i].getElementsByTagName("allaitement2")[0].childNodes[0].nodeValue);
+ document.write("</p>");
+ }
+</script>
+</div>
+</body>
+
+<!--
+ <tableau>
+  <indication> </indication>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+ </tableau>
+-->
+<script>var toc = new DG.TableOfContents();</script> 
+</html>

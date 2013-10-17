@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<livre>
+
+ <tableau>
+  <indication> Diabète gestationnel</indication>
+  <grossesse1> Insuline humaine (régulière, NPH, lente, ultralente), insuline aspart, insuline lispro</grossesse1>
+  <grossesse2> Metformin, glyburide</grossesse2>
+  <grossesse3> Combinaisons des traitements ci-dessus</grossesse3>
+  <grossesse4> Insuline detemir, insuline glargine, nateglinide, repaglinide, chlorpropramide, gliclazide, glimepiride, tolbutamide, pioglitazone, rosiglitazone, acarbose, orlistat</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <allaitement1> Insuline humaine (régulière, NPH, lente, ultralente), insuline aspart, insuline lispro,  insuline detemir, insuline glargine, glyburide, metformin </allaitement1>
+  <allaitement2> Nateglinide, repaglinide, chlorpropramide, gliclazide, glimepiride, tolbutamide, pioglitazone, rosiglitazone, acarbose, orlistat </allaitement2>
+ </tableau>
+
+ <tableau>
+  <indication> Hypertension artérielle</indication>
+  <grossesse1> Methyldopa, clonidine (en cas de crise hypertensive)</grossesse1>
+  <grossesse2> Labetalol</grossesse2>
+  <grossesse3> Nifedipine (à partir du deuxième trimestre), methyldopa + labetalol, methyldopa + hydralazine, clonidine, propranolol, metoprolol, atenolol, hydralazine, furosemide</grossesse3>
+  <grossesse4> Acebutolol, bisoprolol, esmolol, nadolol, oxprenolol, pindolol, timolol,  chlorthalidone, hydrochlorothiazide, indapamide, metolazone, ethacrynique (acide), amiloride</grossesse4>
+  <grossesse5> Nifedipine (premier trimestre), amlodipine, felodipine, diltiazem, verapamil, spironolactone, triamterene, benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril, candesartan, eprosartan, irbesartan, losartan, telmisartan, valsartan</grossesse5>
+  <allaitement1> Methyldopa, clonidine, bisoprolol, labetalol, metoprolol, oxprenolol, pindolol, propranolol, timolol, nifedipine, diltiazem, verapamil, hydralazine, hydrochlorothiazide, furosemide, spironolactone, benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril</allaitement1>
+  <allaitement2> Acebutolol, atenolol, amlodipine, felodipine, chlorthalidone, indapamide, metolazone, ethacrynique (acide), amiloride, triamterene, candesartan, eprosartan, irbesartan, losartan, telmisartan, valsartan </allaitement2>
+ </tableau>
+
+ <tableau>
+  <indication> Hyperthyroïdie</indication>
+  <grossesse1> Propylthiouracil</grossesse1>
+  <grossesse2> Sans objet</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Methimazole</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <allaitement1> Methimazole, propylthiouracil</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+ </tableau>
+
+</livre>
