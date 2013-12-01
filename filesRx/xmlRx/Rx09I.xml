@@ -3,8 +3,37 @@
 <livre>
 
  <tableau>
+  <molecule> Imipenem + cilastatin</molecule>
+  <ancrem><![CDATA[<h1><a name="Imipenem">Imipenem + cilastatin</a></h1>]]></ancrem>
+  <indication> Exacerbation pulmonaire en fibrose kystique</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueSevere">Exacerbation pulmonaire en fibrose kystique</a>]]></ancrei>
+<grossesse1> Études animales: pas d'effet tératogène chez 2 espèces avec ertapenem, imipenem + cilastatin et meropenem.</grossesse1>
+  <grossesse2> Aucune donnée chez la femme enceinte au premier trimestre n'a été retrouvée.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La structure et le mécanisme d'action sont similaires aux pénicillines. La gravité des situations nécessitant des carbapénèms justifie probablement leur situation. Toutefois, ce ne sont pas des agents de premier recours lorsque d'autres options mieux documentées sont disponibles. </recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale faible; médicament détruit par l'acidité gastrique. </allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 20 % pour imipenem, 40 % pour cilastatin. Temps de demi-vie: 1 heure. </allaitement2>
+  <allaitement3> Passage du médicament dans le lait mternel: 1.4 % de la dose d'imipenem utilisée en pédiatrie. Le cilastatin n'a pas été détecté. </allaitement3>
+  <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Malgré le peu de données disponibles sur l'utilisation des carbapénèms pendant l'allaitement, il semble peu probable que l'enfant absorbe une quantité significative de ces agents puisque leur biodisponibilité orale est faible. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Indapamide</molecule>
+  <ancrem><![CDATA[<h1><a name="Indapamide">Indapamide</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
   <grossesse2> Étude de surveillance rapportant 635 expositions au premier trimestre (chlorthalidone (n=20), chlorothiazide (n=48), hydrochlorothiazide (n=567)): pas d'augmentation du taux d'anomalies congénitales ni de patron de malformations identifié.</grossesse2>
   <grossesse3> Quelques cas de thrombocytopénie, d'hypoglycémie, d'hyponatrémie et d'hypokaliémie néonatales ont été rapportés avec les thiazidiques.</grossesse3>
@@ -29,43 +58,20 @@
 
  <tableau>
   <molecule> Inderal (propranolol)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Non cardiosélectif et sans activité sympathomimétique intrinsèque.</grossesse1>
-  <grossesse2> Pas d'effet tératogène observé chez deux espèces animales.</grossesse2>
-  <grossesse3> Dans une étude de surveillance, on a recensé 274 expositions au premier trimestre au propranolol. On a observé 4 % de malformations majeures.</grossesse3>
-  <grossesse4> Chez 167 nouveau-nés exposés au propranolol in utero, on a observé 14 % de retard de croissance intra-utérine, 10 % d'hypoglycémie et 7 % de bradycardie. Les complications semblent plus fréquentes avec des doses quotidiennes de 160 mg ou plus.</grossesse4>
-  <grossesse5> L'utilisation du propranolol a été associée à une diminution de la réactivité foetale.</grossesse5>
-  <grossesse6> </grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0 à 0.5 % (3% d'une dose pédiatrique)</allaitement1>
-  <allaitement2> </allaitement2>
-  <allaitement3> </allaitement3>
-  <allaitement4> </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Inhibace (cilazapril)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
-  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
-  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
-  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Propranolol">Inderal (propranolol)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Aucune donnée.</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -74,12 +80,41 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
- </tableau>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Inhibace (cilazapril)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cilazapril">Inhibace (cilazapril)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
  <tableau>
   <molecule> Insuline aspart</molecule>
+  <ancrem><![CDATA[<h1><a name="InsulineAspart">Insuline aspart</a></h1>]]></ancrem>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Une seule étude regroupant 157 femmes exposées pendant toute leur grossesse: pas d'augmentation du risque de malformations, de mortalité et de complications maternelles et foetales par rapport à l'insuline régulière. Les hypoglycémies sévères avec l'insuline aspart étaient significativement plus faibles qu'avec l'insuline régulière pour des valeurs d'HbA1c similaires.</grossesse1>
   <grossesse2> Étude d'efficacité de l'insuline aspart sur le contrôle glycémique chez 15 femmes traitées pour un diabète gestationnel. Les issues de grossesse sont non specifiées.</grossesse2>
   <grossesse3> </grossesse3>
@@ -104,7 +139,9 @@
 
  <tableau>
   <molecule> Insuline detemir</molecule>
+  <ancrem><![CDATA[<h1><a name="InsulineDetemir">Insuline detemir</a></h1>]]></ancrem>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Des études chez le rat et le lapin à des doses supérieures à la dose humaine recommandée ont montré des anomalies viscérales chez le rat et des anomalies vésicales chez le lapin.</grossesse1>
   <grossesse2> Aucune donnée humaine durant la grossesse.</grossesse2>
   <grossesse3> </grossesse3>
@@ -129,7 +166,9 @@
 
  <tableau>
   <molecule> Insuline glargine</molecule>
+  <ancrem><![CDATA[<h1><a name="InsulineGlargine">Insuline glargine</a></h1>]]></ancrem>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Passage placentaire inconnu.</grossesse1>
   <grossesse2> Augmentation in vitro de la liaison aux récepteurs IGF1 (Insulin-like Growth Factor 1) et du potentiel mitogène par rapport à l'insuline humaine. La stimulation des récepteurs du facteur de croissance insulinoïde IGF1 beaucoup plus importante que les autres insulines pourrait altérer la croissance foetale.</grossesse2>
   <grossesse3> Environ 160 femmes exposées dont environ 150 au premier trimestre sans augmentation du risque de malformation par rapport à des femmes traitées par des insulines régulières (dont une étude regroupant 115 femmes au premier trimestre).</grossesse3>
@@ -154,7 +193,9 @@
 
  <tableau>
   <molecule> Insuline humaine (régulière, NPH, lente, ultralente)</molecule>
+  <ancrem><![CDATA[<h1><a name="InsulineHumaine">Insuline humaine (régulière, NPH, lente, ultralente)</a></h1>]]></ancrem>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Pas de passage transplacentaire.</grossesse1>
   <grossesse2> L'insuline permet un contrôle glycémique adéquat chez les femmes diabétiques de type 1 ou 2 et chez les femmes présentant un diabète gestationnel non contrôlé par la diète seule. Il a été montré dans de nombreuses études que le contrôle glycémique pendant la période préconceptionnelle et la grossesse permettait de réduire de manière significative le taux de malformations et de complications maternelles et foetales.</grossesse2>
   <grossesse3> Bonne expérience clinique avec l'insuline humaine.</grossesse3>
@@ -179,7 +220,9 @@
 
  <tableau>
   <molecule> Insuline lispro</molecule>
+  <ancrem><![CDATA[<h1><a name="InsulineLispro">Insuline lispro</a></h1>]]></ancrem>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Pas de passage placentaire.</grossesse1>
   <grossesse2> Plus de 500 femmes exposées au premier trimestre sans augmentation du risque de malformations par rapport à des femmes traitées par insuline humaine régulière.</grossesse2>
   <grossesse3> Amélioration ou contrôle glycémique identique et diminution ou nombre similaire d'hypoglycémies par rapport à une insuline régulière.</grossesse3>
@@ -203,8 +246,37 @@
  </tableau>
 
  <tableau>
+  <molecule> Invanz (ertapenem)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Ertapenem">Invanz (ertapenem)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
   <molecule> Irbesartan</molecule>
+  <ancrem><![CDATA[<h1><a name="Irbesartan">Irbesartan</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
   <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
   <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
@@ -229,27 +301,29 @@
 
 <tableau>
   <molecule> Isoptin (verapamil)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Chez deux espèces animales: pas de tératogénicité à des doses supérieures aux doses humaines.</grossesse1>
-  <grossesse2> Étude de surveillance: 76 nouveau-nés exposés au premier trimestre sans augmentation du taux de malformations majeures.</grossesse2>
+  <ancrem><![CDATA[<h1><a href="./Rx22V.html#Verapamil">Isoptin (verapamil)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
-  <grossesse4> Le verapamil a été utilisé pour traiter des arythmies foetales et le travail pré-terme sans évidence de toxicité foetale.</grossesse4>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifédipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
-  <allaitement1> Dose reçue par l'enfant estimée à moins de 1 % de la dose maternelle ajustée au poids.</allaitement1>
-  <allaitement2> Aucun effet indésirable rapporté chez trois enfants allaités.</allaitement2>
-  <allaitement3> Risque théorique d'hypotension et de bradycardie.</allaitement3>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Il est préférable d'utiliser la nifedipine. Toutefois, la quantité de verapamil et de diltiazem reçue par l'enfant par le lait maternel est faible et risque peu de produire des effets secondaires.</recommandationallaitement>
- </tableau>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
 </livre>

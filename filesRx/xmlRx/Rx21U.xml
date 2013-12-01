@@ -4,17 +4,19 @@
 
  <tableau>
   <molecule> Ultram (tramadol)</molecule>
-  <indication> Syndrome des jambes sans repos</indication>
-  <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (150 expositions au premier trimestre au tramadol).</grossesse1> 
+  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Tramadol">Ultram (tramadol)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
   <grossesse2> </grossesse2>
-  <grossesse3> Opiacés associés à un risque de syndrome de sevrage chez les bébés à la naissance. Symptômes de sevrage (perturbation du système nerveux central [par exemple, tremblements, température instable, pleurs et sursauts spontanés] et du système gastro-intestinal [par exemple, difficulté à s'alimenter, vomissements] pris en charge par des mesures allant d'un simple emmaillotement à l'administration d'un traitement pharmacologique de courte durée pour les cas plus graves (par exemple, faibles doses de morphine).</grossesse3>
+  <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Un traitement par un opiacé est possible au cours de la grossesse. La codeine est à privilégier au premier trimestre, étant plus documentée chez la femme enceinte. D'autres opiacés pourraient être utilisés selon le jugement clinique; l'utilisation d'un opiacé ayant une structure similaire à celle de la codeine pourrait alors être privilégiée. Lors d'une utilisation répétée en fin de grossesse, suivi plus étroit nécessaire chez le nouveau-né dans les premiers jours de vie.</recommandationgrossesse>
+  <recommandationgrossesse> </recommandationgrossesse>
   <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
@@ -25,6 +27,6 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> </recommandationallaitement>
- </tableau>
+  </tableau>
 
 </livre>

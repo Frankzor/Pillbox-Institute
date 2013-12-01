@@ -3,36 +3,460 @@
 <livre>
 
  <tableau>
+  <indication> Bactériurie asymptomatique</indication>
+  <ancrei><![CDATA[<a name="Bacteriurie">Bactériurie asymptomatique</a>]]></ancrei>
+  <grossesse1> amoxicillin, cephalexin, nitrofurantoin, penicillin V, clindamycin</grossesse1>
+  <grossesse2> trimethoprim + sulfamethoxazole (à partir du deuxième trimestre), trimethoprim (à partir du deuxième trimestre) </grossesse2>
+  <grossesse3> fosfomycin</grossesse3>
+  <grossesse4> trimethoprim (premier trimestre et accouchement imminent), trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</grossesse4>
+  <grossesse5> sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim (à partir du deuxième trimestre)</a>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx06F.html#Fosfomycin">fosfomycin</a>]]></ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> amoxicillin, cephalexin, nitrofurantoin, penicillin V, clindamycin, fosfomycin, trimethoprim, trimethoprim + sulfamethoxazole</allaitement1>
+  <allaitement2> sans objet</allaitement2>
+  <ancrea1><![CDATA[ <a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim</a>, <a href="./Rx06F.html#Fosfomycin">fosfomycin</a> ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Bronchite aiguë</indication>
+  <ancrei><![CDATA[<a name="BronchiteAigue">Bronchite aiguë</a>]]></ancrei>
+  <grossesse1> Erythromycin, clarithromycin (à partir du deuxième trimestre), azithromycin (à partir du deuxième trimestre) </grossesse1>
+  <grossesse2> Trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Azithromycin (premier trimestre seulement), clarithromycin (premier trimestre seulement), trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent) </grossesse4>
+  <grossesse5> Sans objet </grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a>, <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a> ]]></ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>, <a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Idem</allaitement1>
+  <allaitement2> Sans objet </allaitement2>
+  <ancrea1><![CDATA[ <a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin</a>, <a href="./Rx01A.html#Azithromycin">azithromycin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a> ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Chlamydiose</indication>
+  <ancrei><![CDATA[<a name="Chlamydiose">Chlamydiose</a>]]></ancrei>
+  <grossesse1> amoxicillin, azithromycin (à partir du deuxième trimestre)</grossesse1>
+  <grossesse2> erythromycin</grossesse2>
+  <grossesse3> sans objet</grossesse3>
+  <grossesse4> azithromycin (premier trimestre seulement)</grossesse4>
+  <grossesse5> sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin</a> ]]></ancreg2>
+  <ancreg3> sans objet</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a> ]]></ancreg4>
+  <ancreg5> </ancreg5>
+  <allaitement1> azithromycin, amoxicillin, doxycyclin, ofloxacin, erythromycin</allaitement1>
+  <allaitement2> sans objet</allaitement2>
+  <ancrea1><![CDATA[<a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx01A.html#Azithromycin">azithromycin</a>, <a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx04D.html#Doxycycline">doxycycline</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a> ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Cystite aiguë</indication>
+  <ancrei><![CDATA[<a name="CystiteAigue">Cystite aiguë</a>]]></ancrei>
+  <grossesse1> Amoxicillin, cephalexin, nitrofurantoin, penicillin V, clindamycin</grossesse1>
+  <grossesse2> Trimethoprim + sulfamethoxazole (à partir du deuxième trimestre), trimethoprim (à partir du deuxième trimestre)</grossesse2>
+  <grossesse3> Fosfomycin</grossesse3>
+  <grossesse4> Trimethoprim (premier trimestre et accouchememt imminent), trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[ <a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim (à partir du deuxième trimestre)</a>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx06F.html#Fosfomycin">fosfomycin</a>]]></ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Amoxicillin, cephalexin, nitrofurantoin, penicillin V, clindamycin, fosfomycin, trimethoprim + sulfamethoxazole, trimethoprim, ciprofloxacin, levofloxacin, norfloxacin, ofloxacin </allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1><![CDATA[ <a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim</a>, <a href="./Rx06F.html#Fosfomycin">fosfomycin</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx12L.html#Levofloxacin">levofloxacin</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a> ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a name="Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Insuline humaine (régulière, NPH, lente, ultralente), insuline aspart, insuline lispro</grossesse1>
   <grossesse2> Metformin, glyburide</grossesse2>
   <grossesse3> Combinaisons des traitements ci-dessus</grossesse3>
   <grossesse4> Insuline detemir, insuline glargine, nateglinide, repaglinide, chlorpropramide, gliclazide, glimepiride, tolbutamide, pioglitazone, rosiglitazone, acarbose, orlistat</grossesse4>
   <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx09I.html#InsulineHumaine">insuline humaine (régulière, NPH, lente, ultra-lente)</a>, <a href="./Rx09I.html#InsulineAspart">Insuline aspart</a>, <a href="./Rx09I.html#InsulineLispro">Insuline lispro</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx13M.html#Metformin">metformin</a>, <a href="./Rx07G.html#Glyburide">glyburide</a> ]]></ancreg2>
+  <ancreg3>combinaison des traitements ci-dessus</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx09I.html#InsulineDetemir">insuline detemir</a>, <a href="./Rx09I.html#InsulineGlargine">insuline glargine</a>, <a href="./Rx14N.html#Nateglinide">nateglinide</a>, <a href="./Rx18R.html#Repaglinide">repaglinide</a>, <a href="./Rx03C.html#Chlorpropramide">chlorpropramide</a>, <a href="./Rx07G.html#Gliclazide">gliclazide</a>, <a href="./Rx07G.html#Glimepiride">glimepiride</a>, <a href="./Rx20T.html#Tolbutamide">tolbutamide</a>, <a href="./Rx16P.html#Pioglitazone">pioglitazone</a>, <a href="./Rx18R.html#Rosiglitazone">rosiglitazone</a>, <a href="./Rx01A.html#Acarbose">acarbose</a>, <a href="./Rx15O.html#Orlistat">orlistat</a> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
   <allaitement1> Insuline humaine (régulière, NPH, lente, ultralente), insuline aspart, insuline lispro,  insuline detemir, insuline glargine, glyburide, metformin </allaitement1>
   <allaitement2> Nateglinide, repaglinide, chlorpropramide, gliclazide, glimepiride, tolbutamide, pioglitazone, rosiglitazone, acarbose, orlistat </allaitement2>
+  <ancrea1><![CDATA[<a href="./Rx09I.html#InsulineHumaine">insuline humaine (régulière, NPH, lente, ultra-lente)</a>, <a href="./Rx09I.html#InsulineAspart">Insuline aspart</a>, <a href="./Rx09I.html#InsulineLispro">Insuline lispro</a>, <a href="./Rx13M.html#Metformin">metformin</a>, <a href="./Rx07G.html#Glyburide">glyburide</a>, <a href="./Rx09I.html#InsulineDetemir">insuline detemir</a>, <a href="./Rx09I.html#InsulineGlargine">insuline glargine</a> ]]></ancrea1>
+  <ancrea2><![CDATA[<a href="./Rx14N.html#Nateglinide">nateglinide</a>, <a href="./Rx18R.html#Repaglinide">repaglinide</a>, <a href="./Rx03C.html#Chlorpropramide">chlorpropramide</a>, <a href="./Rx07G.html#Gliclazide">gliclazide</a>, <a href="./Rx07G.html#Glimepiride">glimepiride</a>, <a href="./Rx20T.html#Tolbutamide">tolbutamide</a>, <a href="./Rx16P.html#Pioglitazone">pioglitazone</a>, <a href="./Rx18R.html#Rosiglitazone">rosiglitazone</a>, <a href="./Rx01A.html#Acarbose">acarbose</a>, <a href="./Rx15O.html#Orlistat">orlistat</a> ]]></ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Fibrose kystique, exacerbation en: traitement ponctuel d'une surinfection légère à modérée ou suppression bactérienne chronique</indication>
+  <ancrei><![CDATA[<a name="FibroseKystiqueLegere">Fibrose kystique, exacerbation en: traitement ponctuel d'une surinfection légère à modérée ou suppression bactérienne chronique</a>]]></ancrei>
+  <grossesse1> Tobramycin injectable sans phénol (pour inhaler), tobramycin en poudre pour inhalation, colistimethate injectable (pour inhaler), ciprofloxacin</grossesse1>
+  <grossesse2> Sans objet</grossesse2>
+  <grossesse3> Sans objet </grossesse3>
+  <grossesse4> Sans objet </grossesse4>
+  <grossesse5> Sans objet </grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx20T.html#Tobramycin">tobramycin injectable sans phénol (pour inhaler), tobramycin en poudre pour inhalation</a>, <a href="./Rx03C.html#Colistimethate">colistimethate injectable (pour inhaler)</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ]]></ancreg1>
+  <ancreg2>sans objet</ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4>sans objet</ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> idem</allaitement1>
+  <allaitement2> Sans objet </allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Fibrose kystique, exacerbation en: surinfection modérée à sévère</indication>
+  <ancrei><![CDATA[<a name="FibroseKystiqueSevere">Fibrose kystique, exacerbation en: surinfection modérée à sévère</a>]]></ancrei>
+  <grossesse1> Piperacillin avec ou sans tazobactam + [tobramycin ou amikacin] + [ciprofloxacin ou non], [ticarcillin + clavulanate] + [tobramycin ou amikacin] + [ciprofloxacin ou non], ceftazidime + [tobramycin ou amikacin] + [ciprofloxacin ou non]</grossesse1>
+  <grossesse2> Meropenem + [tobramycin ou amikacin] + [ciprofloxacin ou non], imipenem + [tobramycin ou amikacin] + [ciprofloxacin ou non], cefepime + [tobramycin ou amikacin] + [ciprofloxacin ou non]</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Sans objet</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<ul><li><a href="./Rx16P.html#Piperacillin">piperacillin avec ou sans tazobactam</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li><li><a href="./Rx20T.html#Ticarcillin">ticarcillin + clavulanate</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li><li><a href="./Rx03C.html#Ceftazidime">ceftazidime</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li></ul>]]></ancreg1>
+  <ancreg2><![CDATA[<ul><li><a href="./Rx13M.html#Meropenem">meropenem</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li><li><a href="./Rx09I.html#Imipenem">imipenem</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li><li><a href="./Rx03C.html#Cefepime">cefepime</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li></ul> ]]></ancreg2>
+  <ancreg2>sans objet</ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4>sans objet</ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> idem</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Fibrose kystique, exacerbation pulmonaire en: surinfection à bactéries Gram négatif</indication>
+  <ancrei><![CDATA[<a name="FibroseKystiqueGramNegatif">Fibrose kystique, exacerbation pulmonaire en: surinfection à bactéries Gram négatif</a>]]></ancrei>
+  <grossesse1> Infection à Stenotrophonomas maltophilia: ticarcillin + clavulanate, trimethoprim + sulfamethoxazole (en intraveineuse)</grossesse1>
+  <grossesse2> Infection à Burkholderia cepacia: minocycline, trimethoprim + sulfamethoxazole (en intraveineuse), meropenem, ceftazidime, amikacin</grossesse2>
+  <grossesse3> Infection à Achromobacter xylosoxidans: minocycline, ciprofloxacin, meropenem, imipenem</grossesse3>
+  <grossesse4> Sans objet</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[ Infection à Stenotrophonomas maltophilia: <a href="./Rx20T.html#Ticarcillin">ticarcillin + clavulanate</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (en intraveineuse)</a> ]]></ancreg1>
+  <ancreg2><![CDATA[ Infection à Burkholderia cepacia: <a href="./Rx13M.html#"Minocyclin>minocycline</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (en intraveineuse)</a>, <a href="./Rx13M.html#Meropenem">meropenem</a>, <a href="./Rx03C.html#Ceftazidime">ceftazidime</a>, <a href="./Rx01A.html#Amikacin">amikacin</a> ]]></ancreg2>
+  <ancreg3><![CDATA[ Infection à Achromobacter xylosoxidans: <a href="./Rx13M.html#"Minocyclin>minocycline</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx13M.html#Meropenem">meropenem</a>, <a href="./Rx09I.html#Imipenem">imipenem</a> ]]></ancreg3>
+  <ancreg4>sans objet</ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Idem</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Gonorrhée</indication>
+  <ancrei><![CDATA[<a name="Gonorrhee">Gonorrhée</a>]]></ancrei>
+  <grossesse1> Cefixime, ceftriaxone</grossesse1>
+  <grossesse2> Azithromycin, spectinomycin (programme d'accès spécial de Santé Canada)</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Sans objet</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx03C.html#Cefixime">cefixime</a>, <a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin</a>, <a href="./Rx19S.html#Spectinomycin">spectinomycin</a> ]]></ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4>sans objet</ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Idem</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Hypertension artérielle</indication>
+  <ancrei><![CDATA[<a name="Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Methyldopa, clonidine (en cas de crise hypertensive)</grossesse1>
   <grossesse2> Labetalol</grossesse2>
   <grossesse3> Nifedipine (à partir du deuxième trimestre), methyldopa + labetalol, methyldopa + hydralazine, clonidine, propranolol, metoprolol, atenolol, hydralazine, furosemide</grossesse3>
   <grossesse4> Acebutolol, bisoprolol, esmolol, nadolol, oxprenolol, pindolol, timolol,  chlorthalidone, hydrochlorothiazide, indapamide, metolazone, ethacrynique (acide), amiloride</grossesse4>
   <grossesse5> Nifedipine (premier trimestre), amlodipine, felodipine, diltiazem, verapamil, spironolactone, triamterene, benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril, candesartan, eprosartan, irbesartan, losartan, telmisartan, valsartan</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx13M.html#Methyldopa">methyldopa</a>, <a href="./Rx03C.html#Clonidine">clonidine (en cas de crise hypertensive)</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx12L.html#Labetalol">labetalol</a>]]></ancreg2>
+  <ancreg3><![CDATA[<ul><li><a href="./Rx14N.html#Nifedipine">nifedipine (à partir du deuxième trimestre)</a></li><li><a href="./Rx13M.html#Methyldopa">methyldopa</a> + <a href="./Rx12L.html#Labetalol">labetalol</a></li><li><a href="./Rx13M.html#Methyldopa">methyldopa</a> + <a href="./Rx08H.html#Hydralazine">hydralazine</a></li><li><a href="./Rx03C.html#Clonidine">clonidine</a></li><li><a href="./Rx16P.html#Propranolol">propranolol</a></li><li><a href="./Rx13M.html#Metoprolol">metoprolol</a></li><li><a href="./Rx01A.html#Atenolol">atenolol</a></li><li><a href="./Rx08H.html#Hydralazine">hydralazine</a></li><li><a href="./Rx06F.html#Furosemide">furosemide</a></li></ul>]]></ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx01A.html#Acebutolol">acebutolol</a>, <a href="./Rx02B.html#Bisoprolol">bisoprolol</a>, <a href="./Rx05E.html#Esmolol">esmolol</a>, <a href="./Rx14N.html#Nadolol">nadolol</a>, <a href="./Rx15O.html#Oxprenolol">oxprenolol</a>, <a href="./Rx16P.html#Pindolol">pindolol</a>, <a href="./Rx20T.html#Timolol">timolol</a>, <a href="./Rx03C.html#Chlorthalidone">chlorthalidone</a>, <a href="./Rx08H.html#Hydrochlorothiazide">hydrochlorothiazide</a>, <a href="./Rx09I.html#Indapamide">indapamide</a>, <a href="./Rx13M.html#Metolazone">metolazone</a>, <a href="./Rx05E.html#Ethacrynique">ethacrynique (acide)</a>, <a href="./Rx01A.html#Amiloride">amiloride</a> ]]></ancreg4>
+  <ancreg5><![CDATA[<a href="./Rx14N.html#Nifedipine">nifedipine (premier trimestre seulement)</a>, <a href="./Rx01A.html#Amlodipine">amlodipine</a>, <a href="./Rx06F.html#Felodipine">felodipine</a>, <a href="./Rx04D.html#Diltiazem">diltiazem</a>, <a href="./Rx22V.html#Verapamil">verapamil</a>, <a href="./Rx19S.html#Spironolactone">spironolactone</a>, <a href="./Rx20T.html#Triamterene">triamterene</a>, <a href="./Rx02B.html#Benazepril">benazepril</a>, <a href="./Rx03C.html#Captopril">captopril</a>, <a href="./Rx03C.html#Cilazapril">cilazapril</a>, <a href="./Rx05E.html#Enalapril">enalapril</a>, <a href="./Rx06F.html#Fosinopril">fosinopril</a>, <a href="./Rx12L.html#Lisinopril">lisinopril</a>, <a href="./Rx16P.html#Perindopril">perindopril</a>, <a href="./Rx17Q.html#Quinapril">quinapril</a>, <a href="./Rx18R.html#Ramipril">ramipril</a>, <a href="./Rx20T.html#Trandolapril">trandolapril</a>, <a href="./Rx03C.html#Candesartan">candesartan</a>, <a href="./Rx05E.html#Eprosartan">eprosartan</a>, <a href="./Rx09I.html#Irbesartan">irbesartan</a>, <a href="./Rx12L.html#Losartan">losartan</a>, <a href="./Rx20T.html#Telmisartan">telmisartan</a>, <a href="./Rx22V.html#Valsartan">valsartan</a> ]]></ancreg5>
   <allaitement1> Methyldopa, clonidine, bisoprolol, labetalol, metoprolol, oxprenolol, pindolol, propranolol, timolol, nifedipine, diltiazem, verapamil, hydralazine, hydrochlorothiazide, furosemide, spironolactone, benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril</allaitement1>
   <allaitement2> Acebutolol, atenolol, amlodipine, felodipine, chlorthalidone, indapamide, metolazone, ethacrynique (acide), amiloride, triamterene, candesartan, eprosartan, irbesartan, losartan, telmisartan, valsartan </allaitement2>
+  <ancrea1><![CDATA[ <a href="./Rx13M.html#Methyldopa">methyldopa</a>, <a href="./Rx03C.html#Clonidine">clonidine</a>, <a href="./Rx12L.html#Labetalol">labetalol</a>, <a href="./Rx02B.html#Bisoprolol">bisoprolol</a>, <a href="./Rx13M.html#Metoprolol">metoprolol</a>, <a href="./Rx15O.html#Oxprenolol">oxprenolol</a>, <a href="./Rx16P.html#Pindolol">pindolol</a>, <a href="./Rx16P.html#Propranolol">propranolol</a>, <a href="./Rx20T.html#Timolol">timolol</a>, <a href="./Rx14N.html#Nifedipine">nifedipine</a>, <a href="./Rx04D.html#Diltiazem">diltiazem</a>, <a href="./Rx22V.html#Verapamil">verapamil</a>, <a href="./Rx08H.html#Hydralazine">hydralazine</a>, <a href="./Rx08H.html#Hydrochlorothiazide">hydrochlorothiazide</a>, <a href="./Rx06F.html#Furosemide">furosemide</a>,  <a href="./Rx19S.html#Spironolactone">spironolactone</a>, <a href="./Rx02B.html#Benazepril">benazepril</a>, <a href="./Rx03C.html#Captopril">captopril</a>, <a href="./Rx03C.html#Cilazapril">cilazapril</a>, <a href="./Rx05E.html#Enalapril">enalapril</a>, <a href="./Rx06F.html#Fosinopril">fosinopril</a>, <a href="./Rx12L.html#Lisinopril">lisinopril</a>, <a href="./Rx16P.html#Perindopril">perindopril</a>, <a href="./Rx17Q.html#Quinapril">quinapril</a>, <a href="./Rx18R.html#Ramipril">ramipril</a>, <a href="./Rx20T.html#Trandolapril">trandolapril</a> ]]></ancrea1>
+  <ancrea2><![CDATA[ <a href="./Rx01A.html#Acebutolol">acebutolol</a>, <a href="./Rx01A.html#Atenolol">atenolol</a>, <a href="./Rx01A.html#Amlodipine">amlodipine</a>, <a href="./Rx06F.html#Felodipine">felodipine</a>, <a href="./Rx03C.html#Chlorthalidone">chlorthalidone</a>, <a href="./Rx09I.html#Indapamide">indapamide</a>, <a href="./Rx13M.html#Metolazone">metolazone</a>, <a href="./Rx05E.html#Ethacrynique">ethacrynique (acide)</a>, <a href="./Rx01A.html#Amiloride">amiloride</a>, <a href="./Rx20T.html#Triamterene">triamterene</a>, <a href="./Rx03C.html#Candesartan">candesartan</a>, <a href="./Rx05E.html#Eprosartan">eprosartan</a>, <a href="./Rx09I.html#Irbesartan">irbesartan</a>, <a href="./Rx12L.html#Losartan">losartan</a>, <a href="./Rx20T.html#Telmisartan">telmisartan</a>, <a href="./Rx22V.html#Valsartan">valsartan</a> ]]></ancrea2>
  </tableau>
 
  <tableau>
   <indication> Hyperthyroïdie</indication>
+  <ancrei><![CDATA[<a name="Hyperthyroidie">Hyperthyroïdie</a>]]></ancrei>
   <grossesse1> Propylthiouracil</grossesse1>
   <grossesse2> Sans objet</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Methimazole</grossesse4>
   <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx16P.html#Propylthiouracil">propylthiouracil</a>]]></ancreg1>
+  <ancreg2>sans objet</ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx13M.html#Methimazole">methimazole</a>]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
   <allaitement1> Methimazole, propylthiouracil</allaitement1>
   <allaitement2> Sans objet</allaitement2>
+  <ancrea1><![CDATA[ <a href="./Rx16P.html#Propylthiouracil">propylthiouracil</a>, <a href="./Rx13M.html#Methimazole">methimazole</a> ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Hypothyroïdie</indication>
+  <ancrei><![CDATA[<a name="Hypothyroidie">Hypothyroïdie</a>]]></ancrei>
+  <grossesse1> Levothyroxine</grossesse1>
+  <grossesse2> Liothyronine</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Sans objet</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx12L.html#Levothyroxine">levothyroxine</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx12L.html#Liothyronine">liothyronine</a> ]]></ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4>sans objet</ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Levothyroxine, liothyronine</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1><![CDATA[<a href="./Rx12L.html#Levothyroxine">levothyroxine</a>, <a href="./Rx12L.html#Liothyronine">liothyronine</a> ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Pharyngite</indication>
+  <ancrei><![CDATA[<a name="Pharyngite">Pharyngite</a>]]></ancrei>
+  <grossesse1> Penicillin V, amoxicillin</grossesse1>
+  <grossesse2> Erythromycin, clarithromycin (à partir du deuxième trimestre), cephalexin, cefadroxil, clindamycin, amoxicillin + clavulanate</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Clarithromycin (premier trimestre seulement) </grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx01A.html#Amoxicillin">amoxicillin</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx03C.html#Cefadroxil">cefadroxil</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a>, <a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a> ]]></ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4><![CDATA[ <a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> idem</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Pneumonie acquise en communauté: patiente hospitalisée</indication>
+  <ancrei><![CDATA[<a name="PneumoniePatienteHospitalisee">Pneumonie acquise en communauté: patiente hospitalisée</a>]]></ancrei>
+  <grossesse1> Cefotaxime + [erythromycin ou non], ceftriaxone + [erythromycin ou non] </grossesse1>
+  <grossesse2> Azithromycin intraveineux (à partir du deuxième trimestre) </grossesse2>
+  <grossesse3> Ciprofloxacin intraveineux</grossesse3>
+  <grossesse4> Azithromycin intraveineux (premier trimestre seulement) </grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<ul><li><a href="./Rx03C.html#Cefotaxime">cefotaxime</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou non)</li><li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou non)</li></ul>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (en intraveineux, à partir du deuxième trimestre)</a>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin (en intraveineux)</a>]]></ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (en intraveineux, premier trimestre seulement)</a>]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Idem</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Pneumonie acquise en communauté: traitement de relais</indication>
+  <ancrei><![CDATA[<a name="PneumonieTxRelais">Pneumonie acquise en communauté: traitement de relais</a>]]></ancrei>
+  <grossesse1> Cefprozil + [erythromycin ou clarithromycin ou non], cefuroxime axetil + [erythromycin ou clarithromycin ou non] </grossesse1>
+  <grossesse2> Azithromycin (à partir du deuxième trimestre) </grossesse2>
+  <grossesse3> Ciprofloxacin</grossesse3>
+  <grossesse4> Azithromycin (premier trimestre seulement), clarithromycin (premier trimestre seulement) </grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<ul><li><a href="./Rx03C.html#Cefprozil">cefprozil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou non)</li></ul>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>]]></ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Cefprozil + [erythromycin ou clarithromycin ou non], cefuroxime axetil + [erythromycin ou clarithromycin ou non], azithromycin, ciprofloxacin </allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1><![CDATA[<ul><li><a href="./Rx03C.html#Cefprozil">cefprozil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin</a> ou non)</li><li><a href="./Rx01A.html#Azithromycin">azithromycin</a></li><li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a></li></ul>]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Pneumonie acquise en communauté: milieu ambulatoire</indication>
+  <ancrei><![CDATA[<a name="PneumonieMilieuAmbulatoire">Pneumonie acquise en communauté: milieu ambulatoire</a>]]></ancrei>
+  <grossesse1> Erythromycin, clarithromycin (à partir du deuxième trimestre) </grossesse1>
+  <grossesse2> Azithromycin (à partir du deuxième trimestre), doxycycline (premier trimestre seulement), amoxicillin + [erythromycin ou clarithromycin ou azithromycin ou non], cefprozil [erythromycin ou clarithromycin ou azithromycin ou non], cefuroxime axetil [erythromycin ou clarithromycin ou azithromycin ou non], amoxicillin + clavulanate + [erythromycin ou clarithromycin ou azithromycin ou non] </grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Azithromycin (premier trimestre seulement), clarithromycin (premier trimestre seulement), doxycycline (deuxième et troisième trimestre), levofloxacin, moxifloxacin </grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a>]]></ancreg1>
+  <ancreg2><![CDATA[<ul><li><a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a></li><li><a href="./Rx04D.html#Doxycycline">doxycycline (premier trimestre seulement)</a></li><li><a href="./Rx01A.html#Amoxicillin">amoxicillin</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ou non)</li><li><a href="./Rx03C.html#Cefprozil">cefprozil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ou non)</li><li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ou non)</li></ul>]]></ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>, <a href="./Rx04D.html#Doxycycline">doxycycline (deuxième et troisième trimestres)</a>, <a href="./Rx12L.html#Levofloxacin">levofloxacin</a>, <a href="./Rx13M.html#Moxifloxacin">moxifloxacin</a></li></ul> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Idem, levofloxacin, moxifloxacin</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1><![CDATA[ Idem, <a href="./Rx12L.html#Levofloxacin">levofloxacin</a>, <a href="./Rx13M.html#Moxifloxacin">moxifloxacin</a> ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Prophylaxie post-coïtale</indication>
+  <ancrei><![CDATA[<a name="ProphylaxiePostCoitale">Prophylaxie post-coïtale</a>]]></ancrei>
+  <grossesse1> Nitrofurantoin, cephalexin</grossesse1>
+  <grossesse2> Sans objet</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> trimethoprim + sulfamethoxazole, norfloxacin, ciprofloxacin, ofloxacin</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a> ]]></ancreg1>
+  <ancreg2>sans objet</ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Nitrofurantoin, trimethoprim + sulfamethoxazole, norfloxacin, ciprofloxacin, ofloxacin, cephalexin</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a> ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Prophylaxie: traitement suppressif de l'infection urinaire</indication>
+  <ancrei><![CDATA[<a name="ProphylaxieTxSuppressif">Prophylaxie: traitement suppressif de l'infection urinaire</a>]]></ancrei>
+  <grossesse1> Nitrofurantoin</grossesse1>
+  <grossesse2> Sans objet</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> trimethoprim, trimethoprim + sulfamethoxazole, norfloxacin </grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a> ]]></ancreg1>
+  <ancreg2>sans objet</ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Nitrofurantoin, trimethoprim, trimethoprim + sulfamethoxazole, norfloxacin</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Pyélonéphrite aiguë</indication>
+  <ancrei><![CDATA[<a name="PyelonephriteAigue">Pyélonéphrite aiguë</a>]]></ancrei>
+  <grossesse1> Ampicillin + [gentamicin ou non], cefazolin + [gentamicin ou non], cefuroxime, ceftriaxone, gentamicin</grossesse1>
+  <grossesse2> Sans objet</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Sans objet</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<ul><li><a href="./Rx01A.html#Ampicillin">ampicillin</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin</a> ou non)</li><li><a href="./Rx03C.html#Cefazolin">cefazolin</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime (en intraveineux)</a></li><li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a></li><li><a href="./Rx07G.html#Gentamicin">gentamicin</a></li></ul>]]></ancreg1>
+  <ancreg2>sans objet</ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4>sans objet</ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Ampicillin + [gentamicin ou non], gentamycin + [ampicillin ou ciprofloxacin ou levofloxacin ou piperacillin ou non], ciprofloxacin + [gentamicin ou non]</allaitement1>
+  <allaitement2> Cefazolin, cefuroxime, ceftriaxone </allaitement2>
+  <ancrea1><![CDATA[<ul><li><a href="./Rx01A.html#Ampicillin">ampicillin</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin</a> ou non)</li><li><a href="./Rx07G.html#Gentamicin">gentamicin</a> + (<a href="./Rx01A.html#Ampicillin">ampicillin</a> ou <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou <a href="./Rx12L.html#Levofloxacin">levofloxacin</a> ou <a href="./Rx16P.html#Piperacillin">piperacillin avec ou sans tazobactam</a> ou non)</li><li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin</a> ou non) </li></ul>]]></ancrea1>
+  <ancrea2><![CDATA[<a href="./Rx03C.html#Cefazolin">cefazolin</a>, <a href="./Rx03C.html#Cefuroxime">cefuroxime (en intraveineux)</a>, <a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a> (Les céphalosporines, malgré leur compatibilité en grossesse, sont en général moins efficaces que les traitements ci-dessus pour cette indication à cause de la forte résistance bactérienne à cette classe d'antibiotiques.) ]]></ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Pyélonéphrite aiguë: traitement de relais</indication>
+  <ancrei><![CDATA[<a name="PyelonephriteAigueTxRelais">Pyélonéphrite aiguë: traitement de relais</a>]]></ancrei>
+  <grossesse1> Cephalexin, cefprozil, amoxicillin + clavulanate, trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</grossesse1>
+  <grossesse2> Sans objet</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent) </grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx03C.html#Cefprozil">cefprozil</a>, <a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a> ]]></ancreg1>
+  <ancreg2>sans objet</ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Ciprofloxacin, levofloxacin, norfloxacin, ofloxacin, trimethoprim + sulfamethoxazole, nitrofurantoin</allaitement1>
+  <allaitement2> Cephalexin, cefprozil, amoxicillin + clavulanate </allaitement2>
+  <ancrea1><![CDATA[ <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx12L.html#Levofloxacin">levofloxacin</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a> ]]></ancrea1>
+  <ancrea2><![CDATA[<a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx03C.html#Cefprozil">cefprozil</a>, <a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a> (Ces médicaments, malgré leur compatibilité en grossesse, sont en général moins efficaces que les traitements ci-dessus pour cette indication à cause de la forte résistance bactérienne à ces antibiotiques.) ]]></ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Sinusite</indication>
+  <ancrei><![CDATA[<a name="Sinusite">Sinusite</a>]]></ancrei>
+  <grossesse1> Amoxicillin</grossesse1>
+  <grossesse2> Amoxicillin + clavulanate + [clindamycin ou metronidazole ou non], cefprozil + [clindamycin ou metronidazole ou non], cefuroxime axetil + [clindamycin ou metronidazole ou non], clarithromycin (à partir du deuxième trimestre)  + [clindamycin ou metronidazole ou non], trimethoprim + sulfamethoxazole (deuxième trimestre seulement) + [clindamycin ou metronidazole ou non]</grossesse2>
+  <grossesse3> Ciprofloxacin</grossesse3>
+  <grossesse4> Clarithromycin (premier trimestre seulement), trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx01A.html#Amoxicillin">Amoxicillin</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<ul><li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li><li><a href="./Rx03C.html#Cefprozil">cefprozil</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li><li><a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li><li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li></ul> ]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ]]></ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Idem</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Syphilis</indication>
+  <ancrei><![CDATA[<a name="Syphilis">Syphilis</a>]]></ancrei>
+  <grossesse1> Si syphilis primaire, secondaire et latente précoce (moins de 1 an): penicillin G benzathine</grossesse1>
+  <grossesse2> Si syphilis latente tardive ou si syphilis latente de durée inconnue: penicillin G benzathine</grossesse2>
+  <grossesse3> Si neurosyphilis: penicillin G sodique</grossesse3>
+  <grossesse4> Sans objet</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[Si syphilis primaire, secondaire et latente précoce (moins de 1 an): <a href="./Rx16P.html#PenicillinG">penicillin G</a> benzathine]]></ancreg1>
+  <ancreg2><![CDATA[ Si syphilis latente tardive ou si syphilis latente de durée inconnue: <a href="./Rx16P.html#PenicillinG">penicillin G</a> benzathine]]></ancreg2>
+  <ancreg3><![CDATA[ Si neurosyphilis: <a href="./Rx16P.html#PenicillinG">penicillin G</a> sodique]]></ancreg3>
+  <ancreg4>sans objet</ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Idem</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Trichomonase</indication>
+  <ancrei><![CDATA[<a name="Trichomonase">Trichomonase</a>]]></ancrei>
+  <grossesse1> Metronidazole (voie orale unidose)</grossesse1>
+  <grossesse2> Metronidazole (voie orale, traitement de 7 jours)</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Sans objet</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie orale unidose)]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie orale, traitement de 7 jours)]]></ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4>sans objet</ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Idem</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Vaginose bactérienne</indication>
+  <ancrei><![CDATA[<a name="Vaginose">Vaginose bactérienne</a>]]></ancrei>
+  <grossesse1> Clindamycin (voie orale), metronidazole (voie orale)</grossesse1>
+  <grossesse2> Sans objet</grossesse2>
+  <grossesse3> Sans objet</grossesse3>
+  <grossesse4> Clindamycin (voie orale unidose ou intravaginale), metronidazole (voie orale unidose ou intravaginale)</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx03C.html#Clindamycin">clindamycin</a> (voie orale,  traitement de 7 jours), <a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie orale, traitement de 7 jours) ]]></ancreg1>
+  <ancreg2>sans objet</ancreg2>
+  <ancreg3>sans objet</ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx03C.html#Clindamycin">clindamycin</a> (voie orale unidose ou intravaginale), <a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie orale unidose ou intravaginale) ]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> Clindamycin (voie topique de préférence, voie orale acceptable), metronidazole (voie topique de préférence, voie orale acceptable) </allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+  <ancrea1><![CDATA[<a href="./Rx03C.html#Clindamycin">clindamycin</a> (voie topique de préférence, voie orale acceptable), <a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie topique de préférence, voie orale acceptable) ]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
  </tableau>
 
 </livre>

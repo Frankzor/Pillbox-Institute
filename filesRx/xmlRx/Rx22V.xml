@@ -4,7 +4,9 @@
 
  <tableau>
   <molecule> Valsartan</molecule>
+  <ancrem><![CDATA[<h1><a name="Valsartan">Valsartan</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
   <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
   <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
@@ -29,18 +31,20 @@
 
  <tableau>
   <molecule> Vasotec (enalapril)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
-  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
-  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
-  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Enalapril">Vasotec (enalapril)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Dose reçue par l'enfant par le lait maternel estimée à moins de 0.02 % de la dose maternelle ajustée au poids (n=6).</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -49,12 +53,14 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
- </tableau>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
  <tableau>
   <molecule> Verapamil</molecule>
+  <ancrem><![CDATA[<h1><a name="Verapamil">Verapamil</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Chez deux espèces animales: pas de tératogénicité à des doses supérieures aux doses humaines.</grossesse1>
   <grossesse2> Étude de surveillance: 76 nouveau-nés exposés au premier trimestre sans augmentation du taux de malformations majeures.</grossesse2>
   <grossesse3> </grossesse3>
@@ -78,19 +84,21 @@
  </tableau>
 
  <tableau>
-  <molecule> Visken (pindolol)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Non cardiosélectif, mais avec activité sympathomimétique intrinsèque.</grossesse1>
-  <grossesse2> Pas d'effet tératogène observé chez deux espèces animales.</grossesse2>
-  <grossesse3> Étude rapportant 38 nouveau-nés exposés au pindolol dont 7 au premier trimestre; un cas de reflux viscéro-urétral.</grossesse3>
-  <grossesse4> Pas d'effet néfaste rapporté dans plusieurs petites séries de cas d'exposition au cours des deuxième et troisième trimestres.</grossesse4>
+  <molecule> Vibramycin (doxycycline)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx04D.html#Doxycycline">Vibramycin (doxycycline)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 1.6 à 1.9 % (mépindolol)</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -99,7 +107,61 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
+
+ <tableau>
+  <molecule> Vigamox (moxifloxacin)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Moxifloxacin">Vigamox (moxifloxacin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Visken (pindolol)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Pindolol">Visken (pindolol)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
 </livre>

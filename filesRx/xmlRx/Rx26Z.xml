@@ -4,43 +4,20 @@
 
  <tableau>
   <molecule> Zaroxolyn (metolazone)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
-  <grossesse2> Étude de surveillance rapportant 635 expositions au premier trimestre (chlorthalidone (n=20), chlorothiazide (n=48), hydrochlorothiazide (n=567)): pas d'augmentation du taux d'anomalies congénitales ni de patron de malformations identifié.</grossesse2>
-  <grossesse3> Quelques cas de thrombocytopénie, d'hypoglycémie, d'hyponatrémie et d'hypokaliémie néonatales ont été rapportés avec les thiazidiques.</grossesse3>
-  <grossesse4> Les thiazidiques pourraient être diabétogènes chez la femme enceinte.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Metolazone">Zaroxolyn (metolazone)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Données pharmacocinétiques: poids moléculaire de 366 Da, temps de demi-vie de 8 à 14 heures.</allaitement1>
-  <allaitement2> Aucune donnée sur le passage dans le lait maternel.</allaitement2>
-  <allaitement3> </allaitement3>
-  <allaitement4> </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Préférer l'utilisation de l'hydrochlorothiazide si un agent thiazidique doit être utilisé.</recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Zestril (lisinopril)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
-  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
-  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
-  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
-  <grossesse5> </grossesse5>
-  <grossesse6> </grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Aucune donnée.</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -49,7 +26,88 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Zestril (lisinopril)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx12L.html#Lisinopril">Zestril (lisinopril) </a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Zithromax</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx01A.html#Azithromycin">Zithromax ou Z-pak (azithromycin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+  
+  <tableau>
+  <molecule> Zymar (gatifloxacin)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx07G.html#Gatifloxacin">Zymar (gatifloxacin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
 </livre>

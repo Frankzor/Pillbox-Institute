@@ -13,7 +13,8 @@
 <script src="./js/loadXMLdoc.js"></script>
 <script src="./js/goBack.js"></script>
 <script src="./js/magnify.js"></script>
-<title> M&eacute;dicaments en grossesse et en allaitement </title>
+<script src="./js/jquery.dynamictoc.js"></script>
+<title> </title>
 </head>
 <body>
 <div class="header"><strong> M&eacute;dicaments en grossesse et en allaitement</strong></div>
@@ -22,19 +23,42 @@
 <input type="button" class="mettreEnGras"  value="Agrandir" onclick="resizeText()" />
 </div>
 <h2> Table des mati&egrave;res</h2>
+<div id="dl_toc"></div>
 <script>
 var xmlDoc=myFunctionloadXMLdoc("indexRx.xml")
 var x=xmlDoc.getElementsByTagName("article");
-document.write("<ul>");
+document.write('<dl>');
 for (i=0;i<x.length;i++)
   { 
-  document.write('<li><a href="./filesRx/');
+  document.write('<dt><a href="./filesRx/');
   document.write(x[i].getElementsByTagName("lien")[0].childNodes[0].nodeValue);
+  document.write('#');
+  document.write(x[i].getElementsByTagName("nom")[0].childNodes[0].nodeValue);
   document.write('">');
   document.write(x[i].getElementsByTagName("nom")[0].childNodes[0].nodeValue);
-  document.write("</a></li><br />");
+  document.write("</a></dt><dd> </dd>");
   }
-document.write("</ul>");
+document.write('</dl>');
 </script>
+
+<p><a href="./filesRx/Rx01A.html#Altace">Altace</a></p>
+
+<p><a href="./filesRx/Rx01A.html#Amaryl">Amaryl</a></p>
+
+<p><a href="./filesRx/Rx01A.html#Amikacin">Amikacin</a></p>
+
+<p><a href="./filesRx/Rx01A.html#Atacand">Atacand</a></p>
+
+<p><a href="./filesRx/Rx01A.html#Atenolol">Atenolol</a></p>
+
+<p><a href="./filesRx/Rx01A.html#Avapro">Avapro</a></p>
+
+<p> GROS CACA! </p>
+
+  <script>
+    $(function() {
+      $("dl dt").dynamicToc({toc: "#dl_toc", filterOn: "+ dd", filter: true, debug: true});
+    });
+  </script>
 </body>
 </html>

@@ -4,17 +4,19 @@
 
  <tableau>
   <molecule> Ralivia (tramadol)</molecule>
-  <indication> Syndrome des jambes sans repos</indication>
-  <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (150 expositions au premier trimestre au tramadol).</grossesse1> 
+  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Tramadol">Ralivia (tramadol)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
   <grossesse2> </grossesse2>
-  <grossesse3> Opiacés associés à un risque de syndrome de sevrage chez les bébés à la naissance. Symptômes de sevrage (perturbation du système nerveux central [par exemple, tremblements, température instable, pleurs et sursauts spontanés] et du système gastro-intestinal [par exemple, difficulté à s'alimenter, vomissements] pris en charge par des mesures allant d'un simple emmaillotement à l'administration d'un traitement pharmacologique de courte durée pour les cas plus graves (par exemple, faibles doses de morphine).</grossesse3>
+  <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Un traitement par un opiacé est possible au cours de la grossesse. La codeine est à privilégier au premier trimestre, étant plus documentée chez la femme enceinte. D'autres opiacés pourraient être utilisés selon le jugement clinique; l'utilisation d'un opiacé ayant une structure similaire à celle de la codeine pourrait alors être privilégiée. Lors d'une utilisation répétée en fin de grossesse, suivi plus étroit nécessaire chez le nouveau-né dans les premiers jours de vie.</recommandationgrossesse>
+  <recommandationgrossesse> </recommandationgrossesse>
   <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
@@ -25,11 +27,13 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> </recommandationallaitement>
- </tableau>
+  </tableau>
 
  <tableau>
   <molecule> Ramipril</molecule>
+  <ancrem><![CDATA[<h1><a name="Ramipril">Ramipril</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
   <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
   <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
@@ -54,18 +58,20 @@
 
  <tableau>
   <molecule> Renedil (felodipine)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Anomalies digitales observées dans la descendance après administration de felodipine chez des lapins femelles à des doses proches des doses recommandées chez l'homme.</grossesse1>
-  <grossesse2> Trois notifications de cas rapportés avec la felodipine chez des femmes enceintes:</grossesse2>
-  <grossesse3> felodipine + atenolol pendant toute la grossesse;</grossesse3>
-  <grossesse4> felodipine à partir de six semaines de grossesse;</grossesse4>
-  <grossesse5> IECA et diurétique jusqu'à 7 semaines de grossesse suivi de felodipine à partir de 11 semaines (labétalol ajouté à 28 semaines).</grossesse5>
-  <grossesse6> Pas de malformations congénitales.</grossesse6>
-  <grossesse7> Bébés de petit poids à la naissance.</grossesse7>
-  <grossesse8> Une étude de cohorte comptant 78 femmes enceintes traitées avec un bloqueur des canaux calciques pendant le premier trimestre, la majorité avec la nifedipine (44 %) ou le verapamil (41 %), et les autres avec du diltiazem, de la nimodipine ou de.la felodipine: pas d'augmentation du taux de malformations majeures par rapport au groupe témoin. Le taux de prématurité et le poids à la naissance étaient plus faibles dans le groupe traité avec les bloqueurs de canaux calciques.</grossesse8>
+  <ancrem><![CDATA[<h1><a href="./Rx06F.html#Felodipine">Renedil (felodipine)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
-  <allaitement1> Absence de données, longue demi-vie d'élimination chez l'adulte (11 à 16 heures) donc risque théorique d'accumulation et d'effets indésirables chez le nourrisson.</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -74,12 +80,14 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Il est préférable d'utiliser la nifedipine.</recommandationallaitement>
- </tableau>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
  <tableau>
   <molecule> Repaglinide</molecule>
+  <ancrem><![CDATA[<h1><a name="Repaglinide">Repaglinide</a></h1>]]></ancrem>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Non tératogène chez le rat et le lapin.</grossesse1>
   <grossesse2> Déformations squelettiques chez les rats exposés in utero après l'organogenèse et pendant l'allaitement. Ces malformations seraient liées, d'après les auteurs, à des effets néfastes du repaglinide sur la croissance et non à un effet tératogène.</grossesse2>
   <grossesse3> Passage placentaire connu chez l'humain.</grossesse3>
@@ -104,9 +112,11 @@
 
  <tableau>
   <molecule> Requip (ropinirole)</molecule>
-  <indication> Syndrome des jambes sans repos</indication>
-  <grossesse1> 1) Données animales: augmentation des taux de malformations des doigts, diminution des poids foetaux et augmentation des morts foetales chez le rat à des doses supérieures aux doses humaines. Pas d'effet tératogène identifié chez le lapin lorsqu'administré seul. Association avec un risque augmenté de polypes de l'endomètre utérin bénins dans une étude de carcinogenèse chez la souris.</grossesse1>
-  <grossesse2> 2) Une étude observationnelle publiée sous forme de résumé mentionne le cas d'une patiente tratiée par ropinirole, sans précision sur la période d'exposition, avec naissance d'un enfant en santé.</grossesse2>
+  <ancrem><![CDATA[<h1><a href="./Rx18R.html#Ropinirole">Requip (ropinirole)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
@@ -114,7 +124,7 @@
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Le ropinirole n'a pas été suffisamment documenté pour évaluer leur risque tératogène. Son utilisation n'est pas recommandée durant la grossesse.</recommandationgrossesse>
+  <recommandationgrossesse> </recommandationgrossesse>
   <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
@@ -125,21 +135,23 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> </recommandationallaitement>
- </tableau>
+  </tableau>
 
  <tableau>
   <molecule> Rivotril (clonazepam)</molecule>
-  <indication> Syndrome des jambes sans repos, insomnie</indication>
-  <grossesse1> Pas d'augmentation du risque de malformation majeure notée dans plusieurs études de cohortes réalisées auprès de milliers de femmes exposées à une benzodiazépine au premier trimestre, incluant 435 expositions au clonazepam.</grossesse1>
-  <grossesse2> Association avec un risque augmenté de fentes labio-palatines dans quelques études cas-témoins rassemblées dans une méta-analyse; le risque absolu est estimé à environ 2 pour 1000 expositions, contre 1 pour 1000 naissances dans la population générale canadienne (période critique de palatogenèse de 8 à 11 semaines de grossesse)</grossesse2>
-  <grossesse3> Autres associations (malformations cardiovasculaires, atrésies digestives ou anales) parfois suggérées par d'autres études cas-témoins ou de surveillance; lien de causalité non confirmé pour le moment.</grossesse3>
-  <grossesse4> Dans une étude, l'utilisation à la fin de la grossesse est associée à une augmentation du risque (environ 2 fois) de prématurité, de faible poids à la naissance, de score d'Apgar diminué et de problèmes respiratoires; lien de causalité indéterminé; d'autres études montrent des résultats similaires ou contraires.</grossesse4>
-  <grossesse5> Syndrome d'imprégnation (floppy infant syndrome) possible chez les enfants exposés à des doses importantes ou régulières à la fin de la grossesse. Plus rarement un syndrome de retrait a été décrit. Apparition des symptômes rapidement après la naissance et durée généralement de quelques jours.</grossesse5>
-  <grossesse6> Peu d'évidence d'anomalies du développement neurocomportemental à ce jour dans de petites cohortes d'enfants exposés in utero.</grossesse6>
+  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Clonazepam">Rivotril (clonazepam)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Un traitement par benzodiazépines est possible au cours de la grossesse. Des complications néonatales transitoires sont possibles pour une utilisation répétée en fin de grossesse.</recommandationgrossesse>
+  <recommandationgrossesse> </recommandationgrossesse>
   <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
@@ -150,11 +162,13 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> </recommandationallaitement>
- </tableau>
+  </tableau>
 
  <tableau>
   <molecule> Ropinirole</molecule>
+  <ancrem><![CDATA[<h1><a name="Ropinirole">Ropinirole</a></h1>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
+  <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> 1) Données animales: augmentation des taux de malformations des doigts, diminution des poids foetaux et augmentation des morts foetales chez le rat à des doses supérieures aux doses humaines. Pas d'effet tératogène identifié chez le lapin lorsqu'administré seul. Association avec un risque augmenté de polypes de l'endomètre utérin bénins dans une étude de carcinogenèse chez la souris.</grossesse1>
   <grossesse2> 2) Une étude observationnelle publiée sous forme de résumé mentionne le cas d'une patiente tratiée par ropinirole, sans précision sur la période d'exposition, avec naissance d'un enfant en santé.</grossesse2>
   <grossesse3> </grossesse3>
@@ -179,7 +193,9 @@
 
  <tableau>
   <molecule> Rosiglitazone</molecule>
+  <ancrem><![CDATA[<h1><a name="Rosiglitazone">Rosiglitazone</a></h1>]]></ancrem>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Pas d'effet tératogène chez le rat et le lapin à des doses supérieures à la dose humaine recommandée. Dans ces mêmes études, pathologies placentaires chez le rat. Mort et retard de croissance in utero chez le rat et le lapin lors de l'administration en milieu et en fin de gestation.</grossesse1>
   <grossesse2> Passage placentaire connu. Une étude a montré un passage placentaire plus élevé à partir de 10 semaines de grossesse.</grossesse2>
   <grossesse3> Deux cas rapportés de femmes traitées pendant le premier trimestre par rosiglitazone en association avec fluoxetine dans un premier cas et acarbose, gliclazide, atorvastatin et de nombreux autres traitements dans le deuxième cas. Naissance de bébés en santé avec un développement normal lors d'un suivi à respectivement 4 et 18 mois.</grossesse3>

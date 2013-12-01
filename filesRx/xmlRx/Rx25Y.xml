@@ -4,7 +4,9 @@
 
  <tableau>
   <molecule> </molecule>
+  <ancrem> </ancrem>
   <indication> </indication>
+  <ancrei> </ancrei>
   <grossesse1> </grossesse1>
   <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>

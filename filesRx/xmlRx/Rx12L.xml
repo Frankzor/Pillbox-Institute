@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <livre>
-
+ 
  <tableau>
   <molecule> Labetalol</molecule>
+  <ancrem><![CDATA[<h1><a name="Labetalol">Labetalol</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Bloquant alpha et beta-adrénergique sans activité sympatomimétique intrinsèque.</grossesse1>
   <grossesse2> Pas d'effet tératogène observé chez deux espèces animales.</grossesse2>
   <grossesse3> Étude de surveillance: 29 expositions durant le premier trimestre, 4 malformations majeures non précisées.</grossesse3>
@@ -26,36 +28,13 @@
   <allaitement9> </allaitement9>
   <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
  </tableau>
-
+ 
  <tableau>
   <molecule> Lantus (insuline glargine)</molecule>
-  <indication> Diabète gestationnel</indication>
-  <grossesse1> Passage placentaire inconnu.</grossesse1>
-  <grossesse2> Augmentation in vitro de la liaison aux récepteurs IGF1 (Insulin-like Growth Factor 1) et du potentiel mitogène par rapport à l'insuline humaine. La stimulation des récepteurs du facteur de croissance insulinoïde IGF1 beaucoup plus importante que les autres insulines pourrait altérer la croissance foetale.</grossesse2>
-  <grossesse3> Environ 160 femmes exposées dont environ 150 au premier trimestre sans augmentation du risque de malformation par rapport à des femmes traitées par des insulines régulières (dont une étude regroupant 115 femmes au premier trimestre).</grossesse3>
-  <grossesse4> Dans de nombreuses études, on a noté une diminution des hypoglycémies nocturnes et un profil glycémique plus stable pendant la grossesse.</grossesse4>
-  <grossesse5> </grossesse5>
-  <grossesse6> </grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> Cet analogue de l'insuline semble présenter des avantages au niveau du contrôle glycémique. Cependant, son utilisation pendant la grossesse n'est pas recommandée du fait du manque de données. De plus, des données sur son pouvoir mitogène doivent être éclaircies.</recommandationgrossesse>
-  <allaitement1> Poids moléculaire: 6063 Da.</allaitement1>
-  <allaitement2> Liaison protéique: 5 %.</allaitement2>
-  <allaitement3> Durée d'action de 24 heures.</allaitement3>
-  <allaitement4> Aucune étude sur le passage des analogues insuliniques dans le lait maternel de femmes diabétiques traitées par insuline. </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Il n'existe aucune donnée dans la littérature médicale sur l'utilisation des analogues insuliniques pendant l'allaitement. Cependant, au regard des données pharmacocinétiques et de la destruction de l'insuline dans le tractus gastro-intestinal, leur utilisation semble sécuritaire. La surveillance de la glycémie maternelle est essentielle pendant le traitement. </recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Lasix (furosemide)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Étude de surveillance: 350 expositions au premier trimestre au furosemide et 5.1 % d'anomalies congénitales, sans aucun patron d'anomalies identifié.</grossesse1>
+  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineGlargine">Lantus (insuline glargine)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
   <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
@@ -64,9 +43,9 @@
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Le furosemide peut être utilisé, si requis, dans certaines conditions particulières (oedème pulmonaire, hypertension sévère, insuffisance cardiaque) en utilisant la dose minimale efficace. Les diurétiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Passage dans le lait non quantifié, mais probablement faible. Temps de demi-vie rapide de 30 à 120 minutes, forte liaison aux protéines plasmatiques. Bonne expérience clinique en néonatologie et en pédiatrie.</allaitement1>
-  <allaitement2> Absorption orale chez le nouveau-né variable.</allaitement2>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
@@ -74,14 +53,16 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Malgré l'absence de données, le furosemide peut être utilisé pendant l'allaitement si nécessaire. Puisque le temps de demi-vie du furosemide est court, la dose pourra être prise immédiatement après un boire pour limiter le passage dans le lait.</recommandationallaitement>
- </tableau>
-
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+ 
  <tableau>
-  <molecule> Levemir (insuline detemir)</molecule>
-  <indication> Diabète gestationnel</indication>
-  <grossesse1> Des études chez le rat et le lapin à des doses supérieures à la dose humaine recommandée ont montré des anomalies viscérales chez le rat et des anomalies vésicales chez le lapin.</grossesse1>
-  <grossesse2> Aucune donnée humaine durant la grossesse.</grossesse2>
+  <molecule> Lasix (furosemide)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx06.html#Furosemide">Lasix (furosemide)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
@@ -89,22 +70,78 @@
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Non recommandé pendant la grossesse en raison de l'absence de données humaines.</recommandationgrossesse>
-  <allaitement1> Absorption progressive sur 24 heures.</allaitement1>
-  <allaitement2> Liaison protéique supérieure à 98 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: 4 à 6 heures.</allaitement3>
-  <allaitement4> Aucune étude sur le passage des analogues insuliniques dans le lait maternel de femmes diabétiques traitées par insuline. </allaitement4>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Il n'existe aucune donnée dans la littérature médicale sur l'utilisation des analogues insuliniques pendant l'allaitement. Cependant, au regard des données pharmacocinétiques et de la destruction de l'insuline dans le tractus gastro-intestinal, leur utilisation semble sécuritaire. La surveillance de la glycémie maternelle est essentielle pendant le traitement. </recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+ 
+ <tableau>
+  <molecule> Levaquin (levofloxacin)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx12L.html#Levofloxacin">Levaquin (levofloxacin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
+ 
+ <tableau>
+  <molecule> Levemir (insuline detemir)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineDetemir">Levemir (insuline detemir)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
  <tableau>
   <molecule> Levodopa (avec ou sans carbidopa)</molecule>
+  <ancrem><![CDATA[<h1><a name="Levodopa">Levodopa (avec ou sans carbidopa)</a></h1>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
+  <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Levodopa: 1) 31 femmes enceintes traitées par levodopa dans une étude observationnelle publiée sous forme de résumé. 30 ont été traitées au moins au premier trimestre et 10 ont continué le traitement pendant toute la grossesse: pas de malformations majeures identifiées parmi les 24 naissances vivantes.</grossesse1>
   <grossesse2> Levodopa: 2) Au moins 50 rapports d'expositions pour la prise en charge de Parkinson ou du syndrome de Segawa. Périodes d'exposition pas toujours spécifiées, mais dans la majorité des cas, traitements des patientes pendant toute la grossesse: 41 enfants sans anomalies identifiées, 4 avortements spontanées et 3 enfants avec malformations (toutes différentes). Un cas de complication néonatale avec convulsions à une heure de vie et pneumonie (lien de causalité non déterminé).</grossesse2>
   <grossesse3> Levodopa: 3) 6 femmes ayant reçu la levodopa au cours du deuxième ou troisième trimestre en dose unique ou sur quelques jours: enfants sans anomalies rapportées.</grossesse3>
@@ -128,8 +165,91 @@
  </tableau>
 
  <tableau>
+  <molecule> Levofloxacin</molecule>
+  <ancrem><![CDATA[<h1><a name="Levofloxacin">Levofloxacin</a></h1>]]></ancrem>
+  <indication> Pneumonie acquise en communauté, cystite aiguë, pyélonéphrite aiguë, pyélonéphrite aiguë: traitement de relais</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a>, <a href="./00TxPatho.html#PyelonephriteAigue">pyélonéphrite aiguë</a>, <a href="./00TxPatho.html#PyelonephriteAigueTxRelais">pyélonéphrite aiguë: traitement de relais</a> ]]></ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> Risque théorique de foetotoxicité selon les études animales effectuées chez des chiots et des rats immatures qui ont présenté des arthropathies suite à la prise de fluoroquinolones. Pas d'évidence d'augmentation de l'incidence d'arthralgies chez les enfants ayant reçu des fluoroquinolones. Aucun cas d'arthropathies chez les enfants exposés in utero à des fluoroquinolones n'a été retrouvé jusqu'à présent. Développement musculo-squelettique normal chez un groupe de 173 enfants exposés durant la grossesse. </grossesse2>
+  <grossesse3> Plus de 1000 cas d'exposition aux fluoroquinolones au premier trimestre chez la femme enceinte dans différentes études: pas d'augmentation du taux de malformations majeures mise en évidence ni de patron d'anomalie décrit. Ciprofloxacine et norfloxacine principalement étudiées, quelques données avec ofloxacine.</grossesse3>
+  <grossesse4> Aucune donnée retrouvée chez la femme enceinte avec les autres fluoroquinolones.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Non recommandé. Il faut réserver l'utilisation des fluoroquinolones au traitement d'infections résistantes ou compliquées et privilégier la ciprofloxacin et la norfloxacin si possible parce que ce sont les mieux documentées. Par contre, une exposition aux fluoroquinolones au premier trimestre ne requiert pas de suivi obstétrical particulier.</recommandationgrossesse>
+  <allaitement1> Isomère de l'ofloxacin.</allaitement1>
+  <allaitement2> Biodisponibilité orale: 99 %.</allaitement2>
+  <allaitement3> Liaison aux protéines plasmatiques: de 24 à 38 %.</allaitement3>
+  <allaitement4> Temps de demi-vie: de 6 à 8 h.</allaitement4>
+  <allaitement5> Passage du médicament dans le lait maternel: 6.1 % de la dose utilisée en pédiatrie.</allaitement5>
+  <allaitement6> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Il faut réserver l'utilisation des fluoroquinolones au traitement d'infections résistantes ou compliquées. L'exposition à travers le lait maternel est très faible et l'allaitement ne comporte pas de risques pour le nourrisson durant la prise de fluoroquinolones. La ciprofloxacin et l'ofloxacin sont les mieux documentées. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Levothyroxine (T4)</molecule>
+  <ancrem><![CDATA[<h1><a name="Levothyroxine">Levothyroxine (T4)</a></h1>]]></ancrem>
+  <indication> Hypothyroïdie</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypothyroidie">Hypothyroïdie</a>]]></ancrei>
+  <grossesse1> Il est nécessaire d'augmenter les doses de levothyroxine de 30 à 50 % par rapport à la dose prise avant la grossesse. Selon les auteurs, les schémas proposés sont différents. Certains auteurs recommandent de prendre deux doses supplémentaires par semaine dès que la grossesse est confirmée jusqu'à ce que le taux de TSH soit déterminé pour ajuster la dose. D'autres auteurs conseillent d'augmenter de 25 à 50 mcg par jour dès que la grossesse est confirmée puis de doser la TSH 4 à 6 semaines plus tard. Après l'accouchement, la dose nécessaire de levothyroxine est la même que celle requise avant la grossesse.</grossesse1>
+  <grossesse2> La dose usuelle de substitution est de 1. 5 à 2 mcg/kg/jour.</grossesse2>
+  <grossesse3> Pas d'augmentation du taux de malformations majeures par rapport au taux de base dans la population générale ni de patron d'anomalie chez plus de 1000 femmes exposées au premier trimestre.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'utilisation de levothyroxine est possible à tous les trimestres de la grossesse.</recommandationgrossesse>
+  <allaitement1> Si on considère un allaitement maternel exclusif, la dose théorique à laquelle est exposé le bébé est inférieure à 0.01 % de la dose utilisée en pédiatrie.</allaitement1>
+  <allaitement2> Pas d'effets indésirables rapportés chez les bébés allaités dont les mères prenaient de la levotyroxine.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> La T4 est une hormone thyroïdienne secrétée par la mère et le bébé de façon endogène. Le but du traitement est de restaurer un état euthyroïdien chez la mère. Un traitement par levothyroxine est compatible avec l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Liothyronine (T3)</molecule>
+  <ancrem><![CDATA[<h1><a name="Liothyronine">Liothyronine</a></h1>]]></ancrem>
+  <indication> Hypothyroïdie</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypothyroidie">Hypothyroïdie</a>]]></ancrei>
+  <grossesse1> Pas d'augmentation du taux de malformations majeures par rapport au taux de base dans la population générale ni de patron d'anomalie chez 34 femmes exposées au cours du premier trimestre.</grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La liothyronine est peu utilisée en raison de sa courte durée d'action. Les données sont insuffisantes pour exclure tous les risque. Cependant, les données sont rassurantes dans le cas d'une exposition au cours de la grossesse puisqu'elle est obtenue par déiodination à partir de la levothyroxine.</recommandationgrossesse>
+  <allaitement1> Si on considère un allaitement maternel exclusif, la dose théorique à laquelle est exposé le bébé est inférieure à 10 % de la dose utilisée en pédiatrie.</allaitement1>
+  <allaitement2> Pas d'effets indésirables rapportés chez les bébés allaités dont les mères prenaient de la liotyronine.</allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> La T3 est une hormone thyroïdienne secrétée par la mère et le bébé de façon endogène. Le but du traitement est de restaurer un état euthyroïdien chez la mère. Un traitement par liothyronine est compatible avec l'allaitement. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Lisinopril</molecule>
+  <ancrem><![CDATA[<h1><a name="Lisinopril">Lisinopril</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
   <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
   <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
@@ -154,18 +274,20 @@
 
  <tableau>
   <molecule> Lopresor (metoprolol)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
-  <grossesse2> Pas d'effet tératogène observé chez deux espèces.</grossesse2>
-  <grossesse3> 52 nouveau-nés exposés durant le premier trimestre dans une étude de surveillance: 5.8 % de malformations majeures (non précisés).</grossesse3>
-  <grossesse4> Pas d'effet néfaste noté chez plus de 130 expositions au metoprolol aux deuxième et troisième trimestres dans plusieurs essais cliniques.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Metoprolol">Lopresor (metoprolol)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0.5 à 3.6 %</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -174,12 +296,14 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
- </tableau>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
  <tableau>
   <molecule> Losartan</molecule>
+  <ancrem><![CDATA[<h1><a name="Losartan">Losartan</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
   <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
   <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
@@ -204,59 +328,11 @@
 
  <tableau>
   <molecule> Lotensin (benazepril)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
-  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
-  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
-  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
-  <grossesse5> </grossesse5>
-  <grossesse6> </grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Aucune donnée.</allaitement1>
-  <allaitement2> </allaitement2>
-  <allaitement3> </allaitement3>
-  <allaitement4> </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA.</recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Lozide (indapamide)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
-  <grossesse2> Étude de surveillance rapportant 635 expositions au premier trimestre (chlorthalidone (n=20), chlorothiazide (n=48), hydrochlorothiazide (n=567)): pas d'augmentation du taux d'anomalies congénitales ni de patron de malformations identifié.</grossesse2>
-  <grossesse3> Quelques cas de thrombocytopénie, d'hypoglycémie, d'hyponatrémie et d'hypokaliémie néonatales ont été rapportés avec les thiazidiques.</grossesse3>
-  <grossesse4> Les thiazidiques pourraient être diabétogènes chez la femme enceinte.</grossesse4>
-  <grossesse5> </grossesse5>
-  <grossesse6> </grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Données pharmacocinétiques: poids moléculaire de 366 Da, temps de demi-vie de 14 heures.</allaitement1>
-  <allaitement2> Aucune donnée sur le passage dans le lait maternel.</allaitement2>
-  <allaitement3> </allaitement3>
-  <allaitement4> </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Préférer l'utilisation de l'hydrochlorothiazide si un agent thiazidique doit être utilisé.</recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Lyrica (pregabaline)</molecule>
-  <indication> Syndrome des jambes sans repos</indication>
-  <grossesse1> Données animales: absence de risque tératogène identifié chez trois espèces animales à doses similaires à celles utilisées chez l'humain; embryotoxicité et anomalies squelettiques et viscérales à doses élevées entraînant aussi une toxicité maternelle.</grossesse1>
-  <grossesse2> 26 grossesses exposées au cours d'essais cliniques: 5 avortements spontanées, 5 interruptions de grossesse (raison inconnue), 6 issues de grossesse inconnues et 10 enfants nés en santé, dont un avec un petit hémangiome. Toutes les femmes ont cessé leur traitement une fois la grossesse connue.</grossesse2>
+  <ancrem><![CDATA[<h1><a href="./Rx02B.html#Benazepril">Lotensin (benazepril)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
@@ -264,7 +340,7 @@
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Utilisation non recommandée durant la grossesse étant donné que les données sont trop limitées pour évaluer les risques.</recommandationgrossesse>
+  <recommandationgrossesse> </recommandationgrossesse>
   <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
@@ -275,6 +351,60 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> </recommandationallaitement>
- </tableau>
+  </tableau>
+
+ <tableau>
+  <molecule> Lozide (indapamide)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx09I.html#Indapamide">Lozide (indapamide)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Lyrica (pregabalin)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Pregabalin">Lyrica (pregabalin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
 </livre>

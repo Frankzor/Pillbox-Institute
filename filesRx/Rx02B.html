@@ -26,10 +26,9 @@ var xmlDoc=myFunctionloadXMLdoc("./xmlRx/Rx02B.xml");
 var x=xmlDoc.getElementsByTagName("tableau");
 for (i=0;i<x.length;i++)
  {
- document.write('<h1>');
- document.write(x[i].getElementsByTagName("molecule")[0].childNodes[0].nodeValue);
+ document.write(x[i].getElementsByTagName("ancrem")[0].childNodes[0].nodeValue);
  document.write("</h1><p><b>Indication envisagée:</b> ");
- document.write(x[i].getElementsByTagName("indication")[0].childNodes[0].nodeValue);
+ document.write(x[i].getElementsByTagName("ancrei")[0].childNodes[0].nodeValue);
  document.write("</p><p><b>Données durant la grossesse</b></p><p>");
  document.write(x[i].getElementsByTagName("grossesse1")[0].childNodes[0].nodeValue);
  document.write("</p><p>");

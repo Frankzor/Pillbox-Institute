@@ -3,8 +3,64 @@
 <livre>
 
  <tableau>
+  <molecule> Bacampicillin</molecule>
+  <ancrem><![CDATA[<h1><a name="Bacampicillin">Bacampicillin</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
+  <grossesse2> Étude cas-témoins: pas d'association entre l'utilisation d'oxacillin (non commercialisée au Canada) au premier trimestre et la survenue de malformations congénitales. </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale: 98 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: de 17 à 20 %. </allaitement2>
+  <allaitement3> Temps de demi-vie: de 1.1 h. </allaitement3>
+  <allaitement4> Métabolite actif: ampicillin.</allaitement4>
+  <allaitement5> Passage du médicament dans le lait maternel: seulement des traces détectées (limite de détection inconnu). </allaitement5>
+  <allaitement6> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'allaitement est compatible avec la prise de pénicillines étant donné la dose minime à laquelle l'enfant est exposé et qu'il s'agit d'une classe bien connue en pédiatrie. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Bactrim (trimethoprim + sulfamethoxazole)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Trimethoprim">Bactrim (trimethoprim + sulfamethoxazole)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
   <molecule> Benazepril</molecule>
+  <ancrem><![CDATA[<h1><a name="Benazepril">Benazepril</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
   <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
   <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
@@ -28,8 +84,37 @@
  </tableau>
 
  <tableau>
+  <molecule> Biaxin</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Clarithromycin">Biaxin (clarithromycin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
   <molecule> Bisoprolol</molecule>
+  <ancrem><![CDATA[<h1><a name="Bisoprolol">Bisoprolol</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
   <grossesse2> Pas d'effet tératogène observé chez deux espèces animales.</grossesse2>
   <grossesse3> Notification d'un cas de malformations associées: fente labio-palatine, hypertélorisme chez un bébé exposé au bisoprolol, sumatriptan, et naproxène lors des cinq premières semaines de gestation.</grossesse3>
@@ -54,42 +139,19 @@
 
  <tableau>
   <molecule> Blocadren (timolol)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Non cardiosélectif et sans activité sympathomimétique intrinsèque.</grossesse1>
-  <grossesse2> Pas d'effet tératogène observé chez trois espèces animales.</grossesse2>
-  <grossesse3> Pas d'étude retrouvée chez la femme enceinte.</grossesse3>
+  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Timolol">Blocadren (timolol)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labetalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 1 % (oral), 0.4 % (ophtalmique).</allaitement1>
-  <allaitement2> </allaitement2>
-  <allaitement3> </allaitement3>
-  <allaitement4> </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Brevibloc (esmolol)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
-  <grossesse2> Pas d'effet tératogène observé chez deux espèces animales.</grossesse2>
-  <grossesse3> Aucun cas d'exposition durant le premier trimestre n'a été retrouvé dans la littérature médicale.</grossesse3>
-  <grossesse4> Blocage beta-adrénergique transitoire observé chez des bébés exposés à l'esmolol en fin de grossesse.</grossesse4>
-  <grossesse5> </grossesse5>
-  <grossesse6> </grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
+  <recommandationgrossesse> </recommandationgrossesse>
   <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
@@ -102,5 +164,31 @@
   <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
+ <tableau>
+  <molecule> Brevibloc (esmolol)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Esmolol">Brevibloc (esmolol)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
 
 </livre>

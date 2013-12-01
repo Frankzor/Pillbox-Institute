@@ -4,57 +4,63 @@
 
  <tableau>
   <molecule> Humalog (insuline lispro)</molecule>
-  <indication> Diabète gestationnel</indication>
-  <grossesse1> Pas de passage placentaire.</grossesse1>
-  <grossesse2> Plus de 500 femmes exposées au premier trimestre sans augmentation du risque de malformations par rapport à des femmes traitées par insuline humaine régulière.</grossesse2>
-  <grossesse3> Amélioration ou contrôle glycémique identique et diminution ou nombre similaire d'hypoglycémies par rapport à une insuline régulière.</grossesse3>
-  <grossesse4> Pas d'augmentation des complications maternelles et néonatales chez les femmes traitées par insuline lispro par rapport aux femmes traitées par insuline régulière pour un diabète préexistant ou gestationnel.</grossesse4>
-  <grossesse5> Deux cas rapportés de malformations congénitales chez des femmes diabétiques de type 1 traitées au premier trimestre [anomalies cardiaques, pulmonaires et situs invertus abdominal; hernie diaphragmatique (décès à 3 semaines de vie)]. Dans les deux cas, les femmes présentaient une hémoglobine glyquée bien contrôlée.</grossesse5>
-  <grossesse6> Dans une cohorte de 14 patientes, trois ont développé une rétinopathie proliférative bilatérale pendant leur grossesse. Ces trois femmes présentaient des glycémies anormalement élevées. L'auteur a conclu que la progression de la rétinopathie chez ces femmes pouvait être lié au pouvoir mitogène de l'insuline lispro. Cependant, cette complication n'a pas été retrouvé dans les autres études.</grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> L'insuline lispro peut être utilisée pendant la grossesse si son emploi est jugé nécessaire. Cet analogue semble présenter des avantages importants au niveau du contrôle glycémique, un nombre plus faible d'hypoglycémie par rapport à une insuline régulière et des issues de grossesse similaires. La satisfaction des patientes est supérieure à celles utilisant une insuline régulière, ce qui contribue à une meilleure adhésion des patientes au traitement.</recommandationgrossesse>
-  <allaitement1> Poids moléculaire: 5826 Da.</allaitement1>
-  <allaitement2> Temps de demi-vie: 81 min.</allaitement2>
-  <allaitement3> Aucune étude sur le passage des analogues insuliniques dans le lait maternel de femmes diabétiques traitées par insuline. </allaitement3>
-  <allaitement4> </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Il n'existe aucune donnée dans la littérature médicale sur l'utilisation des analogues insuliniques pendant l'allaitement. Cependant, au regard des données pharmacocinétiques et de la destruction de l'insuline dans le tractus gastro-intestinal, leur utilisation semble sécuritaire. La surveillance de la glycémie maternelle est essentielle pendant le traitement. </recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Humulin R ou N [insuline humaine (régulière, NPH, lente, ultralente)]</molecule>
-  <indication> Diabète gestationnel</indication>
-  <grossesse1> Pas de passage transplacentaire.</grossesse1>
-  <grossesse2> L'insuline permet un contrôle glycémique adéquat chez les femmes diabétiques de type 1 ou 2 et chez les femmes présentant un diabète gestationnel non contrôlé par la diète seule. Il a été montré dans de nombreuses études que le contrôle glycémique pendant la période préconceptionnelle et la grossesse permettait de réduire de manière significative le taux de malformations et de complications maternelles et foetales.</grossesse2>
-  <grossesse3> Bonne expérience clinique avec l'insuline humaine.</grossesse3>
+  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineLispro">Humalog (insuline lispro)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> L'insuline humaine est le traitement de premier recours du diabète chez la femme enceinte.</recommandationgrossesse>
-  <allaitement1> Poids moléculaires supérieurs à 6000 Da.</allaitement1>
-  <allaitement2> L'insuline est détruite dans le tractus gastro-intestinal de l'enfant.</allaitement2>
-  <allaitement3> Aucune étude sur le passage de l'insuline dans le lait maternel de femmes diabétiques traitées par insuline.</allaitement3>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> L'insuline est le traitement de premier recours lors de l'allaitement. La surveillance de la glycémie maternelle est essentielle pendant le traitement.</recommandationallaitement>
- </tableau>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Humulin R ou N [insuline humaine (régulière, NPH, lente, ultralente)]</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineHumaine"> Humulin R ou N [insuline humaine (régulière, NPH, lente, ultralente)] </a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
  <tableau>
   <molecule> Hydralazine</molecule>
+  <ancrem><![CDATA[<h1><a name="Hydralazine">Hydralazine</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Anomalies digitales chez une espèce à des doses supérieures à celles utilisées chez l'humain.</grossesse1>
   <grossesse2> Étude de surveillance: 48 cas d'exposition au premier trimestre: pas d'augmentation du taux de malformations congénitales.</grossesse2>
   <grossesse3> Utilisation de l'hydralazine en fin de grossesse: trois cas de thrombocytopénie néonatale transitoire et saignement.</grossesse3>
@@ -79,7 +85,9 @@
 
  <tableau>
   <molecule> Hydrochlorothiazide</molecule>
+  <ancrem><![CDATA[<h1><a name="Hydrochlorothiazide">Hydrochlorthiazide</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
   <grossesse2> Étude de surveillance rapportant 635 expositions au premier trimestre (chlorthalidone (n=20), chlorothiazide (n=48), hydrochlorothiazide (n=567)): pas d'augmentation du taux d'anomalies congénitales ni de patron de malformations identifié.</grossesse2>
   <grossesse3> Quelques cas de thrombocytopénie, d'hypoglycémie, d'hyponatrémie et d'hypokaliémie néonatales ont été rapportés avec les thiazidiques.</grossesse3>
@@ -104,7 +112,9 @@
 
  <tableau>
   <molecule> Hydrocodone</molecule>
-  <indication> Syndrome des jambes sans repos</indication>
+  <ancrem><![CDATA[<h1><a name="Hydrocodone">Hydrocodone</a></h1>]]></ancrem>
+  <indication> Syndrome des jambes sans repos, toux</indication>
+  <ancrei> Syndrome des jambes sans repos, toux </ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (380 expositions au premier trimestre à l'hydrocodone).</grossesse1> 
   <grossesse2> </grossesse2>
   <grossesse3> Opiacés associés à un risque de syndrome de sevrage chez les bébés à la naissance. Symptômes de sevrage (perturbation du système nerveux central [par exemple, tremblements, température instable, pleurs et sursauts spontanés] et du système gastro-intestinal [par exemple, difficulté à s'alimenter, vomissements] pris en charge par des mesures allant d'un simple emmaillotement à l'administration d'un traitement pharmacologique de courte durée pour les cas plus graves (par exemple, faibles doses de morphine).</grossesse3>
@@ -129,19 +139,21 @@
 
  <tableau>
   <molecule> Hydrodiuril (hydrochlorothiazide)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
-  <grossesse2> Étude de surveillance rapportant 635 expositions au premier trimestre (chlorthalidone (n=20), chlorothiazide (n=48), hydrochlorothiazide (n=567)): pas d'augmentation du taux d'anomalies congénitales ni de patron de malformations identifié.</grossesse2>
-  <grossesse3> Quelques cas de thrombocytopénie, d'hypoglycémie, d'hyponatrémie et d'hypokaliémie néonatales ont été rapportés avec les thiazidiques.</grossesse3>
-  <grossesse4> Les thiazidiques pourraient être diabétogènes chez la femme enceinte.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx08H.html#Hydrochlorothiazide">Hydrodiuril (hydrochlorothiazide)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Passage dans le lait faible: estimé à moins de 1 % de la dose utilisée en néonatologie (n=1); pas de concentration détectable dans le sérum de l'enfant.</allaitement1>
-  <allaitement2> Risque théorique de diminution de la production de lait par déplétion volémique.</allaitement2>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
@@ -149,13 +161,14 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Préférer l'utilisation de l'hydrochlorothiazide si un agent thiazidique doit être utilisé.</recommandationallaitement>
- </tableau>
-
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
  <tableau>
   <molecule> Hydromorphone</molecule>
+  <ancrem><![CDATA[<h1><a name="Hydromorphone">Hydromorphone</a></h1>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
+  <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (12 expositions au premier trimestre à l'hydromorphone).</grossesse1> 
   <grossesse2> </grossesse2>
   <grossesse3> Opiacés associés à un risque de syndrome de sevrage chez les bébés à la naissance. Symptômes de sevrage (perturbation du système nerveux central [par exemple, tremblements, température instable, pleurs et sursauts spontanés] et du système gastro-intestinal [par exemple, difficulté à s'alimenter, vomissements] pris en charge par des mesures allant d'un simple emmaillotement à l'administration d'un traitement pharmacologique de courte durée pour les cas plus graves (par exemple, faibles doses de morphine).</grossesse3>
@@ -180,19 +193,21 @@
 
  <tableau>
   <molecule> Hygroton (chlorthalidone)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
-  <grossesse2> Étude de surveillance rapportant 635 expositions au premier trimestre (chlorthalidone (n=20), chlorothiazide (n=48), hydrochlorothiazide (n=567)): pas d'augmentation du taux d'anomalies congénitales ni de patron de malformations identifié.</grossesse2>
-  <grossesse3> Quelques cas de thrombocytopénie, d'hypoglycémie, d'hyponatrémie et d'hypokaliémie néonatales ont été rapportés avec les thiazidiques.</grossesse3>
-  <grossesse4> Les thiazidiques pourraient être diabétogènes chez la femme enceinte.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Chlorthalidone">Hygroton (chlorthalidone)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Données pharmacocinétiques: poids moléculaire de 339 Da, temps de demi-vie de 54 heures.</allaitement1>
-  <allaitement2> Aucune donnée sur le passage dans le lait maternel.</allaitement2>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
@@ -200,7 +215,7 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Préférer l'utilisation de l'hydrochlorothiazide si un agent thiazidique doit être utilisé.</recommandationallaitement>
- </tableau>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
 </livre>

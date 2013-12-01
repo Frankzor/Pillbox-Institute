@@ -4,9 +4,11 @@
 
  <tableau>
   <molecule> Edecrin (ethacrynique, acide)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Pas d'anomalies animales observés avec l'acide éthacrynique (50 fois la dose humaine).</grossesse1>
-  <grossesse2> Pas d'études retrouvées chez l'humain avec l'acide ethacrynique.</grossesse2>
+  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Ethacrynique">Edecrin (ethacrynique, acide)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
@@ -14,8 +16,8 @@
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Le furosemide peut être utilisé, si requis, dans certaines conditions particulières (oedème pulmonaire, hypertension sévère, insuffisance cardiaque) en utilisant la dose minimale efficace. Les diurétiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Aucune donnée.</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -24,13 +26,14 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Malgré l'absence de données, le furosemide peut être utilisé pendant l'allaitement si nécessaire. Puisque le temps de demi-vie du furosemide est court, la dose pourra être prise immédiatement après un boire pour limiter le passage dans le lait.</recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
-
 
  <tableau>
   <molecule> Enalapril</molecule>
+  <ancrem><![CDATA[<h1><a name="Enalapril">Enalapril</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
   <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
   <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
@@ -55,7 +58,9 @@
 
  <tableau>
   <molecule> Eprosartan</molecule>
+  <ancrem><![CDATA[<h1><a name="Eprosartan">Eprosartan</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
   <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
   <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
@@ -79,8 +84,91 @@
   </tableau>
 
  <tableau>
+  <molecule> Ertapenem</molecule>
+  <ancrem><![CDATA[<h1><a name="Ertapenem">Ertapenem</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> Études animales: pas d'effet tératogène chez 2 espèces avec ertapenem, imipenem + cilastatin et meropenem.</grossesse1>
+  <grossesse2> Aucune donnée chez la femme enceinte au premier trimestre n'a été retrouvée.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La structure et le mécanisme d'action sont similaires aux pénicillines. La gravité des situations nécessitant des carbapénèms justifie probablement leur situation. Toutefois, ce ne sont pas des agents de premier recours lorsque d'autres options mieux documentées sont disponibles. </recommandationgrossesse>
+  <allaitement1> Liaison aux protéines plasmatiques: de 85 à 95 %. Temps de demi-vie: 4 heures. </allaitement1>
+  <allaitement2> Passage du médicament dans le lait maternel: 0.2 % de la dose utilisée en pédiatrie selon le fabricant. </allaitement2>
+  <allaitement3> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Malgré le peu de données disponibles sur l'utilisation des carbapénèms pendant l'allaitement, il semble peu probable que l'enfant absorbe une quantité significative de ces agents puisque leur biodisponibilité orale est faible.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Eryc (erythromycin)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Erythromycin">Eryc (erythromycin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Erythromycin</molecule>
+  <ancrem><![CDATA[<h1><a name="Erythromycin">Erythromycin</a></h1>]]></ancrem>
+  <indication> Pharyngite, pneumonie acquise en communauté, chlamydiose</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Pharyngite">pharyngite</a>, <a href="./00TxPatho.html#PneumoniePatienteHospitalisee">pneumonie acquise en communauté: patiente hospitalisée</a>, <a href="./00TxPatho.html#PneumonieTxRelais">pneumonie acquise en communauté: traitement de relais</a>, <a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#Chlamydiose">chlamydiose</a> ]]></ancrei>
+  <grossesse1> Pas d'augmentation du risque de malformations congénitales dans 3 études de surveillance rapportant plus de 7300 expositions au cours du premier trimestre (sels d'erythromycin non spécifiés).</grossesse1>
+  <grossesse2> Pas d'effet tératogène en cas d'exposition pendant les deuxième et troisième mois de grossesse dans une étude cas-témoins.</grossesse2>
+  <grossesse3> Augmentation du taux de malformations cardiaques et de sténose du pylore dans une étude prospective à partir de registres de naissances (1844 bébés exposés à l'erythromycin en début de grossesse).</grossesse3>
+  <grossesse4> Pas de confirmation du risque de sténose du pylore avec la prise de macrolides dans une étude cas-témoins et 2 études rétrospectives.</grossesse4>
+  <grossesse5> Hépatotoxicité réversible décrite avec l'estolate d'erythromycin chez la femme enceinte.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'erythromycin peut être utilisée à tous les trimestres de la grossesse. Les sels d'estolate doivent être évités.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale variable.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: de 75 à 90 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: de 1.5 à 2 h.</allaitement3>
+  <allaitement4> Passage du médicament dans le lait maternel: 2.4 % de la dose utilisée en pédiatrie.</allaitement4>
+  <allaitement5> Un cas de sténose du pylore (vomissements, sédation, difficultés à la succion et faible gain de poids) rapporté chez un bébé de trois semaines.</allaitement5>
+  <allaitement6> Une étude de cohorte a associé la survenue de sténose du pylore à la prise d'antibiotiques par la mère dans les 90 jours suivant l'accouchement. (72 % des mères prenaient de l'erythromycin, mais on ne sait pas quelle était la proportion d'enfants avec une sténose du pylore.)</allaitement6>
+  <allaitement7> Deux cas de diarrhée et 2 cas d'irritabilité rapportés par les mères dans une étude de suivi téléphonique parmi 17 bébés exposés à l'erythromycin à travers le lait; pas de consultation médicale nécessaire.</allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'erythromycin est compatible avec l'allaitement. Le lien entre les macrolides pris par la mère et la sténose du pylore chez le nourrisson a été évoqué dans une étude seulement et devra être confirmé avant de conclure à un risque réel. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Esmolol</molecule>
+  <ancrem><![CDATA[<h1><a name="Esmolol">Esmolol</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
   <grossesse2> Pas d'effet tératogène observé chez deux espèces animales.</grossesse2>
   <grossesse3> Aucun cas d'exposition durant le premier trimestre n'a été retrouvé dans la littérature médicale.</grossesse3>
@@ -105,7 +193,9 @@
 
  <tableau>
   <molecule> Ethacrynique, acide</molecule>
+  <ancrem><![CDATA[<h1><a name="Ethacrynique">Ethacrynique, acide</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Pas d'anomalies animales observés avec l'acide éthacrynique (50 fois la dose humaine).</grossesse1>
   <grossesse2> Pas d'études retrouvées chez l'humain avec l'acide ethacrynique.</grossesse2>
   <grossesse3> </grossesse3>

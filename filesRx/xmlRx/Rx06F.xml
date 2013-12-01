@@ -4,7 +4,9 @@
 
  <tableau>
   <molecule> Felodipine</molecule>
+  <ancrem><![CDATA[<h1><a name="Felodipine">Felodipine</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Anomalies digitales observées dans la descendance après administration de felodipine chez des lapins femelles à des doses proches des doses recommandées chez l'homme.</grossesse1>
   <grossesse2> Trois notifications de cas rapportés avec la felodipine chez des femmes enceintes:</grossesse2>
   <grossesse3> felodipine + atenolol pendant toute la grossesse;</grossesse3>
@@ -29,7 +31,9 @@
 
  <tableau>
   <molecule> Fer</molecule>
+  <ancrem><![CDATA[<h1><a name="Fer">Fer</a></h1>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
+  <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Des milliers de patientes exposées pendant la grossesse sans association avec un risque augmenté de malformation majeure.</grossesse1>
   <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
@@ -53,8 +57,64 @@
  </tableau>
 
  <tableau>
+  <molecule> Flagyl (metronidazole)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Metronidazole">Flagyl (metronidazole)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Fosfomycin</molecule>
+  <ancrem><![CDATA[<h1><a name="Fosfomycin">Fosfomycin</a></h1>]]></ancrem>
+  <indication> Bactériurie asymptomatique, cystite aiguë</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Bacteriurie">bactériurie asymptomatique</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a> ]]></ancrei>
+  <grossesse1> Pas d'effet tératogène mis en évidence chez deux espèces animales.</grossesse1>
+  <grossesse2> Efficacité de la fosfomycin en dose unique dans les cystites non compliquées évaluée dans différentes études. Cependant, peu de données disponibles sur les issues de grossesse, en particulier en cas d'exposition au premier trimestre. </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La fosfomycin est réservée pour des traitements d'infections urinaires non compliquées à partir du deuxième trimestre. Toutefois, une exposition accidentelle au premier trimestre ne requiert pas de suiv obstétrical particulier.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale: de 34 à 58 % (sels de trometamol), moins de 12 % (sels de calcium).</allaitement1>
+  <allaitement2> Temps de demi-vie: de 4 à 8 h.</allaitement2>
+  <allaitement3> Passage du médicament dans le lait maternel: 2.5 % de la dose maternelle ajustée au poids.</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Un traitement par fosfomycin est compatible avec l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Fosinopril</molecule>
+  <ancrem><![CDATA[<h1><a name="Fosinopril">Fosinopril</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
   <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
   <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
@@ -65,7 +125,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Quantité non détectable dans le lait hhumain selon le fabricant. </allaitement1>
+  <allaitement1> Quantité non détectable dans le lait humain selon le fabricant. </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -78,8 +138,37 @@
  </tableau>
 
  <tableau>
+  <molecule> Framycetin</molecule>
+  <ancrem><![CDATA[<h1><a name="Framycetin">Framycetin</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> Biodisponibilité cutanée négligeable (peau intacte).</grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les aminosides peuvent être utilisés durant la grossesse à tous les trimestres. Toutefois, la streptomycine devrait rester un dernier choix de traitement dans les aminosides à cause de son association plus fréquente à des cas d'ototoxicité. Les aminosides par voie topique ou par inhalation ont une absorption faible. Les quantités présentes dans les formes ophtalmiques, otiques ou rectales sont faibles. Des dosages des taux sériques d'aminosides administrés par voie systémique sont recommandés chez la mère pour assurer l'efficacité et prévenir la toxicité associée au traitement. Pas de données sur l'utilisation des aminosides en doses uniquotidiennes durant la grossesse. </recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale négligeable. </allaitement1>
+  <allaitement2> Biodisponibilité cutanée négligeable (peau intacte). </allaitement2>
+  <allaitement3> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les aminosides sont compatibles avec l'allaitement. Ils passent en petite quantité dans le lait maternel et leur biodisponibilité orale est faible. C'est pourquoi il est peu probable que des effets indésirables soient observés chez les bébés. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
   <molecule> Furosemide</molecule>
+  <ancrem><![CDATA[<h1><a name="Furosemide">Furosemide</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance: 350 expositions au premier trimestre au furosemide et 5.1 % d'anomalies congénitales, sans aucun patron d'anomalies identifié.</grossesse1>
   <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>

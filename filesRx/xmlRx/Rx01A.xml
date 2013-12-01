@@ -4,7 +4,9 @@
 
  <tableau>
   <molecule> Acarbose</molecule>
+  <ancrem><![CDATA[<h1><a name="Acarbose">Acarbose</a></h1>]]></ancrem>
   <indication> Diabète gestationnel</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Absorption de moins de 2 % de la dose sous forme active et de plus de 30 % sous forme de métabolites.</grossesse1>
   <grossesse2> Cinq expositions maternelles au premier trimestre: 2 avortements spontanés et 3 issues de grossesse favorable.</grossesse2>
   <grossesse3> Six femmes traitées pendant leur grossesse: naissance de 6 bébés en santé (périodes d'expositions non disponibles).</grossesse3>
@@ -29,18 +31,20 @@
 
  <tableau>
   <molecule> Accupril (quinapril)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
-  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
-  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
-  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx17Q.html#Quinapril">Accupril (quinapril)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Dose reçue par l'enfant par le lait maternel estimée entre 1 et 2.6 % de la dose maternelle ajustée au poids. Concentrations dans le lait maternel indétectables 4 heures après la dose (n=6).</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -49,12 +53,14 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Acebutolol</molecule>
+  <ancrem><![CDATA[<h1><a name="Acebutolol">Acebutolol</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Cardiosélectif avec activité sympathomimétique intrinsèque.</grossesse1>
   <grossesse2> Pas d'effets tératogène observé chez deux espèces animales.</grossesse2>
   <grossesse3> Étude rapportant 56 nouveau-nés exposés à l'acebutolol dont 6 au premier trimestre; pas de malformations chez ces enfants.</grossesse3>
@@ -79,43 +85,20 @@
 
  <tableau>
   <molecule> Actos (pioglitazone)</molecule>
-  <indication> Diabète gestationnel</indication>
-  <grossesse1> Embryotoxicité chez le rat et le lapin à des doses supérieures à la dose humaine recommandée.</grossesse1>
-  <grossesse2> La prise tardive pendant la gestation et l'allaitement a abouti à un retard de croissance attribuable à la perte de poids chez le rat.</grossesse2>
-  <grossesse3> Passage placentaire inconnu.</grossesse3>
-  <grossesse4> Aucune donnée humaine.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Pioglitazone">Actos (pioglitazone)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les thiazolidinediones ne sont pas recommandées pendant la grossesse en raison de l'absence ou de l'insuffisance de données humaines.</recommandationgrossesse>
-  <allaitement1> Poids moléculaire: 393 Da.</allaitement1>
-  <allaitement2> Liaison protéique supérieure à 99 %.</allaitement2>
-  <allaitement3> Temps de demi-vie de la pioglitazone et de ces métabolites est de 16 à 24 h.</allaitement3>
-  <allaitement4> Aucune information rapportée concernant l'utilisation de la pioglitazone pendant l'allaitement.</allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Non recommandé pendant l'allaitement. </recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Adalat (nifedipine)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Anomalies digitales chez deux espèces animales et autres anomalies diverses (malformations squelettiques, fentes palatines) chez trois espèces animales à doses similaires ou supérieures à celles utilisées chez l'humain.</grossesse1>
-  <grossesse2> Quatre observations cliniques isolées de malformations des membres ou des doigts rapportés chez l'humain; lien de causalité inconnu.</grossesse2>
-  <grossesse3> Deux malformations majeures notées chez 37 nouveau-nés exposés au premier trimestre dans une étude de surveillance. </grossesse3>
-  <grossesse4> Une étude de cohorte comptant 78 femmes enceintes traitées avec un bloqueur des canaux calciques pendant le premier trimestre, la majorité avec la nifedipine (44 %) ou le verapamil (41 %), et les autres avec du diltiazem, de la nimodipine ou de.la felodipine: pas d'augmentation du taux de malformations majeures par rapport au groupe témoin. Le taux de prématurité et le poids à la naissance étaient plus faibles dans le groupe traité avec les bloqueurs de canaux calciques. </grossesse4>
-  <grossesse5> La nifedipine est également utilisée comme tocolytique avec une efficacité similaire à d'autres agents et un meilleur profil d'effets indésirables.</grossesse5>
-  <grossesse6> Un suivi jusqu'à l'âge de 9 à 12 ans d'enfants de mères tocolysées avec la ritodrine et la nifedipine a démontré qu'il n'y avait pas de différence dans le développement moteur. Les enfants exposés à la nifedipine avaient un développement psychologique légèrement meilleur. Anomalies digitales et autres anomalies diverses (malformations squelettiques, fentes palatines) chez trois espèces animales à doses similaires ou supérieures à celles utilisées chez l'humain.</grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
-  <allaitement1> Dose reçue par l'enfant estimée à moins de 1 % de la dose pédiatrique; aucun effet indésirable rapporté chez les nourrissons.</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -124,14 +107,16 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Compatible avec l'allaitement.</recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
  <tableau>
-  <molecule> Aldactone (spironolactone)</molecule>
-  <indication> Hypertension, acné</indication>
-  <grossesse1> Premièrement, la spironolactone démontre des propriétés antiandrogéniques en agissant comme un antagoniste des récepteurs androgéniques et en inhibant l'enzyme 5-alpha-réductase. Chez les rates gravides exposées à ce médicament, une féminisation des foetus mâles a été notée. Cette observation a amené l'inquiétude d'une virilisation insuffisante chez les garçons exposés in utero. À ce jour, un tel effet n'a pas été rapporté chez l'humain. En fait, les notifications de cas totalisent 3 foetus mâles exposés à la spironolactone durant toute la grosesse sans qu'une virilisation insuffisante ne soit décrite. Une étude de surveillance recueille 31 enfants exposés au premier trimestre de la grossesse, dont 2 malformations majeures (dont 1 attendue).</grossesse1>
-  <grossesse2> Par ailleurs, les propriétés diurétiques de la spironolactone sont une source d'inquiétudes supplémentaires. En tant que classe, les diurétiques pourraient théoriquement diminuer la perfusion placentaire et causer un retard de croissance intra-utérine.</grossesse2>
+  <molecule> Adalat (nifedipine)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx14N.html#Nifedipine">Adalat (nifedipine)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
   <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
@@ -139,9 +124,9 @@
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Il est préférable de ne pas utiliser les diurétiques pendant la grossesse, car ils n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire. L'utilisation du triamterene est associée à une augmentation du taux d'anomalies congénitales et un suivi échographique détaillé est recommandé lors d'une exposition au premier trimestre de la grossesse. De par leur mécanisque d'action, l'usage de ces agents est déconseillé en cours de grossesse. En effet, la cyproterone et la spironolactone pourraient théoriquement entraîner des anomalies au niveau des organes génitaux externes de l'enfant de sexe masculin. La période critique pour ces malformations majeures se situe entre la neuvième et la onzième semaine gestationnelle. Cependant, l'exposition par inadvertance à ces agents ne justifie ni une interruption volontaire de grossesse, ni une investigation particulière.</recommandationgrossesse>
-  <allaitement1> Dose reçue par l'enfant par le lait maternel estimé à moins de 1 % de la dose pédiatrique (n=1).</allaitement1>
-  <allaitement2> La canrenone, son principal métabolite actif, se retrouve toutefois dans le lait maternel en petite quantité. Pour une mère qui reçoit une dose unique de 25 mg, il est estimé que l'enfant allaité exclusivement est exposé à 1.6 % de la dose néonatale. Aucun effet indésirable n'a d'ailleurs été rapporté chez l'enfant allaité dont la mère prend de la spironolactone.</allaitement2>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
@@ -149,49 +134,26 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Préférer l'utilisation de la spironolactone si un diurétique épargneur de potassium doit être utilisé. La spironolactone est habituellement compatible avec l'allaitement. Si la mère observe une diminution de la production lactée avec la prise du spironolactone, l'arrêt du traitement est recommandé.</recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
  <tableau>
-  <molecule> Aldomet (methyldopa)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Études animales: pas d'effet tératogène observé chez trois espèces.</grossesse1>
-  <grossesse2> Pas d'augmentation du taux de malformations majeures ni de patron d'anomalie chez 292 nouveau-nés exposés à la methyldopa au cours du 1er trimestre dans une étude de surveillance.</grossesse2>
-  <grossesse3> Pas de toxicité foetale ni maternelle rapportées dans de nombreuses séries de cas qui datent des années 60-70.</grossesse3>
-  <grossesse4> Croissance et développement similaires à un groupe témoin chez 98 enfants exposés in utero à la méthyldopa et suivis à l'âge de 7 ans et demi; toutefois, la taille et la circonférence crânienne des garçons de mères traitées avec le méthyldopa étaient plus petites que celles du groupe témoin.</grossesse4>
-  <grossesse5> Développements mental et physique normaux à 18 mois chez 46 enfants exposés durant la grossesse pendant 13 jours au troisième trimestre.</grossesse5>
-  <grossesse6> Expérience clinique importante: antihypertenseur le plus utilisé pendant la grossesse depuis de nombreuses années.</grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> La methyldopa est l'agent de permier recours pour le traitement de l'hypertension durant la grossesse. (Par contre, la clonidine est préférée au méthyldopa en cas d'hypertension sévère à cause du long début d'action de la méthyldopa, qui est de 12 à 48 heures...)</recommandationgrossesse>
-  <allaitement1> Dix mesures de la methyldopa dans le lait maternel (500 à 2000 mg par jour): dose estimée reçue par l'enfant est de moins de 1 % de la dose maternelle ajustée au poids.</allaitement1>
-  <allaitement2> Pas d'effets indésirables notés chez quinze nourrissons exposés à la methyldopa par le lait maternel.</allaitement2>
-  <allaitement3> Un cas de gynécomastie et de galactorrhée rapporté chez une fille de deux semaines née à terme dont la mère avait reçu 7 jours de methyldopa 250 mg par voie orale 3 fois par jour. Cependant, il s'agit d'un cas isolé et aucun lien de causalité n'a été raporté.</allaitement3>
-  <allaitement4> </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Compatible avec l'allaitement: premier recours parmi les agents centraux.</recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Altace (ramipril)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
-  <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
-  <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>
-  <grossesse4> Plusieurs notifications de cas indiquent que les IECA sont associés à une hypotension foetale et néonatale prolongée, hypoplasie pulmonaire, syndrome de détresse respiratoire, oligohydramnios, hypoplasie des os du crâne, malformations osseuses et articulaires, persistance du canal artériel, retard de croissance intra-utérine, travail prématuré, anurie, insuffisance rénale foetale et néonatale pouvant nécessiter la dialyse et décès foetal ou néonatal. L'angiotensine II joue un rôle important au niveau du développement foetal. Une faible concentration en angiotensine II provoque donc une diminution de résistance vasculaire rénale et ainsi une réduction de filtration glomérulaire foetale, laquelle devient normalement fonctionnelle vers la douzième semaine de gestation. Également, une inhibition de conversion d'angiotensine I en angiotensine II induit une diminution de perfusion utéro-placentaire en provoquant une augmentation des niveaux de bradykinines, des puissants vasodilatateurs producteurs de prostaglandines.</grossesse4>
+  <molecule> Aldactone (spironolactone)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx19S.html#Spironolactone">Aldactone (spironolactone)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Quantité indétectable dans le lait après une dose unique de 10 mg.</allaitement1>
-  <allaitement2> Risque théorique d'hypotension, surtout chez les nouveau-nés.</allaitement2>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
@@ -199,37 +161,122 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Dose reçue par l'enfant par le lait maternel estimée entre 1 et 2.6 % de la dose maternelle ajustée au poids. </recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
  <tableau>
-  <molecule> Amaryl (glimepiride)</molecule>
-  <indication> Diabète gestationnel</indication>
-  <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
-  <grossesse2> - six cas (4.1 %) dans une étude regroupant 147 femmes exposées au premier trimestre à un antidiabétique oral, en majorité la chlorpropramide. Pas d'augmentation du taux de malformations congénitales par rapport à l'insuline humaine régulière par ailleurs;</grossesse2>
-  <grossesse3> - cinq cas lors d'exposition à la chlorpropramide dont trois cas associés à des malformations multiples dans une étude chez 20 femmes traitées par des antidiabétiques oraux pendant les périodes de 3 à 28 semaines. Le taux global de malformations dans cette étude était de 50 %. D'autres malformations congénitales ont été notées avec la chlorpropramide (artère ombilicale unique), le glyburide (anencéphalie; défaut du septum ventriculaire). De plus, les enfants ont présenté à la naissance: une hyperbiliburinémie (67 %), une polycythémie sévère et une hyperviscosité ayant nécessité des transfusions (27 %). Le contrôle glycémique pendant la période péri-conceptionnelle était mauvais pour la majorité des femmes dans cette étude.</grossesse3>
-  <grossesse4> Des hypoglycémies pouvant être sévères, prolongées et tardives ont été décrites à la naissance chez des enfants exposés in utero aux sulfonylurées.</grossesse4>
-  <grossesse5> Données animales contradictoires:</grossesse5>
-  <grossesse6> - pas d'effet tératogène dans deux espèces;</grossesse6>
-  <grossesse7> - des malformations lors d'exposition après l'organogenèse et une augmentation des morts intra-utérines ont été rapportées chez deux espèces animales et seraient liées aux hypoglycémies maternelles suite à la prise de glimepiride.</grossesse7>
-  <grossesse8> Pas de données humaines retrouvées dans la littérature médicale.</grossesse8>
+  <molecule> Aldomet (methyldopa)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Methyldopa">Aldomet (methyldopa)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
-  <allaitement1> Poids moléculaire: 490 Da.</allaitement1>
-  <allaitement2> Liaison protéique supérieure à 99.5 %.</allaitement2>
-  <allaitement3> Absorption orale de 100 %.</allaitement3>
-  <allaitement4> Temps de demi-vie: 6 à 9 h.</allaitement4>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Non recommandé pendant l'allaitement. </recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Altace (ramipril)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx18R.html#Ramipril">Altace (ramipril)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Amaryl (glimepiride)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx07G.html#Glimepiride">Amaryl (glimepiride)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Amikacin</molecule>
+  <ancrem><![CDATA[<h1><a name="Amikacin">Amikacin</a></h1>]]></ancrem>
+  <indication> Exacerbation pulmonaire en fibrose kystique</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueSevere">Exacerbation pulmonaire en fibrose kystique</a>]]></ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les aminosides peuvent être utilisés durant la grossesse à tous les trimestres. Toutefois, la streptomycine devrait rester un dernier choix de traitement dans les aminosides à cause de son association plus fréquente à des cas d'ototoxicité. Les aminosides par voie topique ou par inhalation ont une absorption faible. Les quantités présentes dans les formes ophtalmiques, otiques ou rectales sont faibles. Des dosages des taux sériques d'aminosides administrés par voie systémique sont recommandés chez la mère pour assurer l'efficacité et prévenir la toxicité associée au traitement. Pas de données sur l'utilisation des aminosides en doses uniquotidiennes durant la grossesse. </recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale négligeable. </allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: de 4 à 11 %. Temps de demi-vie: 2 heures. </allaitement2>
+  <allaitement3> Passage du médicament dans le lait maternel: 1.5 % de la dose utilisée en pédiatrie.</allaitement3>
+  <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les aminosides sont compatibles avec l'allaitement. Ils passent en petite quantité dans le lait maternel et leur biodisponibilité orale est faible. C'est pourquoi il est peu probable que des effets indésirables soient observés chez les bébés.</recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Amiloride</molecule>
+  <ancrem><![CDATA[<h1><a name="Amiloride">Amiloride</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance: 28 cas d'exposition à l'amiloride au premier trimestre, 2 anomalies observées.</grossesse1>
   <grossesse2> </grossesse2>
   <grossesse3> </grossesse3>
@@ -254,7 +301,9 @@
 
  <tableau>
   <molecule> Amlodipine</molecule>
+  <ancrem><![CDATA[<h1><a name="Amlodipine">Amlodipine</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Pas d'effet tératogène observé chez deux espèces animales.</grossesse1>
   <grossesse2> Pas de données retracées chez l'humain.</grossesse2>
   <grossesse3> </grossesse3>
@@ -278,19 +327,102 @@
  </tableau>
 
  <tableau>
-  <molecule> Atacand (candesartan)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
-  <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
-  <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
-  <grossesse4> L'utilisation des ARA durant les deuxième et troisième trimestres est associée à de l'insuffisance rénale, de l'hypophasie pulmonaire et crânienne, des contractures des membres et de la mortalité in utero et néonatale.</grossesse4>
-  <grossesse5> Notification de cas associant les ARA à des effets similaires à ceux observés avec les IECA.</grossesse5>
+  <molecule> Amoxicillin</molecule>
+  <ancrem><![CDATA[<h1><a name="Amoxicillin">Amoxicillin</a></h1>]]></ancrem>
+  <indication> Sinusite, pharyngite, pneumonie acquise en communauté (traitement initial en milieu ambulatoire), bactériurie asymptomatique, cystite aiguë, chlamydiose</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#Pharyngite">pharyngite</a>, <a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté (traitement initial en milieu ambulatoire)</a>, <a href="./00TxPatho.html#Bacteriurie">bactériurie asymptomatique</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a>, <a href="./00TxPatho.html#Chlamydiose">chlamydiose</a> ]]></ancrei>
+  <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
+  <grossesse2> Étude cas-témoins: pas d'association entre l'utilisation d'oxacillin (non commercialisée au Canada) au premier trimestre et la survenue de malformations congénitales. </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> L'utilisation des ARA n'est pas recommandée durant la grossesse. En cas d'exposition durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Aucune donnée sur le passage dans le lait maternel n'a été retrouvée.</allaitement1>
+  <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale: 89 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: de 15 à 25 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: de 1 à 2 h.</allaitement3>
+  <allaitement4> Passage du médicament dans le lait maternel: 0.9 % de la dose utilisée en pédiatrie.</allaitement4>
+  <allaitement5> Trois cas de diarrhée rapportés par les mères dans une étude de suivi téléphonique parmi 25 bébés exposés à l'amoxicillin à travers le lait; pas de consultation médicale nécessaire.</allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'allaitement est compatible avec la prise de pénicillines étant donné la dose minime à laquelle l'enfant est exposé et qu'il s'agit d'une classe bien connue en pédiatrie.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Amoxicillin + clavulanate</molecule>
+  <ancrem><![CDATA[<h1><a name="AmoxicillinClavulanate">Amoxicillin + clavulanate</a></h1>]]></ancrem>
+  <indication> Sinusite, pharyngite, pneumonie acquise en communauté: traitement initial en milieu ambulatoire, pyélonéphrite aiguë: traitement de relais</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#Pharyngite">pharyngite</a>, <a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté (traitement initial en milieu ambulatoire)</a>, <a href="./00TxPatho.html#PyelonephriteAigueTxRelais">pyélonéphrite aiguë: traitement de relais </a>]]></ancrei>
+  <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
+  <grossesse2> Étude cas-témoins: pas d'association entre l'utilisation d'oxacillin (non commercialisée au Canada) au premier trimestre et la survenue de malformations congénitales. </grossesse2>
+  <grossesse3> Concernant le clavulanate, près de 600 cas d'expositions au premier trimestre: pas d'augmentation du risque de malformations par rapport au risque de base dans la population générale.</grossesse3>
+  <grossesse4> Pas de différence par rapport à un groupe témoin exposé à de l'amoxicillin seule dans le taux de naissances vivantes, de prématurité et du poids du bébé à la naissance chez 191 des patientes recevant amoxicillin + clavulanate au premier trimestre.</grossesse4>
+  <grossesse5> Augmentation du risque d'entérocolite nécrosante mise en évidence chez des nouveaux-nés exposés à l'association amoxicillin + clavulanate en fin de grossesse (mères traitées pour une rupture prématurée des membranes). Une étude cas-témoins ultérieure n'a pas confirmé ce risque.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse. Le clavulanate peut être utilisé à tous les trimestres de la grossesse. </recommandationgrossesse>
+<allaitement1> Pour l'amoxicillin: biodisponibilité orale: 89 %, liaison aux protéines plasmatiques: de 15 à 25 %, temps de demi-vie: de 1 à 2 h. </allaitement1>
+  <allaitement2> Passage de l'amoxicillin dans le lait maternel: 0.9 % de la dose utilisée en pédiatrie. </allaitement2>
+  <allaitement3> Trois cas de diarrhée rapportés par les mères dans une étude de suivi téléphonique parmi 25 bébés exposés à l'amoxicillin à travers le lait; pas de consultation médicale nécessaire. </allaitement3>
+  <allaitement4> Pour le clavulanate: biodisponibilité orale bonne, liaison aux protéines plasmatiques: 25 %, temps de demi-vie: 1 h. </allaitement4>
+  <allaitement5> Clavulanate non détecté dans le lait maternel.</allaitement5>
+  <allaitement6> Effets indésirables reliés à la dose rapportés plus fréquemment de façon globale que dans le groupe exposé à l'amoxicillin dans une étude de cohorte (n = 67) prospective, mais pas pris individuellement: irritabilité, diarrhée, rash, constipation et reliés à la dose. Élévation modérée des enzymes hépatiques régressant 10 jours après l'arrêt du traitement chez un seul bébé.</allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'allaitement est compatible avec la prise de pénicillines étant donné la dose minime à laquelle l'enfant est exposé et qu'il s'agit d'une classe bien connue en pédiatrie. Le clavulanate est compatible avec l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Ampicillin</molecule>
+  <ancrem><![CDATA[<h1><a name="Ampicillin">Ampicillin</a></h1>]]></ancrem>
+  <indication> Pyélonéphrite aiguë</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#PyelonephriteAigue">Pyélonéphrite aiguë</a>]]></ancrei>
+  <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
+  <grossesse2> Étude cas-témoins: pas d'association entre l'utilisation d'oxacillin (non commercialisée au Canada) au premier trimestre et la survenue de malformations congénitales. </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale: 50 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: de 17 à 20 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: de 1 à 1.9 h. </allaitement3>
+  <allaitement4> Passage du médicament dans le lait maternel: 0.9 % de la dose utilisée en pédiatrie. </allaitement4>
+  <allaitement5> Un cas de diarrhée rapporté par les mères dans une étude de suivi téléphonique parmi 5 bébés exposés à l'ampicillin à travers le lait; pas de consultation médicale nécessaire. </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'allaitement est compatible avec la prise de pénicillines étant donné la dose minime à laquelle l'enfant est exposé et qu'il s'agit d'une classe bien connue en pédiatrie. </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Ancef (cefazolin)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cefazolin">Ancef (cefazolin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -299,12 +431,68 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Privilégier un IECA si possible, car le passage dans le lait a été évalué pour plusieurs d'entre eux.</recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Apprilon (doxycycline)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx04D.html#Doxycycline">Apprilon (doxycycline)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Atacand (candesartan)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Candesartan">Atacand (candesartan)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Atenolol</molecule>
+  <ancrem><![CDATA[<h1><a name="Atenolol">Atenolol</a></h1>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
   <grossesse2> Pas d'effet tératogène observé chez deux espèces mais effets feototoxiques observés (diminution du poids du placenta et du poids foetal et retard de croissance intra-utérine).</grossesse2>
   <grossesse3> Étude de surveillance rapportant 105 nouveau-nés exposés à l'atenolol durant le premier trimestre: 11.4% de malformations majeures; pathologies maternelles et médicaments concomitants inconnus.</grossesse3>
@@ -329,43 +517,20 @@
 
  <tableau>
   <molecule> Avandia (rosiglitazone)</molecule>
-  <indication> Diabète gestationnel</indication>
-  <grossesse1> Pas d'effet tératogène chez le rat et le lapin à des doses supérieures à la dose humaine recommandée. Dans ces mêmes études, pathologies placentaires chez le rat. Mort et retard de croissance in utero chez le rat et le lapin lors de l'administration en milieu et en fin de gestation.</grossesse1>
-  <grossesse2> Passage placentaire connu. Une étude a montré un passage placentaire plus élevé à partir de 10 semaines de grossesse.</grossesse2>
-  <grossesse3> Deux cas rapportés de femmes traitées pendant le premier trimestre par rosiglitazone en association avec fluoxetine dans un premier cas et acarbose, gliclazide, atorvastatin et de nombreux autres traitements dans le deuxième cas. Naissance de bébés en santé avec un développement normal lors d'un suivi à respectivement 4 et 18 mois.</grossesse3>
-  <grossesse4> Cas rapporté d'une femme traitée entre 13 et 17 semaines par rosiglitazone et metformin. Naissance d'un bébé en santé.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx18R.html#Rosiglitazone">Avandia (rosiglitazone)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les thiazolidinediones ne sont pas recommandées pendant la grossesse en raison de l'absence ou de l'insuffisance de données humaines. </recommandationgrossesse>
-  <allaitement1> Poids moléculaire: 474 Da.</allaitement1>
-  <allaitement2> Biodisponibilité orale: 99 %.</allaitement2>
-  <allaitement3> Liaison protéique de 99.8 %.</allaitement3>
-  <allaitement4> Temps de demi-vie: 3 à 4 h.</allaitement4>
-  <allaitement5> Aucune information rapportée concernant l'utilisation de la rosiglitazone pendant l'allaitement. </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Non recommandé pendant l'allaitement. </recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Avapro (irbesartan)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
-  <grossesse2> Études animales: diverses anomalies rénales associées avec une utilisation tardive dans la gestation.</grossesse2>
-  <grossesse3> Trois naissances de bébés normaux avec l'utilisation du valsartan pendant les 7 à 18 premières semaines de grossesse.</grossesse3>
-  <grossesse4> L'utilisation des ARA durant les deuxième et troisième trimestres est associée à de l'insuffisance rénale, de l'hypophasie pulmonaire et crânienne, des contractures des membres et de la mortalité in utero et néonatale.</grossesse4>
-  <grossesse5> Notification de cas associant les ARA à des effets similaires à ceux observés avec les IECA.</grossesse5>
-  <grossesse6> </grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> L'utilisation des ARA n'est pas recommandée durant la grossesse. En cas d'exposition durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Aucune donnée sur le passage dans le lait maternel n'a été retrouvée.</allaitement1>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -374,8 +539,88 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Privilégier un IECA si possible, car le passage dans le lait a été évalué pour plusieurs d'entre eux.</recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Avapro (irbesartan)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx09I.html#Irbesartan">Avapro (irbesartan)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
   </tableau>
 
+ <tableau>
+  <molecule> Avelox (moxifloxacin)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Moxifloxacin">Avelox (moxifloxacin)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Azithromycin</molecule>
+  <ancrem><![CDATA[<h1><a name="Azithromycin">Azithromycin</a></h1>]]></ancrem>
+  <indication> Pneumonie acquise en communauté, bronchite aiguë, chlamydiose, gonorrhée</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#PneumoniePatienteHospitalisee"> Pneumonie acquise en communauté: patiente hospitalisée</a>, <a href="./00TxPatho.html#PneumonieTxRelais">pneumonie acquise en communauté: traitement de relais</a>, <a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#BronchiteAigue">bronchite aiguë</a>, <a href="./00TxPatho.html#Chlamydiose">chlamydiose</a>, <a href="./00TxPatho.html#Gonorrhee">gonorrhée</a> ]]></ancrei>
+  <grossesse1> Pas d'effet tératogène mis en évidence chez 2 espèces animales.</grossesse1>
+  <grossesse2> Passage placentaire faible (2.6 %).</grossesse2>
+  <grossesse3> Une étude prospective contrôlée et une étude de cohorte observationnelle: pas d'augmentation du risque de malformations majeures chez 123 femmes exposées au premier trimestre.</grossesse3>
+  <grossesse4> Plusieurs études ont évalué l'efficacité de l'azithromycin en dose unique dans le traitement de la chlamydiose aux deuxième et troisième trimestre sans toutefois étudier les issues de grossesse.</grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Une exposition à l'azithromycin au cours du premier trimestre ne requiert pas de suivi obstétrical particulier; toutefois, en raison du nombre limité de données, il est recommandé de réserver son utilisation à partir du deuxième trimestre ou chez les patientes chez qui l'observance à un traitement de chlamydiose ne peut être assurée avec les autres options de traitement.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale: 38 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: de 7 à 50 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: de 11 à 68 h.</allaitement3>
+  <allaitement4> Accumulation dans le lait maternel.</allaitement4>
+  <allaitement5> Passage du médicament dans le lait maternel: 4.2 % de la dose utilisée en pédiatrie.</allaitement5>
+  <allaitement6> Une étude de cohorte a associé la survenue de sténose du pylore à la prise d'antibiotiques par la mère dans les 90 jours suivant l'accouchement (0.6 % des mères prenaient de l'azithromycin, mais on ne sait pas quelle était la proportion d'enfants avec une sténose du pylore).</allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'azithromycin est compatible avec l'allaitement. Le lien entre les macrolides pris par la mère et la sténose du pylore chez le nourrisson a été évoqué dans une étude seulement et devra être confirmé avant de conclure à un risque réel.</recommandationallaitement>
+ </tableau>
 
 </livre>

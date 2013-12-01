@@ -14,7 +14,7 @@
 <script src="./js/magnify.js"></script>
 </head>
 <body>
-<div class="header"><strong>A</strong></div>
+<div class="header"><strong>Traitements de choix selon la pathologie</strong></div>
 <div class="nav">
 <button type="button" class="mettreEnGras" onclick="myFunctiongoBack()">Retour</button>
 <input type="button" class="mettreEnGras"  value="Agrandir" onclick="resizeText()" />
@@ -27,21 +27,21 @@ var x=xmlDoc.getElementsByTagName("tableau");
 for (i=0;i<x.length;i++)
  {
  document.write('<h1>');
- document.write(x[i].getElementsByTagName("indication")[0].childNodes[0].nodeValue);
- document.write("</h1><p><b>EN GROSSESSE</b></p><p><b>Traitements de premier recours:</b> ");
- document.write(x[i].getElementsByTagName("grossesse1")[0].childNodes[0].nodeValue);
- document.write('</p><p><b>Traitements de deuxi&egrave;me recours:</b> ');
- document.write(x[i].getElementsByTagName("grossesse2")[0].childNodes[0].nodeValue);
- document.write("</p><p><b>Traitements de troisi&egrave;me recours:</b> ");
- document.write(x[i].getElementsByTagName("grossesse3")[0].childNodes[0].nodeValue);
- document.write("</p><p><b>Traitements non recommandés:</b> ");
- document.write(x[i].getElementsByTagName("grossesse4")[0].childNodes[0].nodeValue);
- document.write("</p><p><b>Traitements contre-indiqu&eacute;s:</b> ");
- document.write(x[i].getElementsByTagName("grossesse5")[0].childNodes[0].nodeValue);
- document.write("</p><p><b>EN ALLAITEMENT</b></><p><b>Traitements compatibles:</b> ");
- document.write(x[i].getElementsByTagName("allaitement1")[0].childNodes[0].nodeValue);
- document.write("</p><p><b>Traitements non compatibles ou non recommand&eacute;s:</b> ");
- document.write(x[i].getElementsByTagName("allaitement2")[0].childNodes[0].nodeValue);
+ document.write(x[i].getElementsByTagName("ancrei")[0].childNodes[0].nodeValue);
+ document.write("</h1><p><b>EN GROSSESSE</b></p><p><b>Traitements de premier recours</b></p><p>");
+ document.write(x[i].getElementsByTagName("ancreg1")[0].childNodes[0].nodeValue);
+ document.write('</p><p><b>Traitements de deuxi&egrave;me recours</b></p><p>');
+ document.write(x[i].getElementsByTagName("ancreg2")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>Traitements de troisi&egrave;me recours</b></p><p>");
+ document.write(x[i].getElementsByTagName("ancreg3")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>Traitements non recommandés</b></p><p>");
+ document.write(x[i].getElementsByTagName("ancreg4")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>Traitements contre-indiqu&eacute;s</b></p><p>");
+ document.write(x[i].getElementsByTagName("ancreg5")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>EN ALLAITEMENT</b></><p><b>Traitements compatibles</b></p><p>");
+ document.write(x[i].getElementsByTagName("ancrea1")[0].childNodes[0].nodeValue);
+ document.write("</p><p><b>Traitements non compatibles ou non recommand&eacute;s</b></p><p>");
+ document.write(x[i].getElementsByTagName("ancrea2")[0].childNodes[0].nodeValue);
  document.write("</p>");
  }
 </script>

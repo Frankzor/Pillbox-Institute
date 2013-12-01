@@ -4,42 +4,19 @@
 
  <tableau>
   <molecule> Sectral (acebutolol)</molecule>
-  <indication> Hypertension</indication>
-  <grossesse1> Cardiosélectif avec activité sympathomimétique intrinsèque.</grossesse1>
-  <grossesse2> Pas d'effets tératogène observé chez deux espèces animales.</grossesse2>
-  <grossesse3> Étude rapportant 56 nouveau-nés exposés à l'acebutolol dont 6 au premier trimestre; pas de malformations chez ces enfants.</grossesse3>
-  <grossesse4> Chez dix nouveau-nés exposés à l'acebutolol près de l'accouchement, on a observé plus de bradycardie, d'hypotension et d'hypoglycémie transitoires par rapport à un groupe de nouveau-nés exposés à la méthyldopa.</grossesse4>
+  <ancrem><![CDATA[<h1><a href="./Rx01A.html#Acebutolol">Sectral (acebutolol)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labetalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0.9 à 3.6 % (plus élevé si on ajoute le métabolite actif)</allaitement1>
-  <allaitement2> Effets de beta-blocage observé chez des nourrissons de mères recevant de l'acebutolol à des doses de 400 mg par jour.</allaitement2>
-  <allaitement3> </allaitement3>
-  <allaitement4> </allaitement4>
-  <allaitement5> </allaitement5>
-  <allaitement6> </allaitement6>
-  <allaitement7> </allaitement7>
-  <allaitement8> </allaitement8>
-  <allaitement9> </allaitement9>
-  <recommandationallaitement> Plusieurs beta-bloquants sont compatibles avec l'allaitement. Éviter, si possible, l'atenolol et et l'acebutolol.</recommandationallaitement>
- </tableau>
-
- <tableau>
-  <molecule> Sinemet [levodopa (avec ou sans carbidopa)]</molecule>
-  <indication> Syndrome des jambes sans repos</indication>
-  <grossesse1> Levodopa: 1) 31 femmes enceintes traitées par levodopa dans une étude observationnelle publiée sous forme de résumé. 30 ont été traitées au moins au premier trimestre et 10 ont continué le traitement pendant toute la grossesse: pas de malformations majeures identifiées parmi les 24 naissances vivantes.</grossesse1>
-  <grossesse2> Levodopa: 2) Au moins 50 rapports d'expositions pour la prise en charge de Parkinson ou du syndrome de Segawa. Périodes d'exposition pas toujours spécifiées, mais dans la majorité des cas, traitements des patientes pendant toute la grossesse: 41 enfants sans anomalies identifiées, 4 avortements spontanées et 3 enfants avec malformations (toutes différentes). Un cas de complication néonatale avec convulsions à une heure de vie et pneumonie (lien de causalité non déterminé).</grossesse2>
-  <grossesse3> Levodopa: 3) 6 femmes ayant reçu la levodopa au cours du deuxième ou troisième trimestre en dose unique ou sur quelques jours: enfants sans anomalies rapportées.</grossesse3>
-  <grossesse4> Cardidopa: 1) Au total, 25 femmes exposées pendant la grossesse, toutes en association à la levodopa (cas inclus dans les données levodopa), aucun cas de malformation majeure parmi les naissances, au moins 3 avortements spontanées.</grossesse4>
-  <grossesse5> </grossesse5>
-  <grossesse6> </grossesse6>
-  <grossesse7> </grossesse7>
-  <grossesse8> </grossesse8>
-  <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les données disponibles restent trop limitées pour évaluer clairement les risques.</recommandationgrossesse>  
+  <recommandationgrossesse> </recommandationgrossesse>
   <allaitement1> </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
@@ -50,11 +27,121 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Septra (trimethoprim + sulfamethoxazole)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Trimethoprim">Septra (trimethoprim + sulfamethoxazole)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Sinemet [levodopa (avec ou sans carbidopa)]</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx12L.html#Levodopa">Sinemet [levodopa (avec ou sans carbidopa)]</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Soframycin ou Sofracort (framycetin)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx06F.html#Framycetin">Soframycin ou Sofracort (framycetin) </a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Spiramycin</molecule>
+  <ancrem><![CDATA[<h1><a name="Spiramycin">Spiramycin</a></h1>]]></ancrem>
+  <indication> Toxoplasmose congénitale</indication>
+  <ancrei> Toxoplasmose congénitale</ancrei>
+  <grossesse1> Pas de données animales retracées.</grossesse1>
+  <grossesse2> Pas de patron de malformations rapporté ni d'issues de grossesse défavorables dans différents cas publiés visant à étudier l'efficacité du traitement de la toxoplasmose plutôt que l'innocuité.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> La spiramycin est recommandée pour le traitement de la toxoplasmose congénitale. Pour les autres types d'infections, il est préférable d'utiliser d'autres options mieux documentées.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale: 36 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 17 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: de 4 à 8 h.</allaitement3>
+  <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'utilisation de la spiramycin au cours de l'allaitement est déconseillée d'un manque de données. Le lien entre les macrolides pris par la mère et la sténose du pylore chez le nourrisson a été évoqué dans une étude seulement et devra être confirmé avant de conclure à un risque réel. </recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Spironolactone</molecule>
+  <ancrem><![CDATA[<h1><a name="Spironolactone">Spironolactone</a></h1>]]></ancrem>
   <indication> Hypertension, acné</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>, <a href="./00TxPatho.html#Acne">acné</a> ]]></ancrei>
   <grossesse1> Premièrement, la spironolactone démontre des propriétés antiandrogéniques en agissant comme un antagoniste des récepteurs androgéniques et en inhibant l'enzyme 5-alpha-réductase. Chez les rates gravides exposées à ce médicament, une féminisation des foetus mâles a été notée. Cette observation a amené l'inquiétude d'une virilisation insuffisante chez les garçons exposés in utero. À ce jour, un tel effet n'a pas été rapporté chez l'humain. En fait, les notifications de cas totalisent 3 foetus mâles exposés à la spironolactone durant toute la grosesse sans qu'une virilisation insuffisante ne soit décrite. Une étude de surveillance recueille 31 enfants exposés au premier trimestre de la grossesse, dont 2 malformations majeures (dont 1 attendue).</grossesse1>
   <grossesse2> Par ailleurs, les propriétés diurétiques de la spironolactone sont une source d'inquiétudes supplémentaires. En tant que classe, les diurétiques pourraient théoriquement diminuer la perfusion placentaire et causer un retard de croissance intra-utérine.</grossesse2>
   <grossesse3> </grossesse3>
@@ -79,27 +166,137 @@
 
  <tableau>
   <molecule> Starlix (nateglinide)</molecule>
-  <indication> Diabète gestationnel</indication>
-  <grossesse1> Pas d'effet tératogène chez le rat.</grossesse1>
-  <grossesse2> Passage placentaire chez le rat.</grossesse2>
-  <grossesse3> En fin de gestation chez le rat, une diminution du poids de la progéniture a été observée à des doses supérieures à la dose humaine recommandée.</grossesse3>
-  <grossesse4> Chez le lapin, on a noté une incidence accrue d'agénésie vésiculaire ou de vésicule biliaire de petite taille à une dose toxique chez la mère.</grossesse4>
-  <grossesse5> Un seul cas rapporté d'une femme traitée pendant les 24 premières semaines de sa grossesse par pravastatin, metformin et nateglinide, puis par insuline au diagnostic de la grossesse. Naissance d'un bébé en santé.</grossesse5>
+  <ancrem><![CDATA[<h1><a href="./Rx14N.html#Nateglinide">Starlix (nateglinide)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Non recommandé pendant la grossesse en raison du manque de données humaines.</recommandationgrossesse>
-  <allaitement1> Liaison protéique: 97 à 99 %.</allaitement1>
-  <allaitement2> Absorption orale: 75 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: 1.25 à 3 h.</allaitement3>
-  <allaitement4> Aucune information rapportée concernant l'utilisation de nateglinide ou de repaglinide pendant l'alaitement.</allaitement4>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Les metiglinides ne sont pas recommandés pendant l'allaitement.</recommandationallaitement>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
+
+ <tableau>
+  <molecule> Streptomycin</molecule>
+  <ancrem><![CDATA[<h1><a name="Streptomycin">Streptomycin</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> Pas d'association avec une augmentation du taux de malformations congénitales dans une étude cas-témoins. </grossesse1>
+  <grossesse2> Pas d'augmentation du taux de malformations congénitales chez 135 nouveau-nés exposés à la steptomycin au premier trimestre.</grossesse2>
+  <grossesse3> Treize cas d'ototoxicité rapportés après une exposition in utero à la streptomycin et la kanamycin, parfois en association avec d'autres médicaments ototoxiques.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les aminosides peuvent être utilisés durant la grossesse à tous les trimestres. Toutefois, la streptomycine devrait rester un dernier choix de traitement dans les aminosides à cause de son association plus fréquente à des cas d'ototoxicité. Les aminosides par voie topique ou par inhalation ont une absorption faible. Les quantités présentes dans les formes ophtalmiques, otiques ou rectales sont faibles. Des dosages des taux sériques d'aminosides administrés par voie systémique sont recommandés chez la mère pour assurer l'efficacité et prévenir la toxicité associée au traitement. Pas de données sur l'utilisation des aminosides en doses uniquotidiennes durant la grossesse. </recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale négligeable.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 35 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 2.5 h.</allaitement3>
+  <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Les aminosides sont compatibles avec l'allaitement. Ils passent en petite quantité dans le lait maternel et leur biodisponibilité orale est faible. C'est pourquoi il est peu probable que des effets indésirables soient observés chez les bébés. </recommandationallaitement>
  </tableau>
+
+ <tableau>
+  <molecule> Sulfamides (sulfacetamide, sulfadiazine, sulfisoxazole, etc.)</molecule>
+  <ancrem><![CDATA[<h1><a name="Sulfamides">Sulfamides (sulfacetamide, sulfadiazine, sulfisoxazole, etc.)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> Biodisponibilité cutanée: 4 %. Biodisponibilité ophtalmique: inconnu.</grossesse1>
+  <grossesse2> Pas d'augmentation de la survenue de malformations majeures dans deux études de surveillance rapportant près de 1600 expositions pendant le premier trimestre.</grossesse2>
+  <grossesse3> Association entre une exposition pendant le deuxième et le troisième mois à différents sulfamides (non commercialisés au Canada) et la survenue de malformations cardiaques et de pieds bots dans une étude cas-témoins.</grossesse3>
+  <grossesse4> Déplacement possible de la bilirubine de ses sites de liaison à l'albumine. Aucun cas de kernictère après exposition in utero retrouvé dans la littérature médicale.</grossesse4>
+  <grossesse5> Un cas d'anémie hémolytique rapporté chez un foetus dont la mère était déficiente en G6PD et traitée par sulfisoxazole.</grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Étant donné que les sulfamides administrés par voie oculaire entraînent probablement des concentrations plasmatiques négligeables, ils peuvent être utilisés au cours de la grossesse. Les sulfamides par voie systémique ne sont pas recommandés chez une patiente à risque imminent d'accouchement. Cependant, s'ils sont utilisés, il est recommandé de mesurer la bilirubine sérique dans les premières 24 heures de vie si la mère a pris des sulfamides avant l'accouchement. De plus, l'enfant peut être observé pour des signes d'hyperbilirubinémie: muqueuses et yeux jaunes, léthargie, diminution de la succion et hypotonie dans les cas plus sévères. Les sulfamides à dose prophylactique jusqu'à la fin de la grossesse comportent probablement peu de risques.</recommandationgrossesse>
+  <allaitement1> Pour le sulfacetamide: biodisponibilité cutanée de 4 %, absorbé par voie orale et voie ophtalmique, mais proportion inconnue. </allaitement1>
+  <allaitement2> Pour la sulfadiazine, biodisponibilité orale bonne, liaison aux protéines plasmatiques de 38 à 48 %, temps de demi-vie de 7 à 16.8 h.</allaitement2>
+  <allaitement3> Pour le sulfacetamide et la sulfadiazine, aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Étant donné leurs faibles absorptions, le sulfacetamide et la sulfadiazine peuvent être utilisés durant l'allaitement.</recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Suprax (cefixime)</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cefixime">Suprax (cefixime)</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
+ <tableau>
+  <molecule> Synthroid [levothyroxine (T4)]</molecule>
+  <ancrem><![CDATA[<h1><a href="./Rx12L.html#Levothyroxine">Synthroid [levothyroxine (T4)]</a></h1>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+  </tableau>
 
 </livre>
