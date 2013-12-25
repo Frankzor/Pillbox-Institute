@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Felodipine</molecule>
-  <ancrem><![CDATA[<h1><a name="Felodipine">Felodipine</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Felodipine">Felodipine</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Anomalies digitales observées dans la descendance après administration de felodipine chez des lapins femelles à des doses proches des doses recommandées chez l'homme.</grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Fer</molecule>
-  <ancrem><![CDATA[<h1><a name="Fer">Fer</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Fer">Fer</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Des milliers de patientes exposées pendant la grossesse sans association avec un risque augmenté de malformation majeure.</grossesse1>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Flagyl (metronidazole)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Metronidazole">Flagyl (metronidazole)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx13M.html#Metronidazole">Flagyl (metronidazole)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Fosfomycin</molecule>
-  <ancrem><![CDATA[<h1><a name="Fosfomycin">Fosfomycin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Fosfomycin">Fosfomycin</a>]]></ancrem>
   <indication> Bactériurie asymptomatique, cystite aiguë</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Bacteriurie">bactériurie asymptomatique</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a> ]]></ancrei>
   <grossesse1> Pas d'effet tératogène mis en évidence chez deux espèces animales.</grossesse1>
@@ -98,8 +98,8 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> La fosfomycin est réservée pour des traitements d'infections urinaires non compliquées à partir du deuxième trimestre. Toutefois, une exposition accidentelle au premier trimestre ne requiert pas de suiv obstétrical particulier.</recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: de 34 à 58 % (sels de trometamol), moins de 12 % (sels de calcium).</allaitement1>
-  <allaitement2> Temps de demi-vie: de 4 à 8 h.</allaitement2>
+  <allaitement1> Biodisponibilité orale: 34 à 58 % (sels de trometamol), moins de 12 % (sels de calcium).</allaitement1>
+  <allaitement2> Temps de demi-vie: 4 à 8 h.</allaitement2>
   <allaitement3> Passage du médicament dans le lait maternel: 2.5 % de la dose maternelle ajustée au poids.</allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Fosinopril</molecule>
-  <ancrem><![CDATA[<h1><a name="Fosinopril">Fosinopril</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Fosinopril">Fosinopril</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Framycetin</molecule>
-  <ancrem><![CDATA[<h1><a name="Framycetin">Framycetin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Framycetin">Framycetin</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Biodisponibilité cutanée négligeable (peau intacte).</grossesse1>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Furosemide</molecule>
-  <ancrem><![CDATA[<h1><a name="Furosemide">Furosemide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Furosemide">Furosemide</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance: 350 expositions au premier trimestre au furosemide et 5.1 % d'anomalies congénitales, sans aucun patron d'anomalies identifié.</grossesse1>

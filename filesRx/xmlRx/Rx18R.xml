@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Ralivia (tramadol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Tramadol">Ralivia (tramadol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx20T.html#Tramadol">Ralivia (tramadol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Ramipril</molecule>
-  <ancrem><![CDATA[<h1><a name="Ramipril">Ramipril</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ramipril">Ramipril</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -45,7 +45,7 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
   <allaitement1> Quantité indétectable dans le lait après une dose unique de 10 mg.</allaitement1>
-  <allaitement2> Risque théorique d'hypotension, surtout chez les nouveau-nés.</allaitement2>
+  <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
@@ -53,12 +53,12 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Dose reçue par l'enfant par le lait maternel estimée entre 1 et 2.6 % de la dose maternelle ajustée au poids. </recommandationallaitement>
+  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Renedil (felodipine)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx06F.html#Felodipine">Renedil (felodipine)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx06F.html#Felodipine">Renedil (felodipine)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Repaglinide</molecule>
-  <ancrem><![CDATA[<h1><a name="Repaglinide">Repaglinide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Repaglinide">Repaglinide</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Non tératogène chez le rat et le lapin.</grossesse1>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Requip (ropinirole)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx18R.html#Ropinirole">Requip (ropinirole)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx18R.html#Ropinirole">Requip (ropinirole)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Rivotril (clonazepam)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Clonazepam">Rivotril (clonazepam)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Clonazepam">Rivotril (clonazepam)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Ropinirole</molecule>
-  <ancrem><![CDATA[<h1><a name="Ropinirole">Ropinirole</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ropinirole">Ropinirole</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> 1) Données animales: augmentation des taux de malformations des doigts, diminution des poids foetaux et augmentation des morts foetales chez le rat à des doses supérieures aux doses humaines. Pas d'effet tératogène identifié chez le lapin lorsqu'administré seul. Association avec un risque augmenté de polypes de l'endomètre utérin bénins dans une étude de carcinogenèse chez la souris.</grossesse1>
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Rosiglitazone</molecule>
-  <ancrem><![CDATA[<h1><a name="Rosiglitazone">Rosiglitazone</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Rosiglitazone">Rosiglitazone</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Pas d'effet tératogène chez le rat et le lapin à des doses supérieures à la dose humaine recommandée. Dans ces mêmes études, pathologies placentaires chez le rat. Mort et retard de croissance in utero chez le rat et le lapin lors de l'administration en milieu et en fin de gestation.</grossesse1>
@@ -208,7 +208,7 @@
   <recommandationgrossesse> Les thiazolidinediones ne sont pas recommandées pendant la grossesse en raison de l'absence ou de l'insuffisance de données humaines. </recommandationgrossesse>
   <allaitement1> Poids moléculaire: 474 Da.</allaitement1>
   <allaitement2> Biodisponibilité orale: 99 %.</allaitement2>
-  <allaitement3> Liaison protéique de 99.8 %.</allaitement3>
+  <allaitement3> Liaison protéique: 99.8 %.</allaitement3>
   <allaitement4> Temps de demi-vie: 3 à 4 h.</allaitement4>
   <allaitement5> Aucune information rapportée concernant l'utilisation de la rosiglitazone pendant l'allaitement. </allaitement5>
   <allaitement6> </allaitement6>

@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Humalog (insuline lispro)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineLispro">Humalog (insuline lispro)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx09I.html#InsulineLispro">Humalog (insuline lispro)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Humulin R ou N [insuline humaine (régulière, NPH, lente, ultralente)]</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineHumaine"> Humulin R ou N [insuline humaine (régulière, NPH, lente, ultralente)] </a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx09I.html#InsulineHumaine"> Humulin R ou N [insuline humaine (régulière, NPH, lente, ultralente)] </a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -58,22 +58,22 @@
 
  <tableau>
   <molecule> Hydralazine</molecule>
-  <ancrem><![CDATA[<h1><a name="Hydralazine">Hydralazine</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Hydralazine">Hydralazine</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Anomalies digitales chez une espèce à des doses supérieures à celles utilisées chez l'humain.</grossesse1>
   <grossesse2> Étude de surveillance: 48 cas d'exposition au premier trimestre: pas d'augmentation du taux de malformations congénitales.</grossesse2>
   <grossesse3> Utilisation de l'hydralazine en fin de grossesse: trois cas de thrombocytopénie néonatale transitoire et saignement.</grossesse3>
-  <grossesse4> Une méta-analyse a évalué l'hydralazine dans le traitement de l'hypertension sévère: lorsqu'on la comparait aux autres antihypertenseurs, elle a été associée avec plus d'hypertension persistante, d'hypotension, d'hématomes rétroplacentaires, de césariennes, d'oligurie maternelle, d'effets secondaires maternels (céphalées, palpitations, tachycardies), d'effets néonatals (APGAR plus faibles, mort in utero).</grossesse4>
+  <grossesse4> Une méta-analyse a évalué l'hydralazine dans le traitement de l'hypertension sévère: lorsqu'on la comparait aux autres antihypertenseurs, elle a été associée avec plus d'hypertension persistante, d'hypotension, d'hématomes rétroplacentaires, de césariennes, d'oligurie maternelle, d'effets secondaires maternels (céphalées, palpitations, tachycardies), d'effets néonatals (scores APGAR plus faibles, mort in utero).</grossesse4>
   <grossesse5> On observait toutefois moins de bradycardie néonatale qu'avec le labetalol.</grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> L'hydralazine a été longtemps un agent de premier recours pour le traitement de l'hypertension gestationnelle sévère; toutefois les données récentes la relèguent plutôt à un traitement de rechange quand les autres traitements ne sont pas suffisants.</recommandationgrossesse>
-  <allaitement1> Passage dans le lait faible: estimé à 2.5 % de la dose pédiatrique. Aucun effet indésirable rapporté chez un nourrisson.</allaitement1>
-  <allaitement2> Risque théorique d'hypotension et de sédation (non rapporté).</allaitement2>
-  <allaitement3> </allaitement3>
+  <allaitement1> Passage du médicament dans le lait maternel faible: estimé à 2.5 % de la dose pédiatrique. </allaitement1>
+  <allaitement2> Aucun effet indésirable rapporté chez un nourrisson. </allaitement2>
+  <allaitement3> Risque théorique d'hypotension et de sédation (non rapporté). </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Hydrochlorothiazide</molecule>
-  <ancrem><![CDATA[<h1><a name="Hydrochlorothiazide">Hydrochlorthiazide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Hydrochlorothiazide">Hydrochlorthiazide</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
@@ -98,7 +98,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Passage dans le lait faible: estimé à moins de 1 % de la dose utilisée en néonatologie (n=1); pas de concentration détectable dans le sérum de l'enfant.</allaitement1>
+  <allaitement1> Passage du médicament dans le lait maternel faible: estimé à moins de 1 % de la dose utilisée en néonatologie (n=1); pas de concentration détectable dans le sérum de l'enfant.</allaitement1>
   <allaitement2> Risque théorique de diminution de la production de lait par déplétion volémique.</allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -107,12 +107,12 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Préférer l'utilisation de l'hydrochlorothiazide si un agent thiazidique doit être utilisé.</recommandationallaitement>
+  <recommandationallaitement> L'utilisation de l'hydrochlorothiazide est recommandée si un agent thiazidique doit être utilisé.</recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Hydrocodone</molecule>
-  <ancrem><![CDATA[<h1><a name="Hydrocodone">Hydrocodone</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Hydrocodone">Hydrocodone</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos, toux</indication>
   <ancrei> Syndrome des jambes sans repos, toux </ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (380 expositions au premier trimestre à l'hydrocodone).</grossesse1> 
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Hydrodiuril (hydrochlorothiazide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx08H.html#Hydrochlorothiazide">Hydrodiuril (hydrochlorothiazide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx08H.html#Hydrochlorothiazide">Hydrodiuril (hydrochlorothiazide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Hydromorphone</molecule>
-  <ancrem><![CDATA[<h1><a name="Hydromorphone">Hydromorphone</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Hydromorphone">Hydromorphone</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (12 expositions au premier trimestre à l'hydromorphone).</grossesse1> 
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Hygroton (chlorthalidone)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Chlorthalidone">Hygroton (chlorthalidone)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Chlorthalidone">Hygroton (chlorthalidone)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>

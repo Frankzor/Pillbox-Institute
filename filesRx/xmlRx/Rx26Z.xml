@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Zaroxolyn (metolazone)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Metolazone">Zaroxolyn (metolazone)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx13M.html#Metolazone">Zaroxolyn (metolazone)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Zestril (lisinopril)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx12L.html#Lisinopril">Zestril (lisinopril) </a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx12L.html#Lisinopril">Zestril (lisinopril) </a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Zithromax</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx01A.html#Azithromycin">Zithromax ou Z-pak (azithromycin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx01A.html#Azithromycin">Zithromax ou Z-pak (azithromycin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
   
   <tableau>
   <molecule> Zymar (gatifloxacin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx07G.html#Gatifloxacin">Zymar (gatifloxacin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx07G.html#Gatifloxacin">Zymar (gatifloxacin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>

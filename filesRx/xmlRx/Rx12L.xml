@@ -4,7 +4,7 @@
  
  <tableau>
   <molecule> Labetalol</molecule>
-  <ancrem><![CDATA[<h1><a name="Labetalol">Labetalol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Labetalol">Labetalol</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Bloquant alpha et beta-adrénergique sans activité sympatomimétique intrinsèque.</grossesse1>
@@ -17,7 +17,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines.</recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0 à 0.6 %</allaitement1>
+  <allaitement1> Passage du médicament dans le lait maternel: dose maternelle ajustée pour le poids transférée à l'enfant de 0 à 0.6 %. </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -31,7 +31,7 @@
  
  <tableau>
   <molecule> Lantus (insuline glargine)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineGlargine">Lantus (insuline glargine)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx09I.html#InsulineGlargine">Lantus (insuline glargine)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -58,7 +58,7 @@
  
  <tableau>
   <molecule> Lasix (furosemide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx06.html#Furosemide">Lasix (furosemide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx06.html#Furosemide">Lasix (furosemide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
  
  <tableau>
   <molecule> Levaquin (levofloxacin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx12L.html#Levofloxacin">Levaquin (levofloxacin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx12L.html#Levofloxacin">Levaquin (levofloxacin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -112,7 +112,7 @@
  
  <tableau>
   <molecule> Levemir (insuline detemir)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineDetemir">Levemir (insuline detemir)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx09I.html#InsulineDetemir">Levemir (insuline detemir)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -139,13 +139,13 @@
 
  <tableau>
   <molecule> Levodopa (avec ou sans carbidopa)</molecule>
-  <ancrem><![CDATA[<h1><a name="Levodopa">Levodopa (avec ou sans carbidopa)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Levodopa">Levodopa (avec ou sans carbidopa)</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Levodopa: 1) 31 femmes enceintes traitées par levodopa dans une étude observationnelle publiée sous forme de résumé. 30 ont été traitées au moins au premier trimestre et 10 ont continué le traitement pendant toute la grossesse: pas de malformations majeures identifiées parmi les 24 naissances vivantes.</grossesse1>
   <grossesse2> Levodopa: 2) Au moins 50 rapports d'expositions pour la prise en charge de Parkinson ou du syndrome de Segawa. Périodes d'exposition pas toujours spécifiées, mais dans la majorité des cas, traitements des patientes pendant toute la grossesse: 41 enfants sans anomalies identifiées, 4 avortements spontanées et 3 enfants avec malformations (toutes différentes). Un cas de complication néonatale avec convulsions à une heure de vie et pneumonie (lien de causalité non déterminé).</grossesse2>
   <grossesse3> Levodopa: 3) 6 femmes ayant reçu la levodopa au cours du deuxième ou troisième trimestre en dose unique ou sur quelques jours: enfants sans anomalies rapportées.</grossesse3>
-  <grossesse4> Cardidopa: 1) Au total, 25 femmes exposées pendant la grossesse, toutes en association à la levodopa (cas inclus dans les données levodopa), aucun cas de malformation majeure parmi les naissances, au moins 3 avortements spontanées.</grossesse4>
+  <grossesse4> Carbidopa: 1) Au total, 25 femmes exposées pendant la grossesse, toutes en association à la levodopa (cas inclus dans les données levodopa), aucun cas de malformation majeure parmi les naissances, au moins 3 avortements spontanées.</grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Levofloxacin</molecule>
-  <ancrem><![CDATA[<h1><a name="Levofloxacin">Levofloxacin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Levofloxacin">Levofloxacin</a>]]></ancrem>
   <indication> Pneumonie acquise en communauté, cystite aiguë, pyélonéphrite aiguë, pyélonéphrite aiguë: traitement de relais</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a>, <a href="./00TxPatho.html#PyelonephriteAigue">pyélonéphrite aiguë</a>, <a href="./00TxPatho.html#PyelonephriteAigueTxRelais">pyélonéphrite aiguë: traitement de relais</a> ]]></ancrei>
   <grossesse1> </grossesse1>
@@ -181,8 +181,8 @@
   <recommandationgrossesse> Non recommandé. Il faut réserver l'utilisation des fluoroquinolones au traitement d'infections résistantes ou compliquées et privilégier la ciprofloxacin et la norfloxacin si possible parce que ce sont les mieux documentées. Par contre, une exposition aux fluoroquinolones au premier trimestre ne requiert pas de suivi obstétrical particulier.</recommandationgrossesse>
   <allaitement1> Isomère de l'ofloxacin.</allaitement1>
   <allaitement2> Biodisponibilité orale: 99 %.</allaitement2>
-  <allaitement3> Liaison aux protéines plasmatiques: de 24 à 38 %.</allaitement3>
-  <allaitement4> Temps de demi-vie: de 6 à 8 h.</allaitement4>
+  <allaitement3> Liaison aux protéines plasmatiques: 24 à 38 %.</allaitement3>
+  <allaitement4> Temps de demi-vie: 6 à 8 h.</allaitement4>
   <allaitement5> Passage du médicament dans le lait maternel: 6.1 % de la dose utilisée en pédiatrie.</allaitement5>
   <allaitement6> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement6>
   <allaitement7> </allaitement7>
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Levothyroxine (T4)</molecule>
-  <ancrem><![CDATA[<h1><a name="Levothyroxine">Levothyroxine (T4)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Levothyroxine">Levothyroxine (T4)</a>]]></ancrem>
   <indication> Hypothyroïdie</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypothyroidie">Hypothyroïdie</a>]]></ancrei>
   <grossesse1> Il est nécessaire d'augmenter les doses de levothyroxine de 30 à 50 % par rapport à la dose prise avant la grossesse. Selon les auteurs, les schémas proposés sont différents. Certains auteurs recommandent de prendre deux doses supplémentaires par semaine dès que la grossesse est confirmée jusqu'à ce que le taux de TSH soit déterminé pour ajuster la dose. D'autres auteurs conseillent d'augmenter de 25 à 50 mcg par jour dès que la grossesse est confirmée puis de doser la TSH 4 à 6 semaines plus tard. Après l'accouchement, la dose nécessaire de levothyroxine est la même que celle requise avant la grossesse.</grossesse1>
@@ -220,7 +220,7 @@
 
  <tableau>
   <molecule> Liothyronine (T3)</molecule>
-  <ancrem><![CDATA[<h1><a name="Liothyronine">Liothyronine</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Liothyronine">Liothyronine</a>]]></ancrem>
   <indication> Hypothyroïdie</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypothyroidie">Hypothyroïdie</a>]]></ancrei>
   <grossesse1> Pas d'augmentation du taux de malformations majeures par rapport au taux de base dans la population générale ni de patron d'anomalie chez 34 femmes exposées au cours du premier trimestre.</grossesse1>
@@ -247,7 +247,7 @@
 
  <tableau>
   <molecule> Lisinopril</molecule>
-  <ancrem><![CDATA[<h1><a name="Lisinopril">Lisinopril</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Lisinopril">Lisinopril</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -274,7 +274,7 @@
 
  <tableau>
   <molecule> Lopresor (metoprolol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Metoprolol">Lopresor (metoprolol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx13M.html#Metoprolol">Lopresor (metoprolol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -301,7 +301,7 @@
 
  <tableau>
   <molecule> Losartan</molecule>
-  <ancrem><![CDATA[<h1><a name="Losartan">Losartan</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Losartan">Losartan</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
@@ -328,7 +328,7 @@
 
  <tableau>
   <molecule> Lotensin (benazepril)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx02B.html#Benazepril">Lotensin (benazepril)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx02B.html#Benazepril">Lotensin (benazepril)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -355,7 +355,7 @@
 
  <tableau>
   <molecule> Lozide (indapamide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx09I.html#Indapamide">Lozide (indapamide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx09I.html#Indapamide">Lozide (indapamide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -382,7 +382,7 @@
 
  <tableau>
   <molecule> Lyrica (pregabalin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Pregabalin">Lyrica (pregabalin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx16P.html#Pregabalin">Lyrica (pregabalin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>

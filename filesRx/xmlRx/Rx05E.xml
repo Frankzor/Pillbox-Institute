@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Edecrin (ethacrynique, acide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Ethacrynique">Edecrin (ethacrynique, acide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx05E.html#Ethacrynique">Edecrin (ethacrynique, acide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Enalapril</molecule>
-  <ancrem><![CDATA[<h1><a name="Enalapril">Enalapril</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Enalapril">Enalapril</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Eprosartan</molecule>
-  <ancrem><![CDATA[<h1><a name="Eprosartan">Eprosartan</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Eprosartan">Eprosartan</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Ertapenem</molecule>
-  <ancrem><![CDATA[<h1><a name="Ertapenem">Ertapenem</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ertapenem">Ertapenem</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Études animales: pas d'effet tératogène chez 2 espèces avec ertapenem, imipenem + cilastatin et meropenem.</grossesse1>
@@ -98,7 +98,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> La structure et le mécanisme d'action sont similaires aux pénicillines. La gravité des situations nécessitant des carbapénèms justifie probablement leur situation. Toutefois, ce ne sont pas des agents de premier recours lorsque d'autres options mieux documentées sont disponibles. </recommandationgrossesse>
-  <allaitement1> Liaison aux protéines plasmatiques: de 85 à 95 %. Temps de demi-vie: 4 heures. </allaitement1>
+  <allaitement1> Liaison aux protéines plasmatiques: 85 à 95 %. Temps de demi-vie: 4 h. </allaitement1>
   <allaitement2> Passage du médicament dans le lait maternel: 0.2 % de la dose utilisée en pédiatrie selon le fabricant. </allaitement2>
   <allaitement3> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement3>
   <allaitement4> </allaitement4>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Eryc (erythromycin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Erythromycin">Eryc (erythromycin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx05E.html#Erythromycin">Eryc (erythromycin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Erythromycin</molecule>
-  <ancrem><![CDATA[<h1><a name="Erythromycin">Erythromycin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Erythromycin">Erythromycin</a>]]></ancrem>
   <indication> Pharyngite, pneumonie acquise en communauté, chlamydiose</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Pharyngite">pharyngite</a>, <a href="./00TxPatho.html#PneumoniePatienteHospitalisee">pneumonie acquise en communauté: patiente hospitalisée</a>, <a href="./00TxPatho.html#PneumonieTxRelais">pneumonie acquise en communauté: traitement de relais</a>, <a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#Chlamydiose">chlamydiose</a> ]]></ancrei>
   <grossesse1> Pas d'augmentation du risque de malformations congénitales dans 3 études de surveillance rapportant plus de 7300 expositions au cours du premier trimestre (sels d'erythromycin non spécifiés).</grossesse1>
@@ -153,8 +153,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> L'erythromycin peut être utilisée à tous les trimestres de la grossesse. Les sels d'estolate doivent être évités.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale variable.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 75 à 90 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 1.5 à 2 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 75 à 90 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 1.5 à 2 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 2.4 % de la dose utilisée en pédiatrie.</allaitement4>
   <allaitement5> Un cas de sténose du pylore (vomissements, sédation, difficultés à la succion et faible gain de poids) rapporté chez un bébé de trois semaines.</allaitement5>
   <allaitement6> Une étude de cohorte a associé la survenue de sténose du pylore à la prise d'antibiotiques par la mère dans les 90 jours suivant l'accouchement. (72 % des mères prenaient de l'erythromycin, mais on ne sait pas quelle était la proportion d'enfants avec une sténose du pylore.)</allaitement6>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Esmolol</molecule>
-  <ancrem><![CDATA[<h1><a name="Esmolol">Esmolol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Esmolol">Esmolol</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Ethacrynique, acide</molecule>
-  <ancrem><![CDATA[<h1><a name="Ethacrynique">Ethacrynique, acide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ethacrynique">Ethacrynique, acide</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Pas d'anomalies animales observés avec l'acide éthacrynique (50 fois la dose humaine).</grossesse1>

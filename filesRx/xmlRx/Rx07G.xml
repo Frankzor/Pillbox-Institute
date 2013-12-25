@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Gabapentin</molecule>
-  <ancrem><![CDATA[<h1><a name="Gabapentin">Gabapentin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Gabapentin">Gabapentin</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos, épilepsie</indication>
   <ancrei> Syndrome des jambes sans repos, épilepsie </ancrei>
   <grossesse1> 261 grossesses exposées à la gabapentin en monothérapie dans une compilation de séries de cas, d'études et de registres, sans risque accru de malformations majeures.</grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Gatifloxacin</molecule>
-  <ancrem><![CDATA[<h1><a name="Gatifloxacin">Gatifloxacin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Gatifloxacin">Gatifloxacin</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -46,7 +46,7 @@
   <recommandationgrossesse> Non recommandé. Il faut réserver l'utilisation des fluoroquinolones au traitement d'infections résistantes ou compliquées et privilégier la ciprofloxacin et la norfloxacin si possible parce que ce sont les mieux documentées. Par contre, une exposition aux fluoroquinolones au premier trimestre ne requiert pas de suivi obstétrical particulier. </recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: 90 %.</allaitement1>
   <allaitement2> Liaison aux protéines plasmatiques: 20 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 3 à 7 h.</allaitement3>
+  <allaitement3> Temps de demi-vie: 3 à 7 h.</allaitement3>
   <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Gentamicin</molecule>
-  <ancrem><![CDATA[<h1><a name="Gentamicin">Gentamicin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Gentamicin">Gentamicin</a>]]></ancrem>
   <indication> Pyélonéphrite aiguë</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#PyelonephriteAigue">Pyélonéphrite aiguë</a>]]></ancrei>
   <grossesse1> Biodisponibilité cutanée: 5 %.</grossesse1>
@@ -73,8 +73,8 @@
   <recommandationgrossesse> Les aminosides peuvent être utilisés durant la grossesse à tous les trimestres. Toutefois, la streptomycine devrait rester un dernier choix de traitement dans les aminosides à cause de son association plus fréquente à des cas d'ototoxicité. Les aminosides par voie topique ou par inhalation ont une absorption faible. Les quantités présentes dans les formes ophtalmiques, otiques ou rectales sont faibles. Des dosages des taux sériques d'aminosides administrés par voie systémique sont recommandés chez la mère pour assurer l'efficacité et prévenir la toxicité associée au traitement. Pas de données sur l'utilisation des aminosides en doses uniquotidiennes durant la grossesse. </recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: 0.2 %.</allaitement1>
   <allaitement2> Biodisponibilité cutanée: 5 %.</allaitement2>
-  <allaitement3> Liaison aux protéines plasmatiques: de 0 à 30 %.</allaitement3>
-  <allaitement4> Temps de demi-vie: de 1.5 à 4 h.</allaitement4>
+  <allaitement3> Liaison aux protéines plasmatiques: 0 à 30 %.</allaitement3>
+  <allaitement4> Temps de demi-vie: 1.5 à 4 h.</allaitement4>
   <allaitement5> Passage du médicament dans le lait maternel: 1.8 % de la dose pédiatrique.</allaitement5>
   <allaitement6> Concentrations plasmatiques décelables chez 5 enfants sur un groupe de 10 enfants, toutefois inférieures aux concentrations thépareutiques (maximum 0.49 mg/L) et correspondant à 10 % du pic de la mère.</allaitement6>
   <allaitement7> </allaitement7>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Gliclazide</molecule>
-  <ancrem><![CDATA[<h1><a name="Gliclazide">Gliclazide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Gliclazide">Gliclazide</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Glimepiride</molecule>
-  <ancrem><![CDATA[<h1><a name="Glimepiride">Glimepiride</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Glimepiride">Glimepiride</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
@@ -126,7 +126,7 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
   <allaitement1> Poids moléculaire: 490 Da.</allaitement1>
-  <allaitement2> Liaison protéique supérieure à 99.5 %.</allaitement2>
+  <allaitement2> Liaison aux protéines plasmatiques supérieure à 99.5 %.</allaitement2>
   <allaitement3> Absorption orale de 100 %.</allaitement3>
   <allaitement4> Temps de demi-vie: 6 à 9 h.</allaitement4>
   <allaitement5> </allaitement5>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Glucobay (acarbose)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx01A.html#Acarbose">Glucobay (acarbose)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx01A.html#Acarbose">Glucobay (acarbose)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> GlucoNorm (repaglinide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx18R.html#Repaglinide">GlucoNorm (repaglinide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx18R.html#Repaglinide">GlucoNorm (repaglinide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Glucophage (metformin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Metformin">Glucophage (metformin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx13M.html#Metformin">Glucophage (metformin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -220,7 +220,7 @@
 
  <tableau>
   <molecule> Glyburide</molecule>
-  <ancrem><![CDATA[<h1><a name="Glyburide">Glyburide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Glyburide">Glyburide</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
@@ -234,7 +234,7 @@
   <grossesse9> - chez 44 femmes traitées par glyburide avec des élévations marquées des tests d'hyperglycémie provoquée par voie orale et des glycémies à jeun avant traitement, le risque de macrosomie était plus élevé comparé aux femmes traitées par insuline.</grossesse9>
   <recommandationgrossesse> Les sulfonylurées ne sont pas recommandés pendant la grossesse à l'exception du glyburide pour lequel des études ont montré une efficacité comparable à l'insuline pour le contrôle glycémique du diabète gestationnel. Cependant, le glyburide n'est pas un traitement de premier recours du fait des possibles complications maternelles et foetales plus importantes qu'avec l'insuline.</recommandationgrossesse>
   <allaitement1> Poids moléculaire: 494 Da.</allaitement1>
-  <allaitement2> Liaison protéique supérieure à 99 %.</allaitement2>
+  <allaitement2> Liaison aux protéines plasmatiques supérieure à 99 %.</allaitement2>
   <allaitement3> Absorption orale complète.</allaitement3>
   <allaitement4> Temps de demi-vie: 5 à 10 h.</allaitement4>
   <allaitement5> Chez 7 femmes ayant reçu une dose unique de 5 à 10 mg, les niveaux mesurés dans le lait maternel étaient indétectables (moins de 5 mcg/L) entre 2 et 8 h après la dose. Passage dans le lait maternel de moins de 1.5 % de la dose maternelle ajustée au poids.</allaitement5>

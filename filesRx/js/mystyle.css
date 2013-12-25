@@ -22,13 +22,9 @@ font-weight: bold;
 {
 text-align: center;
 }
-.normalfish
-{
-font-size: 1em;
-}
 .bigfish
 {
-font-size: 1.2em;
+font-size: 1.4em;
 }
 .checkOn
 {
@@ -96,6 +92,7 @@ input[type=checkbox]
 body
 {
 margin: 1;
+font-size: 1.2em;
 }
 .header
 {

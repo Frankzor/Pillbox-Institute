@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Ofloxacin</molecule>
-  <ancrem><![CDATA[<h1><a name="Ofloxacin">Ofloxacin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ofloxacin">Ofloxacin</a>]]></ancrem>
   <indication> Pyélonéphrite aiguë: traitement de relais, prophylaxie post-coïtale, chlamydiose</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#PyelonephriteAigueTxRelais">pyélonéphrite aiguë: traitement de relais</a>, <a href="./00TxPatho.html#ProphylaxiePostCoitale">prophylaxie post-coïtale</a>, <a href="./00TxPatho.html#Chlamydiose">chlamydiose</a> ]]></ancrei>
   <grossesse1> Biodisponibilité ophtalmique: pas complètement élucidée.</grossesse1>
@@ -17,9 +17,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Non recommandé. Il faut réserver l'utilisation des fluoroquinolones au traitement d'infections résistantes ou compliquées et privilégier la ciprofloxacin et la norfloxacin si possible parce que ce sont les mieux documentées. Par contre, une exposition aux fluoroquinolones au premier trimestre ne requiert pas de suivi obstétrical particulier. </recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: de 90 à 98 %.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 20 à 32 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 5 à 7.5 h.</allaitement3>
+  <allaitement1> Biodisponibilité orale: 90 à 98 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 20 à 32 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 5 à 7.5 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 2.4 % de la dose utilisée en pédiatrie.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Orinase (tolbutamide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Tolbutamide">Orinase (tolbutamide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx20T.html#Tolbutamide">Orinase (tolbutamide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Orlistat</molecule>
-  <ancrem><![CDATA[<h1><a name="Orlistat">Orlistat</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Orlistat">Orlistat</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Études animales controversées: </grossesse1>
@@ -85,10 +85,10 @@
 
  <tableau>
   <molecule> Oxprenolol</molecule>
-  <ancrem><![CDATA[<h1><a name="Oxprenolol">Oxprenolol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Oxprenolol">Oxprenolol</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
-  <grossesse1> Non cardiosélectif, mais avec activité sympathomimétique intrinsèque</grossesse1>
+  <grossesse1> Non cardiosélectif, mais avec activité sympathomimétique intrinsèque. </grossesse1>
   <grossesse2> Aucune étude de tératogénicité chez l'animal n'a été retrouvée.</grossesse2>
   <grossesse3> Aucun cas d'exposition durant le premier trimestre n'a été retracé dans la littérature médicale.</grossesse3>
   <grossesse4> </grossesse4>
@@ -98,7 +98,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: aucune donnée...</allaitement1>
+  <allaitement1> Aucune donnée.</allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Oxycodone</molecule>
-  <ancrem><![CDATA[<h1><a name="Oxycodone">Oxycodone</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Oxycodone">Oxycodone</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (plus de 350 expositions au premier trimestre à l'oxycodone).</grossesse1> 

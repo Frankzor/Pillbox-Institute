@@ -30,6 +30,7 @@ permission on your app, which PhoneGap requires.
     <preference name="permissions" value="none"/>
 
     <!-- Customize your app and platform with the preference element. -->
+    <gap:platform name="android" /> <!-- Remove entire line if package has to be built in all available platforms -->
     <preference name="phonegap-version" value="2.9.0" /> <!-- all: current version of PhoneGap -->
     <preference name="orientation" value="default" /> <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device" value="universal" /> <!-- all: possible values handset, tablet, or universal -->
@@ -46,6 +47,8 @@ permission on your app, which PhoneGap requires.
     <preference name="android-minSdkVersion" value="7" /> <!-- android: MIN SDK version supported on the target device. MAX version is blank by default. -->
     <preference name="android-installLocation" value="auto" /> <!-- android: app install location. 'auto' will choose. 'internalOnly' is device memory. 'preferExternal' is SDCard. -->
 
+    <preference name="splash-screen-duration" value="500" /> <!-- android: duration that the splash screen remains visible. Defaults to 5000 (ms).  For auto-hide behaviour call navigator.splashscreen.hide() in the deviceready callback. -->
+
     <!-- Plugins can also be added here. -->
     <!--
 <gap:plugin name="Example" />
@@ -54,6 +57,7 @@ A list of available plugins are available at https://build.phonegap.com/docs/plu
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
+<!-- Removed for now
     <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi" />
     <icon src="res/icon/android/icon-72-hdpi.png" gap:platform="android" gap:density="hdpi" />
@@ -67,8 +71,11 @@ A list of available plugins are available at https://build.phonegap.com/docs/plu
     <icon src="res/icon/webos/icon-64.png" gap:platform="webos" />
     <icon src="res/icon/windows-phone/icon-48.png" gap:platform="winphone" />
     <icon src="res/icon/windows-phone/icon-173.png" gap:platform="winphone" gap:role="background" />
-
+-->
+    
     <!-- Define app splash screen for each platform. -->
+    <gap:splash src="splash.png" />
+<!-- Removed for now
     <gap:splash src="res/screen/android/screen-ldpi-portrait.png" gap:platform="android" gap:density="ldpi" />
     <gap:splash src="res/screen/android/screen-mdpi-portrait.png" gap:platform="android" gap:density="mdpi" />
     <gap:splash src="res/screen/android/screen-hdpi-portrait.png" gap:platform="android" gap:density="hdpi" />
@@ -79,7 +86,7 @@ A list of available plugins are available at https://build.phonegap.com/docs/plu
     <gap:splash src="res/screen/ios/screen-ipad-portrait.png" gap:platform="ios" width="768" height="1024" />
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png" gap:platform="ios" width="1024" height="768" />
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
-
+-->
     <!--
 Define access to external domains.
 

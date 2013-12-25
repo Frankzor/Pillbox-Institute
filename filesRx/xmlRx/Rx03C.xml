@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Cabergoline</molecule>
-  <ancrem><![CDATA[<h1><a name="Cabergoline">Cabergoline</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cabergoline">Cabergoline</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> 1) La majorité des données concernent des patientes traitées pour améliorer la fertilité lors d'hyperprolactinémie avec un traitement discontinué une fois la grossesse connue: plus de 700 femmes traitées dans différentes études, sans risque accru observé de malformations majeures, avortement spontané ou autres issues défavorables.</grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Candesartan</molecule>
-  <ancrem><![CDATA[<h1><a name="Candesartan">Candesartan</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Candesartan">Candesartan</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
@@ -44,7 +44,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> L'utilisation des ARA n'est pas recommandée durant la grossesse. En cas d'exposition durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> Aucune donnée sur le passage dans le lait maternel n'a été retrouvée.</allaitement1>
+  <allaitement1> Aucune donnée sur le passage du médicament dans le lait maternel n'a été retrouvée.</allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Capoten (captopril)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Captopril">Capoten (captopril)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Captopril">Capoten (captopril)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Captopril</molecule>
-  <ancrem><![CDATA[<h1><a name="Captopril">Captopril</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Captopril">Captopril</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Cardizem (diltiazem)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx04D.html#Diltiazem">Cardizem (diltiazem)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx04D.html#Diltiazem">Cardizem (diltiazem)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Catapres (clonidine)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Clonidine">Catapres (clonidine)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Clonidine">Catapres (clonidine)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Cefaclor</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefaclor">Cefaclor</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefaclor">Cefaclor</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -181,7 +181,7 @@
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale bonne.</allaitement1>
   <allaitement2> Liaison aux protéines plasmatiques: 25 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 30 à 60 min.</allaitement3>
+  <allaitement3> Temps de demi-vie: 30 à 60 min.</allaitement3>
   <allaitement4> Passage du médicament dans le lait meternel: 0.2 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Un cas de diarrhée rapporté par les mères dans une étude de suivi téléphonique parmi 5 bébés exposés au cefaclor à travers le lait; pas de consultation médicale nécessaire.</allaitement5>
   <allaitement6> </allaitement6>
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Cefadroxil</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefadroxil">Cefadroxil</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefadroxil">Cefadroxil</a>]]></ancrem>
   <indication> Pharyngite</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Pharyngite">pharyngite</a>]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -208,7 +208,7 @@
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: 100%.</allaitement1>
   <allaitement2> Liaison aux protéines plasmatiques: 20 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 1.2 à 1.7 h.</allaitement3>
+  <allaitement3> Temps de demi-vie: 1.2 à 1.7 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 1.2 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement5>
   <allaitement6> </allaitement6>
@@ -220,7 +220,7 @@
 
  <tableau>
   <molecule> Cefazolin</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefazolin">Cefazolin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefazolin">Cefazolin</a>]]></ancrem>
   <indication> Pyélonéphrite aiguë</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#PyelonephriteAigue">pyélonéphrite aiguë</a>]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -234,8 +234,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale négligeable.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 80 à 86 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 1.5 à 2.5 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 80 à 86 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 1.5 à 2.5 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.5 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement5>
   <allaitement6> </allaitement6>
@@ -247,7 +247,7 @@
 
  <tableau>
   <molecule> Cefepime</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefepime">Cefepime</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefepime">Cefepime</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueSevere">Exacerbation pulmonaire en fibrose kystique</a>]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -260,7 +260,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
-  <allaitement1> Liaison aux protéines plasmatiques: de 16 à 20 %.</allaitement1>
+  <allaitement1> Liaison aux protéines plasmatiques: 16 à 20 %.</allaitement1>
   <allaitement2> Temps de demi-vie: 2 h.</allaitement2>
   <allaitement3> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement3>
   <allaitement4> </allaitement4>
@@ -274,7 +274,7 @@
 
  <tableau>
   <molecule> Cefixime</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefixime">Cefixime</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefixime">Cefixime</a>]]></ancrem>
   <indication> Gonorrhée</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Gonorrhee">gonorrhée</a>]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -287,9 +287,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: de 40 à 50 %.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 50 à 65 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 3 à 4 h.</allaitement3>
+  <allaitement1> Biodisponibilité orale: 40 à 50 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 50 à 65 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 3 à 4 h.</allaitement3>
   <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -301,7 +301,7 @@
 
  <tableau>
   <molecule> Cefizox (ceftizoxime)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Ceftizoxime">Cefizox (ceftizoxime)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Ceftizoxime">Cefizox (ceftizoxime)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -328,7 +328,7 @@
 
  <tableau>
   <molecule> Cefotaxime</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefotaxime">Cefotaxime</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefotaxime">Cefotaxime</a>]]></ancrem>
   <indication> Pneumonie acquise en communauté (patiente hospitalisée)</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#PneumoniePatienteHospitalisee">pneumonie acquise en communauté (patiente hospitalisée)</a>]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -342,9 +342,9 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale négligeable.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 27 à 38 %.</allaitement2>
+  <allaitement2> Liaison aux protéines plasmatiques: 27 à 38 %.</allaitement2>
   <allaitement3> Métabolite actif: desacetylcefotaxime.</allaitement3>
-  <allaitement4> Temps de demi-vie: de 1 à 2 h.</allaitement4>
+  <allaitement4> Temps de demi-vie: 1 à 2 h.</allaitement4>
   <allaitement5> Passage du médicament dans le lait maternel: 0.2 % de la dose pédiatrique.</allaitement5>
   <allaitement6> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement6>
   <allaitement7> </allaitement7>
@@ -355,7 +355,7 @@
 
  <tableau>
   <molecule> Cefotetan</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefotetan">Cefotetan</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefotetan">Cefotetan</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -369,8 +369,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale faible.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 78 à 91 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 3 à 4.6 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 78 à 91 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 3 à 4.6 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.2 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -382,7 +382,7 @@
 
  <tableau>
   <molecule> Cefoxitin</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefoxitin">Cefoxitin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefoxitin">Cefoxitin</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -396,8 +396,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale nulle.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 41 à 75 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 0.8 à 1 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 41 à 75 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 0.8 à 1 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.9 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -409,7 +409,7 @@
 
  <tableau>
   <molecule> Cefprozil</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefprozil">Cefprozil</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefprozil">Cefprozil</a>]]></ancrem>
   <indication> Sinusite, pneumonie acquise en communauté, pyélonéphrite aiguë: traitement de relais</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#PneumonieTxRelais">pneumonie acquise en communauté: traitement de relais</a>, <a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#PyelonephriteAigueTxRelais">pyélonéphrite aiguë: traitement de relais</a>]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -422,9 +422,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: de 89 à 95 %.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 35 à 45 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 1 à 2 h.</allaitement3>
+  <allaitement1> Biodisponibilité orale: 89 à 95 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 35 à 45 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 1 à 2 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 2.3 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -436,7 +436,7 @@
 
  <tableau>
   <molecule> Ceftazidime</molecule>
-  <ancrem><![CDATA[<h1><a name="Ceftazidime">Ceftazidime</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ceftazidime">Ceftazidime</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueSevere">exacerbation pulmonaire en fibrose kystique: surinfection modérée à sévère</a>, <a href="./00TxPatho.html#FibroseKystiqueGramNegatif">exacerbation pulmonaire en fibrose kystique: surinfection à bactéries Gram négatif</a> ]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -450,8 +450,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale nulle.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 5 à 17 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 1.6 à 2 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 5 à 17 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 1.6 à 2 h.</allaitement3>
   <allaitement4> Passage dans le lait maternel: 0.7 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -463,7 +463,7 @@
 
  <tableau>
   <molecule> Ceftizoxime</molecule>
-  <ancrem><![CDATA[<h1><a name="Ceftizoxime">Ceftizoxime</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ceftizoxime">Ceftizoxime</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -477,8 +477,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale négligeable.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 28 à 50 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 1.1 à 2.3 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 28 à 50 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 1.1 à 2.3 h.</allaitement3>
   <allaitement4> Passage dans le lait maternel: moins de 0.1 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -490,7 +490,7 @@
 
  <tableau>
   <molecule> Ceftriaxone</molecule>
-  <ancrem><![CDATA[<h1><a name="Ceftriaxone">Ceftriaxone</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ceftriaxone">Ceftriaxone</a>]]></ancrem>
   <indication> Pneumonie acquise en communauté (patiente hospitalisée), pyélonéphrite aiguë, gonorrhée</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#PneumoniePatienteHospitalisee">Pneumonie acquise en communauté (patiente hospitalisée)</a>, <a href="./00TxPatho.html#PyelonephriteAigue">pyélonéphrite aiguë</a>, <a href="./00TxPatho.html#Gonorrhee">gonorrhée</a> ]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -504,8 +504,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale faible.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 83 à 96 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 5.8 à 8.7 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 83 à 96 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 5.8 à 8.7 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.2 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -517,7 +517,7 @@
 
  <tableau>
   <molecule> Cefuroxime (pour injection) ou cefuroxime axetil (pour voie orale)</molecule>
-  <ancrem><![CDATA[<h1><a name="Cefuroxime">Cefuroxime (pour injection) ou cefuroxime axetil (pour voie orale)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cefuroxime">Cefuroxime (pour injection) ou cefuroxime axetil (pour voie orale)</a>]]></ancrem>
   <indication> Sinusite (si avalé), pneumonie acquise en communauté (si avalé), pyélonéphrite aiguë (si injecté)</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#PneumonieTxRelais">pneumonie acquise en communauté: traitement de relais</a>, <a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#PyelonephriteAigue">pyélonéphrite aiguë</a> ]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -530,9 +530,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: de 37 à 52 %.</allaitement1>
+  <allaitement1> Biodisponibilité orale: 37 à 52 %.</allaitement1>
   <allaitement2> Liaison aux protéines plasmatiques: 50 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 1.1 à 1.9 h.</allaitement3>
+  <allaitement3> Temps de demi-vie: 1.1 à 1.9 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 1 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Un cas de diarrhée rapporté parmi 38 bébés exposés à la cefuroxime à travers le lait.</allaitement5>
   <allaitement6> </allaitement6>
@@ -544,7 +544,7 @@
 
  <tableau>
   <molecule> Cephalexin</molecule>
-  <ancrem><![CDATA[<h1><a name="Cephalexin">Cephalexin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cephalexin">Cephalexin</a>]]></ancrem>
   <indication> Pharyngite, bactériurie asymptomatique, cystite aiguë, pyélonéphrite aiguë: traitement de relais, prophylaxie post-coïtale</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Pharyngite">pharyngite</a>, <a href="./00TxPatho.html#Bacteriurie">bactériurie asymptomatique</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a>, <a href="./00TxPatho.html#PyelonephriteAigueTxRelais">pyélonéphrite aiguë: traitement de relais</a>, <a href="./00TxPatho.html#ProphylaxiePostCoitale">prophylaxie post-coïtale</a> ]]></ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -558,7 +558,7 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale bonne.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 15 à 20 %.</allaitement2>
+  <allaitement2> Liaison aux protéines plasmatiques: 15 à 20 %.</allaitement2>
   <allaitement3> Temps de demi-vie: 0.9 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.6 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Quelques cas de diarrhée rapportés.</allaitement5>
@@ -571,7 +571,7 @@
 
  <tableau>
   <molecule> Cephalotin</molecule>
-  <ancrem><![CDATA[<h1><a name="Cephalotin">Cephalotin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cephalotin">Cephalotin</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Près de 6000 cas d'exposition aux céphalosporines rapportés au premier trimestre (davantage de données avec les céphalosporines de première génération): pas d'augmentation du taux de malformations congénitales.</grossesse1>
@@ -585,8 +585,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les céphalosporines peuvent être utilisées chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale faible.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 65 à 80 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 0.5 à 1 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 65 à 80 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 0.5 à 1 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.1 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -598,7 +598,7 @@
 
  <tableau>
   <molecule> Cefzil (cefprozil)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cefprozil">Cefzil (cefprozil)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Cefprozil">Cefzil (cefprozil)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -625,7 +625,7 @@
 
  <tableau>
   <molecule> Chlorpropramide</molecule>
-  <ancrem><![CDATA[<h1><a name="Chlorpropramide">Chlorpropramide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Chlorpropramide">Chlorpropramide</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
@@ -652,7 +652,7 @@
 
  <tableau>
   <molecule> Chlorthalidone</molecule>
-  <ancrem><![CDATA[<h1><a name="Chlorthalidone">Chlorthalidone</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Chlorthalidone">Chlorthalidone</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
@@ -665,9 +665,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Données pharmacocinétiques: poids moléculaire de 339 Da, temps de demi-vie de 54 heures.</allaitement1>
-  <allaitement2> Aucune donnée sur le passage dans le lait maternel.</allaitement2>
-  <allaitement3> </allaitement3>
+  <allaitement1> Données pharmacocinétiques: poids moléculaire de 339 Da </allaitement1>
+  <allaitement2> Temps de demi-vie: 54 h. </allaitement2>
+  <allaitement3> Aucune donnée sur le passage dans le lait maternel. </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -679,7 +679,7 @@
 
  <tableau>
   <molecule> Cilazapril</molecule>
-  <ancrem><![CDATA[<h1><a name="Cilazapril">Cilazapril</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cilazapril">Cilazapril</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -706,7 +706,7 @@
 
  <tableau>
   <molecule> Cipro (ciprofloxacin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Ciprofloxacin">Cipro (ciprofloxacin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">Cipro (ciprofloxacin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -733,7 +733,7 @@
 
  <tableau>
   <molecule> Ciprofloxacin</molecule>
-  <ancrem><![CDATA[<h1><a name="Ciprofloxacin">Ciprofloxacin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ciprofloxacin">Ciprofloxacin</a>]]></ancrem>
   <indication> Sinusite, pneumonie acquise en communauté, exacerbation pulmonaire en fibrose kystique, cystite aiguë, pyélonéphrite aiguë, prophylaxie post-coïtale</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#PneumoniePatienteHospitalisee">pneumonie acquise en communauté: patiente hospitalisée</a>, <a href="./00TxPatho.html#PneumonieTxRelais">pneumonie acquise en communauté: traitement de relais</a>, <a href="./00TxPatho.html#FibroseKystiqueLegere">exacerbation pulmonaire en fibrose kystique: traitement ponctuel d'une surinfection légère à modérée ou suppression bactérienne chronique</a>, <a href="./00TxPatho.html#FibroseKystiqueSevere">exacerbation pulmonaire en fibrose kystique: surinfection modérée à sévère</a>, <a href="./00TxPatho.html#FibroseKystiqueGramNegatif">exacerbation pulmonaire en fibrose kystique: surinfection à bactéries Gram négatif</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a>, <a href="./00TxPatho.html#PyelonephriteAigue">pyélonéphrite aiguë</a>, <a href="./00TxPatho.html#ProphylaxiePostCoitale">prophylaxie post-coïtale</a> ]]></ancrei>
   <grossesse1> Biodisponibilité ophtalmique: pas complètement élucidée.</grossesse1>
@@ -746,9 +746,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Il faut réserver l'utilisation des fluoroquinolones au traitement d'infections résistantes ou compliquées et privilégier la ciprofloxacin et la norfloxacin si possible parce que ce sont les mieux documentées. Par contre, une exposition aux fluoroquinolones au premier trimestre ne requiert pas de suivi obstétrical particulier. </recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: de 60 à 80 %.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 20 à 40 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 3 à 7 h.</allaitement3>
+  <allaitement1> Biodisponibilité orale: 60 à 80 %.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 20 à 40 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 3 à 7 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 2.8 % de la dose utilisée en pédiatrie.</allaitement4>
   <allaitement5> Un cas de colite pseudomembraneuse a été rapporté chez un nouveau-né de 2 mois.</allaitement5>
   <allaitement6> </allaitement6>
@@ -760,7 +760,7 @@
 
  <tableau>
   <molecule> Claforan (cefotaxime)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cefotaxime">Claforan (cefotaxime)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Cefotaxime">Claforan (cefotaxime)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -787,7 +787,7 @@
 
  <tableau>
   <molecule> Clarithromycin</molecule>
-  <ancrem><![CDATA[<h1><a name="Clarithromycin">Clarithromycin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Clarithromycin">Clarithromycin</a>]]></ancrem>
   <indication> Sinusite, pharyngite, pneumonie acquise en communauté, bronchite aiguë</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#Pharyngite">pharyngite</a>, <a href="./00TxPatho.html#PneumonieTxRelais">pneumonie acquise en communauté: traitement de relais</a>, <a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#BronchiteAigue">bronchite aiguë</a> ]]></ancrei>
   <grossesse1> Des malformations ont été rapportées chez plusieurs espèces animales par la voie orale:</grossesse1>
@@ -802,8 +802,8 @@
   <recommandationgrossesse> Une exposition à la clarithromycin au cours du premier trimestre ne requiert pas de suivi obstétrical particulier; toutefois, en raison du nombre limité de données, il est recommandé de réserver son utilisation à partir du deuxième trimestre.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: 50 %.</allaitement1>
   <allaitement2> Métabolite actif: 14-hydroxyclarithromycin. </allaitement2>
-  <allaitement3> Temps de demi-vie: de 3 à 9 heures.</allaitement3>
-  <allaitement4> Liaison aux protéines plasmatiques: de 42 à 50 %.</allaitement4>
+  <allaitement3> Temps de demi-vie: 3 à 9 heures.</allaitement3>
+  <allaitement4> Liaison aux protéines plasmatiques: 42 à 50 %.</allaitement4>
   <allaitement5> Passage dans le lait maternel: 0.6 % de la dose utilisée en pédiatrie.</allaitement5>
   <allaitement6> Une étude de cohorte a associé la survenue de sténose du pylore à la prise d'antibiotiques par la mère dans les 90 jours suivant l'accouchement (1.7 % des mères prenaient de l'azithromycin, mais on ne sait pas quelle était la proportion d'enfants avec une sténose du pylore). </allaitement6>
   <allaitement7> </allaitement7>
@@ -814,7 +814,7 @@
 
  <tableau>
   <molecule> Clavulin (amoxicillin + clavulanate)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx01A.html#AmoxicillinClavulanate">Clavulin (amoxicillin + clavulanate)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx01A.html#AmoxicillinClavulanate">Clavulin (amoxicillin + clavulanate)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -841,7 +841,7 @@
 
  <tableau>
   <molecule> Clindamycin</molecule>
-  <ancrem><![CDATA[<h1><a name="Clindamycin">Clindamycin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Clindamycin">Clindamycin</a>]]></ancrem>
   <indication> Sinusite, pharyngite, antibioprophylaxie lors de l'accouchement (bactériurie asymptomatique), vaginose bactérienne </indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#Pharyngite">pharyngite</a>, <a href="./00TxPatho.html#Bacteriurie">antibioprophylaxie lors de l'accouchement (bactériurie asymptomatique) </a>, <a href="./00TxPatho.html#Vaginose">vaginose bactérienne</a> ]]></ancrei>
   <grossesse1> Biodisponibilité par voie cutanée: 4 à 5 %</grossesse1>
@@ -855,10 +855,10 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> La clindamycin peut être utilisée à tous les trimestres.</recommandationgrossesse>
   <allaitement1> Biodisponibilité par voie topique: de 4 à 5 %. Biodisponibilité par voie vaginale: 5 %. Biodisponibilité orale: 90%. </allaitement1>
-  <allaitement2> Temps de demi-vie: de 1.5 à 5 heures. Liaison aux protéines plasmatiques: de 60 à 95 %. </allaitement2>
-  <allaitement3> Passage du médicament dans le lait maternel: 5.7 % de la dose utilisée en pédiatrie. </allaitement3>
-  <allaitement4> Selles sanguinolentes disparaissant à l'arrêt de l'allaitement rapportées chez un nouveau-né allaité dont la mère était traitée par clindamycin et gentamicin. </allaitement4>
-  <allaitement5> </allaitement5>
+  <allaitement2> Temps de demi-vie: 1.5 à 5 h. </allaitement2>
+  <allaitement3> Liaison aux protéines plasmatiques: 60 à 95 %. </allaitement3>
+  <allaitement4> Passage du médicament dans le lait maternel: 5.7 % de la dose utilisée en pédiatrie. </allaitement4>
+  <allaitement5> Selles sanguinolentes disparaissant à l'arrêt de l'allaitement rapportées chez un nouveau-né allaité dont la mère était traitée par clindamycin et gentamicin. </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
@@ -868,7 +868,7 @@
 
  <tableau>
   <molecule> Clonazepam</molecule>
-  <ancrem><![CDATA[<h1><a name="Clonazepam">Clonazepam</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Clonazepam">Clonazepam</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos, insomnie</indication>
   <ancrei> Syndrome des jambes sans repos, insomnie </ancrei>
   <grossesse1> Pas d'augmentation du risque de malformation majeure notée dans plusieurs études de cohortes réalisées auprès de milliers de femmes exposées à une benzodiazépine au premier trimestre, incluant 435 expositions au clonazepam.</grossesse1>
@@ -895,7 +895,7 @@
 
  <tableau>
   <molecule> Clonidine</molecule>
-  <ancrem><![CDATA[<h1><a name="Clonidine">Clonidine</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Clonidine">Clonidine</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Études animales: pas d'effets tératogène observé ni chez le rat ni chez le lapin; toxicité développementale notée chez la souris mais à des doses entraînant une toxicité maternelle et très supérieures à celles utilisées chez l'homme.</grossesse1>
@@ -922,7 +922,7 @@
 
  <tableau>
   <molecule> Cloxacillin</molecule>
-  <ancrem><![CDATA[<h1><a name="Cloxacillin">Cloxacillin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Cloxacillin">Cloxacillin</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
@@ -935,9 +935,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse.</recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: de 50 à 75 %. </allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 94 à 95 %. </allaitement2>
-  <allaitement3> Temps de demi-vie: de 0.5 à 1 h. </allaitement3>
+  <allaitement1> Biodisponibilité orale: 50 à 75 %. </allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 94 à 95 %. </allaitement2>
+  <allaitement3> Temps de demi-vie: 0.5 à 1 h. </allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.1 % de la dose utilisée en pédiatrie. </allaitement4>
   <allaitement5> Deux cas de diarrhée rapportés par les mères dans une étude de suivi téléphonique parmi 10 bébés exposés à l'amoxicillin à travers le lait; pas de consultation médicale nécessaire. </allaitement5>
   <allaitement6> </allaitement6>
@@ -949,7 +949,7 @@
 
  <tableau>
   <molecule> Codeine</molecule>
-  <ancrem><![CDATA[<h1><a name="Codeine">Codeine</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Codeine">Codeine</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei>Syndrome des jambes sans repos, douleur</ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (près de 10 000 expositions au premier trimestre à la codeine).</grossesse1> 
@@ -976,7 +976,7 @@
 
  <tableau>
   <molecule> Colistimethate injectable (pour inhaler)</molecule>
-  <ancrem><![CDATA[<h1><a name="Colistimethate">Colistimethate injectable (pour inhaler)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Colistimethate">Colistimethate injectable (pour inhaler)</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueLegere">exacerbation pulmonaire en fibrose kystique</a>]]></ancrei>
   <grossesse1> Biodisponibilité par nébulisation: concentrations très inférieures à celles obtenues par voie intraveineuse.</grossesse1>
@@ -1003,7 +1003,7 @@
 
  <tableau>
   <molecule> Corgard (nadolol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx14N.html#Nadolol">Corgard (nadolol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx14N.html#Nadolol">Corgard (nadolol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -1030,7 +1030,7 @@
 
  <tableau>
   <molecule> Coversyl (perindopril)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Perindopril">Coversyl (perindopril)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx16P.html#Perindopril">Coversyl (perindopril)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -1057,7 +1057,7 @@
 
  <tableau>
   <molecule> Cozaar (losartan)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx12L.html#Losartan">Cozaar (losartan)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx12L.html#Losartan">Cozaar (losartan)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -1084,7 +1084,7 @@
 
  <tableau>
   <molecule> Cytomel [liothyronine (T3)]</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx12L.html#Liothyronine">Cytomel (liothyronine ou T3)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx12L.html#Liothyronine">Cytomel (liothyronine ou T3)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>

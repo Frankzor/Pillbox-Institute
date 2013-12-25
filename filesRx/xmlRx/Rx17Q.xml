@@ -4,7 +4,9 @@
 
  <tableau>
   <molecule> Quinapril</molecule>
+  <ancrem><![CDATA[<a name="Quinapril">Quinapril</a>]]></ancrem>
   <indication> Hypertension</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
   <grossesse2> Dix malformations majeures notées parmi 141 enfants exposés au captopril (n=86), à l'enalapril (n=40) ou au lisinopril (n=15) au premier trimestre dans une étude de surveillance, soit environ 7 %, sans patron d'anomalie apparent.</grossesse2>
   <grossesse3> Étude cas-témoins incluant 209 nouveau-nés exposés au premier trimestre à un IECA rapporte une augmentation du risque de malformations majeures (7.1 %), notamment cardiovasculaires et du système nerveux central.</grossesse3>

@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Macrobid (nitrofurantoin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx14N.html#Nitrofurantoin">Macrobid (nitrofurantoin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">Macrobid (nitrofurantoin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Macrodantin (nitrofurantoin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx14N.html#Nitrofurantoin">Macrodantin (nitrofurantoin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">Macrodantin (nitrofurantoin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Mavik (trandolapril)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Trandolapril">Mavik (trandolapril)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx20T.html#Trandolapril">Mavik (trandolapril)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
  
  <tableau>
   <molecule> Maxipime (cefepime)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cefepime">Maxipime (cefepime)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Cefepime">Maxipime (cefepime)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -112,7 +112,7 @@
  
  <tableau>
   <molecule> Meropenem</molecule>
-  <ancrem><![CDATA[<h1><a name="Meropenem">Meropenem</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Meropenem">Meropenem</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueSevere">Exacerbation pulmonaire en fibrose kystique</a>]]></ancrei>
 <grossesse1> Études animales: pas d'effet tératogène chez 2 espèces avec ertapenem, imipenem + cilastatin et meropenem.</grossesse1>
@@ -126,9 +126,9 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> La structure et le mécanisme d'action sont similaires aux pénicillines. La gravité des situations nécessitant des carbapénèms justifie probablement leur situation. Toutefois, ce ne sont pas des agents de premier recours lorsque d'autres options mieux documentées sont disponibles. </recommandationgrossesse>
   <allaitement1> Biodisponibilité orale nulle. </allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: 2 %. Temps de demi-vie: 1 heure. </allaitement2>
-  <allaitement3> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement3>
-  <allaitement4> </allaitement4>
+  <allaitement2> Liaison aux protéines plasmatiques: 2 %. </allaitement2>
+  <allaitement3> Temps de demi-vie: 1 h. </allaitement3>
+  <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
@@ -139,7 +139,7 @@
  
  <tableau>
   <molecule> Merrem IV (meropenem)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Meropenem">Merrem IV (meropenem)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx13M.html#Meropenem">Merrem IV (meropenem)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -166,7 +166,7 @@
  
  <tableau>
   <molecule> Metformin</molecule>
-  <ancrem><![CDATA[<h1><a name="Metformin">Metformin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Metformin">Metformin</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Passage placentaire à terme entraînant des concentrations foetales identiques ou supérieures à celle de la mère. Cependant, le metformin ne modifie pas le transport placentaire du glucose.</grossesse1>
@@ -193,7 +193,7 @@
  
  <tableau>
   <molecule> Methimazole</molecule>
-  <ancrem><![CDATA[<h1><a name="Methimazole">Methimazole</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Methimazole">Methimazole</a>]]></ancrem>
   <indication> Hyperthyroïdie</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hyperthyroidie">Hyperthyroïdie</a>]]></ancrei>
   <grossesse1> Métabolite du carbimazole.</grossesse1>
@@ -220,7 +220,7 @@
  
  <tableau>
   <molecule> Methyldopa</molecule>
-  <ancrem><![CDATA[<h1><a name="Methyldopa">Methyldopa</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Methyldopa">Methyldopa</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Études animales: pas d'effet tératogène observé chez trois espèces.</grossesse1>
@@ -235,7 +235,7 @@
   <recommandationgrossesse> La methyldopa est l'agent de permier recours pour le traitement de l'hypertension durant la grossesse. (Par contre, la clonidine est préférée au méthyldopa en cas d'hypertension sévère à cause du long début d'action de la méthyldopa, qui est de 12 à 48 heures...)</recommandationgrossesse>
   <allaitement1> Dix mesures de la methyldopa dans le lait maternel (500 à 2000 mg par jour): dose estimée reçue par l'enfant est de moins de 1 % de la dose maternelle ajustée au poids.</allaitement1>
   <allaitement2> Pas d'effets indésirables notés chez quinze nourrissons exposés à la methyldopa par le lait maternel.</allaitement2>
-  <allaitement3> Un cas de gynécomastie et de galactorrhée rapporté chez une fille de deux semaines née à terme dont la mère avait reçu 7 jours de methyldopa 250 mg par voie orale 3 fois par jour. Cependant, il s'agit d'un cas isolé et aucun lien de causalité n'a été raporté.</allaitement3>
+  <allaitement3> Un cas de gynécomastie et de galactorrhée rapporté chez une fille de deux semaines née à terme dont la mère avait reçu 7 jours de methyldopa 250 mg par voie orale 3 fois par jour. Cependant, il s'agit d'un cas isolé et aucun lien de causalité n'a été rapporté.</allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -247,7 +247,7 @@
  
  <tableau>
   <molecule> Metolazone</molecule>
-  <ancrem><![CDATA[<h1><a name="Metolazone">Metolazone</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Metolazone">Metolazone</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
@@ -260,9 +260,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Données pharmacocinétiques: poids moléculaire de 366 Da, temps de demi-vie de 8 à 14 heures.</allaitement1>
-  <allaitement2> Aucune donnée sur le passage dans le lait maternel.</allaitement2>
-  <allaitement3> </allaitement3>
+  <allaitement1> Poids moléculaire de 366 Da. </allaitement1>
+  <allaitement2> Temps de demi-vie: 8 à 14 h. </allaitement2>
+  <allaitement3> Aucune donnée sur le passage dans le lait maternel. </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -274,7 +274,7 @@
  
  <tableau>
   <molecule> Metoprolol</molecule>
-  <ancrem><![CDATA[<h1><a name="Metoprolol">Metoprolol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Metoprolol">Metoprolol</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
@@ -287,7 +287,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0.5 à 3.6 %</allaitement1>
+  <allaitement1> Passage du médicament dans le lait maternel: dose maternelle ajustée pour le poids transférée à l'enfant de 0.5 à 3.6 %. </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -301,10 +301,10 @@
  
  <tableau>
   <molecule> Metronidazole</molecule>
-  <ancrem><![CDATA[<h1><a name="Metronidazole">Metronidazole</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Metronidazole">Metronidazole</a>]]></ancrem>
   <indication> Sinusite, vaginose bactérienne, trichomonase</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#Vaginose">vaginose bactérienne</a>, <a href="./00TxPatho.html#Trichomonase">trichomonase</a> ]]></ancrei>
-  <grossesse1> Biodisponibilité vaginale: de 2 à 56 %. Biodisponibilité cutanée: minime. </grossesse1>
+  <grossesse1> Biodisponibilité vaginale: 2 à 56 %. Biodisponibilité cutanée: minime. </grossesse1>
   <grossesse2> Mutagène chez la bactérie et carcinogène chez les rongeurs. </grossesse2>
   <grossesse3> Chez l'homme: pas d'effet oncogène démontré, pas d'association à une augmentation des cancers infantiles dans une étude rétrospective. </grossesse3>
   <grossesse4> Pas d'augmentation du risque de malformations majeures dans différentes études rapportant au total plus de 5300 femmes exposées au cours du premier trimestre par voie orale ou topique. </grossesse4>
@@ -314,9 +314,9 @@
   <grossesse8> Une meta-analyse a soulevé la possibilité que l'utilisation du metronidazole au cours du deuxième trimestre au sein d'une population à risque élevé de travail préterme puisse augmenter le risque d'accouchement prématuré.</grossesse8>
   <grossesse9> Expérience clinique de plus de 30 ans avec le metronidazole. </grossesse9>
   <recommandationgrossesse> Le metronidazole peut être utilisé à tous les trimestres de la grossesse. Chez les femmes à haut risque d'accouchement prématuré, la clindamycin par voie orale pourrait être privilégiée pour le traitement de la vaginose bactérienne au deuxième trimestre. </recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: 100 %. Biodisponibilité vaginale: de 2 à 56 %. </allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: moins de 20 %. Temps de demi-vie: de 6 à 14 heures. Métabolite actif: hydroxymetronidazole. </allaitement2>
-  <allaitement3> Passage du médicament dans le lait maternel: 25 % de la dose utilisée en pédiatrie pour les traitements sur plusieurs jours (pourcentage plus élevé chez les très grands prématurés); 45 % de la dose utilisée en pédiatrie à la suite d'une dose unique de 2 g (le pourcentage diminue si on arrête l'allaitement pendant 12 heures).  </allaitement3>
+  <allaitement1> Biodisponibilité orale: 100 %. Biodisponibilité vaginale: 2 à 56 %. </allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: moins de 20 %. Temps de demi-vie: 6 à 14 heures. Métabolite actif: hydroxymetronidazole. </allaitement2>
+  <allaitement3> Passage du médicament dans le lait maternel: 25 % de la dose utilisée en pédiatrie pour les traitements sur plusieurs jours (pourcentage plus élevé chez les très grands prématurés); 45 % de la dose utilisée en pédiatrie à la suite d'une dose unique de 2 g (le pourcentage diminue si on arrête l'allaitement pendant 12 heures). </allaitement3>
   <allaitement4> Une étude contrôlée comparative n'a pas démontré de différence significative entre les enfants allaités dont les mères prenaient le metronidazole seul, celles traitées avec metronidazole et ampicillin ou erythromycin, celles traitées avec ampicillin seul ou celles traitées avec aucun médicament en ce qui a trait aux effets indésirables. </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -328,7 +328,7 @@
  
  <tableau>
   <molecule> Micardis (telmisartan)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Telmisartan">Micardis (telmisartan)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx20T.html#Telmisartan">Micardis (telmisartan)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -355,7 +355,7 @@
  
  <tableau>
   <molecule> Midamor (amiloride)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx01A.html#Amiloride">Midamor (amiloride)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx01A.html#Amiloride">Midamor (amiloride)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -382,7 +382,7 @@
  
  <tableau>
   <molecule> Minocin (minocycline)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Minocycline">Minocin (minocycline)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx13M.html#Minocycline">Minocin (minocycline)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -409,34 +409,34 @@
  
  <tableau>
   <molecule> Minocycline</molecule>
-  <ancrem><![CDATA[<h1><a name="Minocycline">Minocycline</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Minocycline">Minocycline</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueGramNegatif"> Exacerbation pulmonaire en fibrose kystique: surinfection à bactéries Gram négatif</a> ]]></ancrei>
   <grossesse1> Pas d'augmentation du taux de malformations majeures notée dans des études de surveillance montrant de nombreux cas de nouveau-nés exposés à des tetracyclines au premier trimestre: plus de 1000 à la tetracycline, près de 1800 à la doxycycline, près de 200 à la minocycline. </grossesse1>
   <grossesse2> </grossesse2>
-  <grossesse3> Décoloration permanente jaune-brun des dents rapportée après une exposition in utero. Formation d'un complexe des tetracyclines avec le calcium orthophosphate et ensuite incorporation aux os et dents en cours de calcification. Période à risque de décoloration des dents par les tetracyclines: à partir de 16 semaines de gestion.</grossesse3>
+  <grossesse3> Décoloration permanente jaune-brun des dents rapportée après une exposition in utero. Formation d'un complexe des tétracyclines avec le calcium orthophosphate et ensuite incorporation aux os et dents en cours de calcification. Période à risque de décoloration des dents par les tétracyclines: à partir de 16 semaines de gestion.</grossesse3>
   <grossesse4> Réduction transitoire de la croissance des enfants nés prématurément et exposés aux tetracyclines après leur naissance rapportée dans une étude. Croissance et développement normaux des nouveau-nés exposés pendant la grossesse dans les cas rapportés.</grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les tetracyclines sont à éviter durant la grossesse, en particulier à partir de 16 semaines de grossesse. Cependant, une exposition à une tetracycline au premier trimestre ne requiert pas de suivi obstétrical particulier.</recommandationgrossesse>
+  <recommandationgrossesse> Les tétracyclines sont à éviter durant la grossesse, en particulier à partir de 16 semaines de grossesse. Cependant, une exposition à une tétracycline au premier trimestre ne requiert pas de suivi obstétrical particulier.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: 90 %.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 76 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 11 à 22 h.</allaitement3>
-  <allaitement4> Les tetracyclines se lient fortement au calcium et aux protéines de lait, ce qui pourrait diminuer l'absorption par l'enfant.</allaitement4>
+  <allaitement2> Liaison aux protéines plasmatiques: 76 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 11 à 22 h.</allaitement3>
+  <allaitement4> Les tétracyclines se lient fortement au calcium et aux protéines de lait, ce qui pourrait diminuer l'absorption par l'enfant.</allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> 2 cas de coloration du lait en noir après la prise de 100 mg 2 fois par jour depuis 4 ans et 150 mg 1 fois par jour.</allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Si une tetracycline est le traitement de premier recours, l'utilisation à court terme (moins de 3 semaines) des tetracyclines n'est pas contre-indiquée. Toutefois, l'utilisation à long terme (le traitement de l'acné, par exemple) n'est pas recommandé afin d'éviter la coloration permanente des dents, même si ceci n'a pas été rapporté suite à une exposition parble lait maternel. </recommandationallaitement>
+  <recommandationallaitement> Si une tétracycline est le traitement de premier recours, l'utilisation à court terme (moins de 3 semaines) des tétracyclines n'est pas contre-indiquée. Toutefois, l'utilisation à long terme (le traitement de l'acné, par exemple) n'est pas recommandé afin d'éviter la coloration permanente des dents, même si ceci n'a pas été rapporté suite à une exposition par le lait maternel. </recommandationallaitement>
  </tableau>
  
  <tableau>
   <molecule> Mirapex (pramipexole)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx16P.html">Mirapex (pramipexole)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx16P.html">Mirapex (pramipexole)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -463,7 +463,7 @@
  
  <tableau>
   <molecule> Monitan (acebutolol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx01A.html#Acebutolol">Monitan (acebutolol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx01A.html#Acebutolol">Monitan (acebutolol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -490,7 +490,7 @@
  
  <tableau>
   <molecule> Monocor (bisoprolol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx02B.html#Bisoprolol">Monocor (bisoprolol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx02B.html#Bisoprolol">Monocor (bisoprolol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -517,7 +517,7 @@
  
  <tableau>
   <molecule> Monopril (fosinopril)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx06F.html#Fosinopril">Monopril (fosinopril)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx06F.html#Fosinopril">Monopril (fosinopril)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -544,7 +544,7 @@
 
  <tableau>
   <molecule> Monurol (fosfomycin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx06F.html#Fosfomycin">Monurol (fosfomycin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx06F.html#Fosfomycin">Monurol (fosfomycin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -571,7 +571,7 @@
 
  <tableau>
   <molecule> Morphine</molecule>
-  <ancrem><![CDATA[<h1><a name="Morphine">Morphine</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Morphine">Morphine</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (70 expositions au premier trimestre à la morphine).</grossesse1> 
@@ -598,7 +598,7 @@
 
  <tableau>
   <molecule> Moxifloxacin</molecule>
-  <ancrem><![CDATA[<h1><a name="Moxifloxacin">Moxifloxacin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Moxifloxacin">Moxifloxacin</a>]]></ancrem>
   <indication> Pneumonie acquise en communauté</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>]]></ancrei>
   <grossesse1> </grossesse1>
@@ -612,8 +612,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Non recommandé. Il faut réserver l'utilisation des fluoroquinolones au traitement d'infections résistantes ou compliquées et privilégier la ciprofloxacin et la norfloxacin si possible parce que ce sont les mieux documentées. Par contre, une exposition aux fluoroquinolones au premier trimestre ne requiert pas de suivi obstétrical particulier. </recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: 90 %.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 30 à 50 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 9 à 16 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 30 à 50 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 9 à 16 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 6.1 % de la dose utilisée en pédiatrie.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>

@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Imipenem + cilastatin</molecule>
-  <ancrem><![CDATA[<h1><a name="Imipenem">Imipenem + cilastatin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Imipenem">Imipenem + cilastatin</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueSevere">Exacerbation pulmonaire en fibrose kystique</a>]]></ancrei>
 <grossesse1> Études animales: pas d'effet tératogène chez 2 espèces avec ertapenem, imipenem + cilastatin et meropenem.</grossesse1>
@@ -18,8 +18,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> La structure et le mécanisme d'action sont similaires aux pénicillines. La gravité des situations nécessitant des carbapénèms justifie probablement leur situation. Toutefois, ce ne sont pas des agents de premier recours lorsque d'autres options mieux documentées sont disponibles. </recommandationgrossesse>
   <allaitement1> Biodisponibilité orale faible; médicament détruit par l'acidité gastrique. </allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: 20 % pour imipenem, 40 % pour cilastatin. Temps de demi-vie: 1 heure. </allaitement2>
-  <allaitement3> Passage du médicament dans le lait mternel: 1.4 % de la dose d'imipenem utilisée en pédiatrie. Le cilastatin n'a pas été détecté. </allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 20 % pour imipenem, 40 % pour cilastatin. Temps de demi-vie: 1 h. </allaitement2>
+  <allaitement3> Passage du médicament dans le lait maternel: 1.4 % de la dose d'imipenem utilisée en pédiatrie. Le cilastatin n'a pas été détecté. </allaitement3>
   <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Indapamide</molecule>
-  <ancrem><![CDATA[<h1><a name="Indapamide">Indapamide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Indapamide">Indapamide</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Étude de surveillance rapportant 233 expositions aux thiazidiques durant le premier trimestre: risque d'anomalies congénitales légèrement augmenté avec la chlorthalidone (toutefois toutes les mères avaient des pathologies cardiovasculaires).</grossesse1>
@@ -44,9 +44,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les diurétiques ne sont pas des agents de premier recours pendant la grossesse. La principale crainte associée aux diurétiques en grossesse est une diminution du volume intravasculaire circulant qui pourrait ainsi réduire la perfusion utéro-placentaire. Ce phénomène n'a pas encore été démontré. Les thiazidiques n'améliorent pas le pronostic de la toxémie et peuvent causer une déplétion vasculaire.</recommandationgrossesse>
-  <allaitement1> Données pharmacocinétiques: poids moléculaire de 366 Da, temps de demi-vie de 14 heures.</allaitement1>
-  <allaitement2> Aucune donnée sur le passage dans le lait maternel.</allaitement2>
-  <allaitement3> </allaitement3>
+  <allaitement1> Poids moléculaire: 366 Da. </allaitement1>
+  <allaitement2> Temps de demi-vie: 14 h. </allaitement2>
+  <allaitement3> Aucune donnée sur le passage dans le lait maternel. </allaitement3>
   <allaitement4> </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Inderal (propranolol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Propranolol">Inderal (propranolol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx16P.html#Propranolol">Inderal (propranolol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Inhibace (cilazapril)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cilazapril">Inhibace (cilazapril)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Cilazapril">Inhibace (cilazapril)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Insuline aspart</molecule>
-  <ancrem><![CDATA[<h1><a name="InsulineAspart">Insuline aspart</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="InsulineAspart">Insuline aspart</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Une seule étude regroupant 157 femmes exposées pendant toute leur grossesse: pas d'augmentation du risque de malformations, de mortalité et de complications maternelles et foetales par rapport à l'insuline régulière. Les hypoglycémies sévères avec l'insuline aspart étaient significativement plus faibles qu'avec l'insuline régulière pour des valeurs d'HbA1c similaires.</grossesse1>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Insuline detemir</molecule>
-  <ancrem><![CDATA[<h1><a name="InsulineDetemir">Insuline detemir</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="InsulineDetemir">Insuline detemir</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Des études chez le rat et le lapin à des doses supérieures à la dose humaine recommandée ont montré des anomalies viscérales chez le rat et des anomalies vésicales chez le lapin.</grossesse1>
@@ -154,7 +154,7 @@
   <recommandationgrossesse> Non recommandé pendant la grossesse en raison de l'absence de données humaines.</recommandationgrossesse>
   <allaitement1> Absorption progressive sur 24 heures.</allaitement1>
   <allaitement2> Liaison protéique supérieure à 98 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: 4 à 6 heures.</allaitement3>
+  <allaitement3> Temps de demi-vie: 4 à 6 h.</allaitement3>
   <allaitement4> Aucune étude sur le passage des analogues insuliniques dans le lait maternel de femmes diabétiques traitées par insuline. </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Insuline glargine</molecule>
-  <ancrem><![CDATA[<h1><a name="InsulineGlargine">Insuline glargine</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="InsulineGlargine">Insuline glargine</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Passage placentaire inconnu.</grossesse1>
@@ -181,7 +181,7 @@
   <recommandationgrossesse> Cet analogue de l'insuline semble présenter des avantages au niveau du contrôle glycémique. Cependant, son utilisation pendant la grossesse n'est pas recommandée du fait du manque de données. De plus, des données sur son pouvoir mitogène doivent être éclaircies.</recommandationgrossesse>
   <allaitement1> Poids moléculaire: 6063 Da.</allaitement1>
   <allaitement2> Liaison protéique: 5 %.</allaitement2>
-  <allaitement3> Durée d'action de 24 heures.</allaitement3>
+  <allaitement3> Durée d'action de 24 h.</allaitement3>
   <allaitement4> Aucune étude sur le passage des analogues insuliniques dans le lait maternel de femmes diabétiques traitées par insuline. </allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Insuline humaine (régulière, NPH, lente, ultralente)</molecule>
-  <ancrem><![CDATA[<h1><a name="InsulineHumaine">Insuline humaine (régulière, NPH, lente, ultralente)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="InsulineHumaine">Insuline humaine (régulière, NPH, lente, ultralente)</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Pas de passage transplacentaire.</grossesse1>
@@ -206,7 +206,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> L'insuline humaine est le traitement de premier recours du diabète chez la femme enceinte.</recommandationgrossesse>
-  <allaitement1> Poids moléculaires supérieurs à 6000 Da.</allaitement1>
+  <allaitement1> Poids moléculaires supérieur à 6000 Da.</allaitement1>
   <allaitement2> L'insuline est détruite dans le tractus gastro-intestinal de l'enfant.</allaitement2>
   <allaitement3> Aucune étude sur le passage de l'insuline dans le lait maternel de femmes diabétiques traitées par insuline.</allaitement3>
   <allaitement4> </allaitement4>
@@ -220,7 +220,7 @@
 
  <tableau>
   <molecule> Insuline lispro</molecule>
-  <ancrem><![CDATA[<h1><a name="InsulineLispro">Insuline lispro</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="InsulineLispro">Insuline lispro</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Pas de passage placentaire.</grossesse1>
@@ -247,7 +247,7 @@
 
  <tableau>
   <molecule> Invanz (ertapenem)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Ertapenem">Invanz (ertapenem)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx05E.html#Ertapenem">Invanz (ertapenem)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -274,7 +274,7 @@
 
  <tableau>
   <molecule> Irbesartan</molecule>
-  <ancrem><![CDATA[<h1><a name="Irbesartan">Irbesartan</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Irbesartan">Irbesartan</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
@@ -301,7 +301,7 @@
 
 <tableau>
   <molecule> Isoptin (verapamil)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx22V.html#Verapamil">Isoptin (verapamil)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx22V.html#Verapamil">Isoptin (verapamil)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>

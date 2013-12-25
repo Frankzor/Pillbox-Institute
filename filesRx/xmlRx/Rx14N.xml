@@ -4,7 +4,7 @@
  
  <tableau>
   <molecule> Nadolol</molecule>
-  <ancrem><![CDATA[<h1><a name="Nadolol">Nadolol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Nadolol">Nadolol</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Non cardiosélectif sans activité sympathomimétique intrinsèque.</grossesse1>
@@ -31,7 +31,7 @@
  
  <tableau>
   <molecule> Nateglinide</molecule>
-  <ancrem><![CDATA[<h1><a name="Nateglinide"></a>Nateglinide</h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Nateglinide"></a>Nateglinide]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Pas d'effet tératogène chez le rat.</grossesse1>
@@ -58,7 +58,7 @@
  
  <tableau>
   <molecule> Neurontin (gabapentin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx07G.html#Gabapentin">Neurontin (gabapentin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx07G.html#Gabapentin">Neurontin (gabapentin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
  
  <tableau>
   <molecule> Nifedipine</molecule>
-  <ancrem><![CDATA[<h1><a name="Nifedipine">Nifedipine</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Nifedipine">Nifedipine</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Anomalies digitales chez deux espèces animales et autres anomalies diverses (malformations squelettiques, fentes palatines) chez trois espèces animales à doses similaires ou supérieures à celles utilisées chez l'humain.</grossesse1>
@@ -98,7 +98,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
-  <allaitement1> Dose reçue par l'enfant estimée à moins de 1 % de la dose pédiatrique; aucun effet indésirable rapporté chez les nourrissons.</allaitement1>
+  <allaitement1> Passage du médicament dans le lait maternel: dose reçue par l'enfant estimée à moins de 1 % de la dose pédiatrique; aucun effet indésirable rapporté chez les nourrissons.</allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Nitrofurantoin</molecule>
-  <ancrem><![CDATA[<h1><a name="Nitrofurantoin">Nitrofurantoin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Nitrofurantoin">Nitrofurantoin</a>]]></ancrem>
   <indication> Bactériurie asymptomatique, cystite aiguë, prophylaxie: traitement suppressif de l'infection urinaire, prophylaxie post-coïtale</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Bacteriurie">Bactériurie asymptomatique</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a>, <a href="./00TxPatho.html#ProphylaxieTxSuppressif">prophylaxie: traitement suppressif de l'infection urinaire</a>, <a href="./00TxPatho.html#ProphylaxiePostCoitale">prophylaxie post-coïtale</a> ]]></ancrei>
   <grossesse1> Pas d'augmentation du taux de malformations majeures chez plus de 1400 femmes exposées à la nitrofurantoin au premier trimestre dans 2 études de surveillance, une étude rétrospective et une méta-analyse.</grossesse1>
@@ -126,7 +126,7 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> La nitrofurantoin peut être utilisée à tous les trimestres. Il faut cependant éviter l'utilisation de la nitrofurantoin chez les femmes provenant d'une région où la déficience en G6PD est prévalente (Afrique, Moyen Orient, Asie du Sud-Est, et Grèce) et en cas d'accouchement imminent.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: 94 %.</allaitement1>
-  <allaitement2> Temps de demi-vie: de 20 min à 1 h.</allaitement2>
+  <allaitement2> Temps de demi-vie: 20 min à 1 h.</allaitement2>
   <allaitement3> Liaison aux protéines plasmatiques: 90 %.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 9.6 % de la dose utilisée en pédiatrie.</allaitement4>
   <allaitement5> 2 cas de diarrhée et 1 cas de diminution de production lactée rapportés par les mères dans une étude de suivi téléphonique parmi 6 bébés exposés à la nitrfurantoin à travers le lait; pas de consultation médicale nécessaire.</allaitement5>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Norfloxacin</molecule>
-  <ancrem><![CDATA[<h1><a name="Norfloxacin">Norfloxacin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Norfloxacin">Norfloxacin</a>]]></ancrem>
   <indication> Prophylaxie: traitement suppressif de l'infection urinaire, prophylaxie post-coïtale</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#ProphylaxieTxSuppressif">prophylaxie: traitement suppressif de l'infection urinaire </a>, <a href="./00TxPatho.html#ProphylaxiePostCoitale">prophylaxie post-coïtale</a> ]]></ancrei>
   <grossesse1> Pas d'effet tératogène mis en évidence chez 2 ou 3 espèces animales. </grossesse1>
@@ -152,9 +152,9 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Il faut réserver l'utilisation des fluoroquinolones au traitement d'infections résistantes ou compliquées et privilégier la ciprofloxacin et la norfloxacin si possible parce que ce sont les mieux documentées. Par contre, une exposition aux fluoroquinolones au premier trimestre ne requiert pas de suivi obstétrical particulier. </recommandationgrossesse>
-  <allaitement1> Biodisponibilité orale: de 30 à 40%.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 10 à 15 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 3 à 4 h.</allaitement3>
+  <allaitement1> Biodisponibilité orale: 30 à 40%.</allaitement1>
+  <allaitement2> Liaison aux protéines plasmatiques: 10 à 15 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 3 à 4 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: concentrations indétectables.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Norvasc (amlodipine)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx01A.html#Amlodipine">Norvasc (amlodipine)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx01A.html#Amlodipine">Norvasc (amlodipine)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -193,7 +193,7 @@
  
  <tableau>
   <molecule> Novolin Toronto ou NPH [insuline humaine (régulière, NPH, lente, ultralente)]</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineHumaine">Novolin Toronto ou NPH [insuline humaine (régulière, NPH, lente, ultralente)]</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx09I.html#InsulineHumaine">Novolin Toronto ou NPH [insuline humaine (régulière, NPH, lente, ultralente)]</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -220,7 +220,7 @@
 
  <tableau>
   <molecule> Novorapid (insuline aspart)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx09I.html#InsulineAspart">Novorapid (insuline aspart)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx09I.html#InsulineAspart">Novorapid (insuline aspart)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>

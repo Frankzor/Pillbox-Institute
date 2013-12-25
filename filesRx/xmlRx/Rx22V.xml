@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Valsartan</molecule>
-  <ancrem><![CDATA[<h1><a name="Valsartan">Valsartan</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Valsartan">Valsartan</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Vasotec (enalapril)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Enalapril">Vasotec (enalapril)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx05E.html#Enalapril">Vasotec (enalapril)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Verapamil</molecule>
-  <ancrem><![CDATA[<h1><a name="Verapamil">Verapamil</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Verapamil">Verapamil</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Chez deux espèces animales: pas de tératogénicité à des doses supérieures aux doses humaines.</grossesse1>
@@ -71,7 +71,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifédipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
-  <allaitement1> Dose reçue par l'enfant estimée à moins de 1 % de la dose maternelle ajustée au poids.</allaitement1>
+  <allaitement1> Passage du médicament dans le lait maternel: dose reçue par l'enfant estimée à moins de 1 % de la dose maternelle ajustée au poids.</allaitement1>
   <allaitement2> Aucun effet indésirable rapporté chez trois enfants allaités.</allaitement2>
   <allaitement3> Risque théorique d'hypotension et de bradycardie.</allaitement3>
   <allaitement4> </allaitement4>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Vibramycin (doxycycline)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx04D.html#Doxycycline">Vibramycin (doxycycline)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx04D.html#Doxycycline">Vibramycin (doxycycline)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Vigamox (moxifloxacin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Moxifloxacin">Vigamox (moxifloxacin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx13M.html#Moxifloxacin">Vigamox (moxifloxacin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Visken (pindolol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Pindolol">Visken (pindolol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx16P.html#Pindolol">Visken (pindolol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>

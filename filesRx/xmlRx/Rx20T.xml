@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Tapazole (methimazole)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx13M.html#Methimazole">Tapazole (methimazole)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx13M.html#Methimazole">Tapazole (methimazole)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Telithromycin</molecule>
-  <ancrem><![CDATA[<h1><a name="Telithromycin">Telithromycin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Telithromycin">Telithromycin</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Pas d'effet tératogène mis en évidence chez 2 espèces animales.</grossesse1>
@@ -46,7 +46,7 @@
   <recommandationgrossesse> L'utilisation de telithromycin est à éviter au cours de la grossesse en raison du manque de données et de l'existence d'options mieux connues.</recommandationgrossesse>
   <allaitement1> Poids moléculaire: 812 Da.</allaitement1>
   <allaitement2> Biodisponibilité orale: 57 %.</allaitement2>
-  <allaitement3> Liaison aux protéines plasmatiques: de 10 à 13 h.</allaitement3>
+  <allaitement3> Liaison aux protéines plasmatiques: 10 à 13 h.</allaitement3>
   <allaitement4> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Telmisartan</molecule>
-  <ancrem><![CDATA[<h1><a name="Telmisartan">Telmisartan</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Telmisartan">Telmisartan</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Le mécanisme d'action des ARA est similaire à celui des IECA.</grossesse1>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Tenormin (atenolol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx01A.html#Atenolol">Tenormin (atenolol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx01A.html#Atenolol">Tenormin (atenolol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -112,34 +112,34 @@
 
  <tableau>
   <molecule> Tetracycline</molecule>
-  <ancrem><![CDATA[<h1><a name="Tetracycline">Tetracycline</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Tetracycline">Tetracycline</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Pas d'augmentation du taux de malformations majeures notée dans des études de surveillance montrant de nombreux cas de nouveau-nés exposés à des tetracyclines au premier trimestre: plus de 1000 à la tetracycline, près de 1800 à la doxycycline, près de 200 à la minocycline. </grossesse1>
   <grossesse2> </grossesse2>
-  <grossesse3> Décoloration permanente jaune-brun des dents rapportée après une exposition in utero. Formation d'un complexe des tetracyclines avec le calcium orthophosphate et ensuite incorporation aux os et dents en cours de calcification. Période à risque de décoloration des dents par les tetracyclines: à partir de 16 semaines de gestion.</grossesse3>
-  <grossesse4> Réduction transitoire de la croissance des enfants nés prématurément et exposés aux tetracyclines après leur naissance rapportée dans une étude. Croissance et développement normaux des nouveau-nés exposés pendant la grossesse dans les cas rapportés.</grossesse4>
+  <grossesse3> Décoloration permanente jaune-brun des dents rapportée après une exposition in utero. Formation d'un complexe des tétracyclines avec le calcium orthophosphate et ensuite incorporation aux os et dents en cours de calcification. Période à risque de décoloration des dents par les tétracyclines: à partir de 16 semaines de gestion.</grossesse3>
+  <grossesse4> Réduction transitoire de la croissance des enfants nés prématurément et exposés aux tétracyclines après leur naissance rapportée dans une étude. Croissance et développement normaux des nouveau-nés exposés pendant la grossesse dans les cas rapportés.</grossesse4>
   <grossesse5> </grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les tetracyclines sont à éviter durant la grossesse, en particulier à partir de 16 semaines de grossesse. Cependant, une exposition à une tetracycline au premier trimestre ne requiert pas de suivi obstétrical particulier.</recommandationgrossesse>
+  <recommandationgrossesse> Les tétracyclines sont à éviter durant la grossesse, en particulier à partir de 16 semaines de grossesse. Cependant, une exposition à une tétracycline au premier trimestre ne requiert pas de suivi obstétrical particulier.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: 75 %.</allaitement1>
   <allaitement2> Liaison aux protéines plasmatiques: 5 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 8 à 10 h.</allaitement3>
-  <allaitement4> Les tetracyclines se lient fortement au calcium et aux protéines de lait, ce qui pourrait diminuer l'absorption par l'enfant.</allaitement4>
+  <allaitement3> Temps de demi-vie: 8 à 10 h.</allaitement3>
+  <allaitement4> Les tétracyclines se lient fortement au calcium et aux protéines de lait, ce qui pourrait diminuer l'absorption par l'enfant.</allaitement4>
   <allaitement5> Passage du médicament dans le lait maternel: 1.5 % de la dose utilisée en pédiatrie.</allaitement5>
   <allaitement6> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Si une tetracycline est le traitement de premier recours, l'utilisation à court terme (moins de 3 semaines) des tetracyclines n'est pas contre-indiquée. Toutefois, l'utilisation à long terme (le traitement de l'acné, par exemple) n'est pas recommandé afin d'éviter la coloration permanente des dents, même si ceci n'a pas été rapporté suite à une exposition parble lait maternel. </recommandationallaitement>
+  <recommandationallaitement> Si une tétracycline est le traitement de premier recours, l'utilisation à court terme (moins de 3 semaines) des tétracyclines n'est pas contre-indiquée. Toutefois, l'utilisation à long terme (le traitement de l'acné, par exemple) n'est pas recommandé afin d'éviter la coloration permanente des dents, même si ceci n'a pas été rapporté suite à une exposition parble lait maternel. </recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Teveten (eprosartan)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx05E.html#Eprosartan">Teveten (eprosartan)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx05E.html#Eprosartan">Teveten (eprosartan)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Tiazac (diltiazem)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx04D.html#Diltiazem">Tiazac (diltiazem)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx04D.html#Diltiazem">Tiazac (diltiazem)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Ticarcillin + clavulanate</molecule>
-  <ancrem><![CDATA[<h1><a name="Ticarcillin">Ticarcillin + clavulanate</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Ticarcillin">Ticarcillin + clavulanate</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueSevere">Exacerbation pulmonaire en fibrose kystique: surinfection modérée à sévère</a>, <a href="./00TxPatho.html#FibroseKystiqueGramNegatif">Exacerbation pulmonaire en fibrose kystique: surinfection à bactéries Gram négatifs</a> ]]></ancrei>
   <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
@@ -207,7 +207,7 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse. Le clavulanate peut être utilisé à tous les trimestres de la grossesse. </recommandationgrossesse>
   <allaitement1> Pour la ticarcillin: biodisponibilité orale nulle.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 45 à 65 %.</allaitement2>
+  <allaitement2> Liaison aux protéines plasmatiques: 45 à 65 %.</allaitement2>
   <allaitement3> Temps de demi-vie: 30 min.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.2 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
@@ -220,7 +220,7 @@
 
  <tableau>
   <molecule> Timolol</molecule>
-  <ancrem><![CDATA[<h1><a name="Timolol">Timolol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Timolol">Timolol</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Non cardiosélectif et sans activité sympathomimétique intrinsèque.</grossesse1>
@@ -247,7 +247,7 @@
 
  <tableau>
   <molecule> Tobramycin (pour injection) ou tobramycin injectable sans phénol ou en poudre (pour inhalation)</molecule>
-  <ancrem><![CDATA[<h1><a name="Tobramycin">Tobramycin (pour injection) ou tobramycin injectable sans phénol ou en poudre (pour inhalation)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Tobramycin">Tobramycin (pour injection) ou tobramycin injectable sans phénol ou en poudre (pour inhalation)</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique (si inhalé)</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueLegere">Exacerbation pulmonaire en fibrose kystique (si inhalé)</a>]]></ancrei>
   <grossesse1> Pas d'association avec une augmentation du taux de malformations congénitales dans une étude cas-témoins. </grossesse1>
@@ -261,9 +261,9 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les aminosides peuvent être utilisés durant la grossesse à tous les trimestres. Toutefois, la streptomycine devrait rester un dernier choix de traitement dans les aminosides à cause de son association plus fréquente à des cas d'ototoxicité. Les aminosides par voie topique ou par inhalation ont une absorption faible. Les quantités présentes dans les formes ophtalmiques, otiques ou rectales sont faibles. Des dosages des taux sériques d'aminosides administrés par voie systémique sont recommandés chez la mère pour assurer l'efficacité et prévenir la toxicité associée au traitement. Pas de données sur l'utilisation des aminosides en doses uniquotidiennes durant la grossesse. </recommandationgrossesse>
   <allaitement1> Biodisponibilité orale minime.</allaitement1>
-  <allaitement2> Biodisponibilité par inhalation: de 1 à 16 %.</allaitement2>
+  <allaitement2> Biodisponibilité par inhalation: 1 à 16 %.</allaitement2>
   <allaitement3> Liaison aux protéines plasmatiques: moins de 30 %.</allaitement3>
-  <allaitement4> Temps de demi-vie: de 1.6 à 3 h.</allaitement4>
+  <allaitement4> Temps de demi-vie: 1.6 à 3 h.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
@@ -274,7 +274,7 @@
 
  <tableau>
   <molecule> Tolbutamide</molecule>
-  <ancrem><![CDATA[<h1><a name="Tolbutamide">Tolbutamide</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Tolbutamide">Tolbutamide</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Anomalies auriculaires, embryopathies diabétiques peu fréquentes retrouvées dans deux études sur les sulfonylurées:</grossesse1>
@@ -301,7 +301,7 @@
 
  <tableau>
   <molecule> Tramadol</molecule>
-  <ancrem><![CDATA[<h1><a name="Tramadol">Tramadol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Tramadol">Tramadol</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (150 expositions au premier trimestre au tramadol).</grossesse1> 
@@ -328,7 +328,7 @@
 
  <tableau>
   <molecule> Trandate (labetalol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx12L.Labetalol">Trandate (labetalol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx12L.Labetalol">Trandate (labetalol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -355,7 +355,7 @@
 
  <tableau>
   <molecule> Trandolapril</molecule>
-  <ancrem><![CDATA[<h1><a name="Trandolapril">Trandolapril</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Trandolapril">Trandolapril</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -368,7 +368,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les IECA sont associés avec des effets tératogènes à tous les trimestres; il est donc préférable de les éviter durant la grossesse, un suivi échographique avec une mesure de l'index de liquide amniotique sont recommandés.</recommandationgrossesse>
-  <allaitement1> </allaitement1>
+  <allaitement1> Aucune donnée. </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -377,12 +377,12 @@
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> </recommandationallaitement>
+  <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Trasicor (oxprenolol)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx15O.html#Oxprenolol">Trasicor (oxprenolol)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx15O.html#Oxprenolol">Trasicor (oxprenolol)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -409,7 +409,7 @@
 
  <tableau>
   <molecule> Triamterene</molecule>
-  <ancrem><![CDATA[<h1><a name="Triamterene">Triamterene</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Triamterene">Triamterene</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Antagoniste des folates.</grossesse1>
@@ -436,7 +436,7 @@
 
  <tableau>
   <molecule> Trimethoprim + sulfamethoxazole</molecule>
-  <ancrem><![CDATA[<h1><a name="Trimethoprim">Trimethoprim + sulfamethoxazole</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Trimethoprim">Trimethoprim + sulfamethoxazole</a>]]></ancrem>
   <indication> Sinusite, bronchite aiguë, bactériurie asymptomatique, cystite aiguë, pyélonéphrite aiguë: traitement de relais</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Sinusite">sinusite</a>, <a href="./00TxPatho.html#BronchiteAigue">bronchite aiguë</a>, <a href="./00TxPatho.html#Bacteriurie">bactériurie asymptomatique</a>, <a href="./00TxPatho.html#CystiteAigue">cystite aiguë</a>, <a href="./00TxPatho.html#PyelonephriteAigueTxRelais">pyélonéphrite aiguë: traitement de relais</a> ]]></ancrei>
   <grossesse1> Concernant le trimethoprim, antagoniste des folates (inhibiteur compétitif de la dihydrofolate réductase). </grossesse1>

@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Paronomycin</molecule>
-  <ancrem><![CDATA[<h1><a name="Paronomycin">Paronomycin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Paronomycin">Paronomycin</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Penicillin G</molecule>
-  <ancrem><![CDATA[<h1><a name="PenicillinG">Penicillin G</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="PenicillinG">Penicillin G</a>]]></ancrem>
   <indication> Syphilis</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Syphilis">Syphilis</a>]]></ancrei>
   <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
@@ -46,7 +46,7 @@
   <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: moins de 30 %. </allaitement1>
   <allaitement2> Liaison aux protéines plasmatiques: 65 %. </allaitement2>
-  <allaitement3> Temps de demi-vie: de 25 à 50 minutes. </allaitement3>
+  <allaitement3> Temps de demi-vie: 25 à 50 min. </allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.1 % de la dose pédiatrique. </allaitement4>
   <allaitement5> Réaction de Herxheimer chez un bébé allaité 6 heures après l'injection de pénicilline G chez la mère; toutefois, le bébé était aussi traité avec par pénicilline G pour une syphillis congénitale.</allaitement5>
   <allaitement6> </allaitement6>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Penicillin V</molecule>
-  <ancrem><![CDATA[<h1><a name="PenicillinV">Penicillin V</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="PenicillinV">Penicillin V</a>]]></ancrem>
   <indication> Pharyngite, antibioprophylaxie lors de l'accouchement (bactériurie asymptomatique) </indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Pharyngite">pharyngite</a>, <a href="./00TxPatho.html#Bacteriurie">antibioprophylaxie lors de l'accouchement (bactériurie asymptomatique)</a> ]]></ancrei>
   <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
@@ -72,8 +72,8 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale: de 25 à 60 %.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 60 à 80 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 30 à 40 min.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 60 à 80 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 30 à 40 min.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.3 % de la dose utilisée en pédiatrie.</allaitement4>
   <allaitement5> Trois cas de diarrhée et 1 rash cutané parmi les 12 bébés allaités.</allaitement5>
   <allaitement6> </allaitement6>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Perindopril</molecule>
-  <ancrem><![CDATA[<h1><a name="Perindopril">Perindopril</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Perindopril">Perindopril</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Une malformation majeure notée parmi 49 enfants exposés à un IECA au premier trimestre dans un registre de surveillance.</grossesse1>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Pindolol</molecule>
-  <ancrem><![CDATA[<h1><a name="Pindolol">Pindolol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Pindolol">Pindolol</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Non cardiosélectif, mais avec activité sympathomimétique intrinsèque.</grossesse1>
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Pioglitazone</molecule>
-  <ancrem><![CDATA[<h1><a name="Pioglitazone">Pioglitazone</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Pioglitazone">Pioglitazone</a>]]></ancrem>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Diabete">Diabète gestationnel</a>]]></ancrei>
   <grossesse1> Embryotoxicité chez le rat et le lapin à des doses supérieures à la dose humaine recommandée.</grossesse1>
@@ -154,7 +154,7 @@
   <recommandationgrossesse> Les thiazolidinediones ne sont pas recommandées pendant la grossesse en raison de l'absence ou de l'insuffisance de données humaines.</recommandationgrossesse>
   <allaitement1> Poids moléculaire: 393 Da.</allaitement1>
   <allaitement2> Liaison protéique supérieure à 99 %.</allaitement2>
-  <allaitement3> Temps de demi-vie de la pioglitazone et de ces métabolites est de 16 à 24 h.</allaitement3>
+  <allaitement3> Temps de demi-vie de la pioglitazone et de ses métabolites: 16 à 24 h.</allaitement3>
   <allaitement4> Aucune information rapportée concernant l'utilisation de la pioglitazone pendant l'allaitement.</allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Piperacillin avec ou sans tazobactam</molecule>
-  <ancrem><![CDATA[<h1><a name="Piperacillin">Piperacillin avec ou sans tazobactam</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Piperacillin">Piperacillin avec ou sans tazobactam</a>]]></ancrem>
   <indication> Exacerbation pulmonaire en fibrose kystique, pyélonéphrite aiguë</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#FibroseKystiqueSevere"> Exacerbation pulmonaire en fibrose kystique</a>, <a href="./00TxPatho.html#PyelonephriteAigue"> pyélonéphrite aiguë</a> ]]></ancrei>
   <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
@@ -180,12 +180,12 @@
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les pénicillines peuvent être utilisées chez la femme enceinte à tous les trimestres de la grossesse. Le manque de données cocernant le tazobactam ne permet pas d'évaluer le risque.</recommandationgrossesse>
   <allaitement1> Pour la piperacillin: biodisponibilité orale nulle.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 16 à 30 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 0.5 à 1.5 h.</allaitement3>
+  <allaitement2> Liaison aux protéines plasmatiques: 16 à 30 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 0.5 à 1.5 h.</allaitement3>
   <allaitement4> Passage du médicament dans le lait maternel: 0.2 % de la dose pédiatrique.</allaitement4>
   <allaitement5> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale.</allaitement5>
   <allaitement6> Pour le tazobactam: temps de demi-vie de 0.7 à 1.2 h.</allaitement6>
-  <allaitement7> Liaison aux protéines plasmatiques: de 16 à 48 %.</allaitement7>
+  <allaitement7> Liaison aux protéines plasmatiques: 16 à 48 %.</allaitement7>
   <allaitement8> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> L'allaitement est compatible avec la prise de pénicillines étant donné la dose minime à laquelle l'enfant est exposé et qu'il s'agit d'une classe bien connue en pédiatrie. Le tazobactam est jugé compatible avec l'allaitement en raison des paramètres pharmacocinétiques et de l'expérience en néonatologie et en pédiatrie. </recommandationallaitement>
@@ -193,7 +193,7 @@
 
  <tableau>
   <molecule> Pivampicillin</molecule>
-  <ancrem><![CDATA[<h1><a name="Pivampicillin">Pivampicillin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Pivampicillin">Pivampicillin</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> Pas d'augmentation du risque de malformations chez plus de 25 000 femmes traitées par la penicillin et ses dérivés au premier trimestre dans 2 études de surveillance.</grossesse1>
@@ -220,7 +220,7 @@
 
  <tableau>
   <molecule> Plendil (felodipine)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx06F.html#Felodipine">Plendil (felodipine)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx06F.html#Felodipine">Plendil (felodipine)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -247,7 +247,7 @@
 
  <tableau>
   <molecule> Pramipexole</molecule>
-  <ancrem><![CDATA[<h1><a name="Pramipexole">Pramipexole</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Pramipexole">Pramipexole</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> 1) Données animales: pas d'effet tératogène identifié chez deux espèces animales. Diminution des taux d'implantation et augmentation de l'incidence des résorptions totales chez le rat pour des doses supérieures aux doses humaines: effet attribué à la diminution de prolactine, hormone nécessaire à l'implantation chez le rat mais pas chez l'humain.</grossesse1>
@@ -274,7 +274,7 @@
 
  <tableau>
   <molecule> Pregabalin</molecule>
-  <ancrem><![CDATA[<h1><a name="Pregabalin">Pregabalin</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Pregabalin">Pregabalin</a>]]></ancrem>
   <indication> Syndrome des jambes sans repos</indication>
   <ancrei> Syndrome des jambes sans repos </ancrei>
   <grossesse1> Données animales: absence de risque tératogène identifié chez trois espèces animales à doses similaires à celles utilisées chez l'humain; embryotoxicité et anomalies squelettiques et viscérales à doses élevées entraînant aussi une toxicité maternelle.</grossesse1>
@@ -301,7 +301,7 @@
 
  <tableau>
   <molecule> Primaxin (imipenem + cilastatin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx09I.html#Imipenem">Primaxin (imipenem + cilastatin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx09I.html#Imipenem">Primaxin (imipenem + cilastatin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -328,7 +328,7 @@
 
  <tableau>
   <molecule> Propranolol</molecule>
-  <ancrem><![CDATA[<h1><a name="Propranolol">Propranolol</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Propranolol">Propranolol</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Non cardiosélectif et sans activité sympathomimétique intrinsèque.</grossesse1>
@@ -341,7 +341,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Les beta-bloquants ne sont pas associés à des malformations majeures lorsqu'ils sont utilisés au premier trimestre. Les bloquants beta-adrénergiques ont été associés à un retard de croissance intra-utérine lorsqu'ils sont utilisés au deuxième et troisième trimestres. Les avantages et les risques de l'utilisation de ces agents doivent être évalués pour chaque patiente. Les nouveau-nés exposés à un beta-bloquant en fin de grossesse devraient être observés pour des signes de beta-blocage (bradycardie, hypotension, hypoglycémie) pendant 24 à 48 heures après la naissance. Les bénéfices maternels et périnatals bien établis des beta-bloquants en font des agents de deuxième recours après la méthyldopa. Le labétalol demeure le premier recours parmi les beta-bloquants lorsqu'on envisage un beta-bloquant pour l'hypotension. Le propranolol, le metoprolol ou l'atenolol sont généralement envisagés dans les cas d'arythmie. Le propranolol demeure l'agent de premier recours de cette classe pour la prophylaxie des migraines. </recommandationgrossesse>
-  <allaitement1> Dose maternelle ajustée pour le poids transférée à l'enfant: 0 à 0.5 % (3% d'une dose pédiatrique)</allaitement1>
+  <allaitement1> Passage du médicament dans le lait maternel: dose maternelle ajustée pour le poids transférée à l'enfant de 0 à 0.5 % (3 % d'une dose pédiatrique). </allaitement1>
   <allaitement2> </allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -355,7 +355,7 @@
 
  <tableau>
   <molecule> Propyl-Thyracil [propylthiouracil (PTU)]</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx16P.html#Propylthiouracil">Propyl-Thyracil [propylthiouracil (PTU)]</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx16P.html#Propylthiouracil">Propyl-Thyracil [propylthiouracil (PTU)]</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -382,7 +382,7 @@
  
  <tableau>
   <molecule> Propylthiouracil (PTU)</molecule>
-  <ancrem><![CDATA[<h1><a name="Propylthiouracil">Propylthiouracil (PTU)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Propylthiouracil">Propylthiouracil (PTU)</a>]]></ancrem>
   <indication> Hyperthyroïdie</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hyperthyroidie">Hyperthyroïdie</a>]]></ancrei>
   <grossesse1> Pas d'augmentation du taux de malformations majeures par rapport au taux de base dans la population ni de patron d'anomalie chez 150 femmes exposées au premier trimestre de la grossesse.</grossesse1>

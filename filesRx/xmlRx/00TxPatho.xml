@@ -3,109 +3,224 @@
 <livre>
 
  <tableau>
-  <indication> Bactériurie asymptomatique</indication>
-  <ancrei><![CDATA[<a name="Bacteriurie">Bactériurie asymptomatique</a>]]></ancrei>
-  <grossesse1> amoxicillin, cephalexin, nitrofurantoin, penicillin V, clindamycin</grossesse1>
-  <grossesse2> trimethoprim + sulfamethoxazole (à partir du deuxième trimestre), trimethoprim (à partir du deuxième trimestre) </grossesse2>
-  <grossesse3> fosfomycin</grossesse3>
-  <grossesse4> trimethoprim (premier trimestre et accouchement imminent), trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</grossesse4>
+  <indication> Bactériurie asymptomatique (en grossesse seulement)</indication>
+  <ancrei><![CDATA[<a name="Bacteriurie">Bactériurie asymptomatique (en grossesse seulement)</a>]]></ancrei>
+  <grossesse1> amoxicillin 500 mg PO TID x 3-7 j, 
+  cephalexin 250-500 mg PO TID x 3-7 j, 
+  nitrofurantoin 100 mg PO QID x 3-7 j, 
+  nitrofurantoin macrocristaux 100 mg PO BID x 3-7 j,
+  penicillin V 300 mg PO QID x 7 j, 
+  clindamycin 300 mg PO QID x 7 j</grossesse1>
+  <grossesse2> trimethoprim + sulfamethoxazole 160/800 mg PO BID x 3 j (à partir du deuxième trimestre), 
+  trimethoprim 200 mg PO BID x 3 j (à partir du deuxième trimestre) </grossesse2>
+  <grossesse3> fosfomycin 3 g PO x 1 dose</grossesse3>
+  <grossesse4> trimethoprim (premier trimestre et accouchement imminent), 
+  trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</grossesse4>
   <grossesse5> sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim (à partir du deuxième trimestre)</a>]]></ancreg2>
-  <ancreg3><![CDATA[<a href="./Rx06F.html#Fosfomycin">fosfomycin</a>]]></ancreg3>
-  <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx01A.html#Amoxicillin">amoxicillin 500 mg PO TID x 3-7 j</a></li>
+  <li><a href="./Rx03C.html#Cephalexin">cephalexin 250-500 mg PO TID x 3-7 j</a></li>
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin 100 mg PO QID x 3-7 j</a></li> 
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin macrocristaux 100 mg PO BID x 3-7 j</a></li> 
+  <li><a href="./Rx16P.html#PenicillinV">penicillin V 300 mg PO QID x 7 j</a></li>
+  <li><a href="./Rx03C.html#Clindamycin">clindamycin 300 mg PO QID x 7 j</a></li>
+	       </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<ul>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 160/800 mg PO BID x 3 j (à partir du deuxième trimestre)</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim 200 mg PO BID x 3 j (à partir du deuxième trimestre)</a></li>
+	       </ul>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx06F.html#Fosfomycin">fosfomycin 3 g PO x 1 dose</a>]]></ancreg3>
+  <ancreg4><![CDATA[<ul>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim (premier trimestre et accouchement imminent)</a></li>
+	       </ul>]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> amoxicillin, cephalexin, nitrofurantoin, penicillin V, clindamycin, fosfomycin, trimethoprim, trimethoprim + sulfamethoxazole</allaitement1>
+  <allaitement1> sans objet </allaitement1>
   <allaitement2> sans objet</allaitement2>
-  <ancrea1><![CDATA[ <a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim</a>, <a href="./Rx06F.html#Fosfomycin">fosfomycin</a> ]]></ancrea1>
+  <ancrea1>sans objet</ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Bronchite aiguë</indication>
   <ancrei><![CDATA[<a name="BronchiteAigue">Bronchite aiguë</a>]]></ancrei>
-  <grossesse1> Erythromycin, clarithromycin (à partir du deuxième trimestre), azithromycin (à partir du deuxième trimestre) </grossesse1>
-  <grossesse2> Trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</grossesse2>
+  <grossesse1> Erythromycin 500 mg PO QID x 14 j, 
+  clarithromycin 500 mg PO BID x 7 j (à partir du deuxième trimestre), 
+  azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre) </grossesse1>
+  <grossesse2> Trimethoprim + sulfamethoxazole 160/800 mg PO BID x 14 j (à partir du deuxième trimestre)</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Azithromycin (premier trimestre seulement), clarithromycin (premier trimestre seulement), trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent) </grossesse4>
   <grossesse5> Sans objet </grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a>, <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a> ]]></ancreg2>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx05E.html#Erythromycin">erythromycin 500 mg PO QID x 14 j</a></li>
+  <li><a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID x 7 j (à partir du deuxième trimestre)</a></li>
+  <li><a href="./Rx01A.html#Azithromycin">azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre)</a></li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 160/800 mg PO BID x 14 j (à partir du deuxième trimestre)</a> ]]></ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4><![CDATA[<a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>, <a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
   <allaitement1> Idem</allaitement1>
   <allaitement2> Sans objet </allaitement2>
-  <ancrea1><![CDATA[ <a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin</a>, <a href="./Rx01A.html#Azithromycin">azithromycin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a> ]]></ancrea1>
+  <ancrea1>idem</ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Chlamydiose</indication>
   <ancrei><![CDATA[<a name="Chlamydiose">Chlamydiose</a>]]></ancrei>
-  <grossesse1> amoxicillin, azithromycin (à partir du deuxième trimestre)</grossesse1>
-  <grossesse2> erythromycin</grossesse2>
+  <grossesse1> amoxicillin 500 mg PO TID x 7 j, 
+  azithromycin 1000 mg PO x 1 dose (à partir du deuxième trimestre)</grossesse1>
+  <grossesse2> erythromycin 500 mg PO QID x 7 j</grossesse2>
   <grossesse3> sans objet</grossesse3>
   <grossesse4> azithromycin (premier trimestre seulement)</grossesse4>
   <grossesse5> sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin</a> ]]></ancreg2>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx01A.html#Amoxicillin">amoxicillin 500 mg PO TID x 7 j</a></li>
+  <li><a href="./Rx01A.html#Azithromycin">azithromycin 1000 mg PO x 1 dose (à partir du deuxième trimestre)</a></li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin 500 mg PO QID x 7 j</a> ]]></ancreg2>
   <ancreg3> sans objet</ancreg3>
   <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a> ]]></ancreg4>
   <ancreg5> </ancreg5>
-  <allaitement1> azithromycin, amoxicillin, doxycyclin, ofloxacin, erythromycin</allaitement1>
+  <allaitement1> azithromycin 1000 mg PO x 1 dose, 
+  amoxicillin 500 mg PO TID x 7 j, 
+  doxycyclin 100 mg PO BID x 7 j, 
+  ofloxacin 300 mg PO BID x 7 j, 
+  erythromycin 500 mg PO QID x 7 j</allaitement1>
   <allaitement2> sans objet</allaitement2>
-  <ancrea1><![CDATA[<a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx01A.html#Azithromycin">azithromycin</a>, <a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx04D.html#Doxycycline">doxycycline</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a> ]]></ancrea1>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx01A.html#Amoxicillin">amoxicillin 500 mg PO TID x 7 j</a></li>
+  <li><a href="./Rx01A.html#Azithromycin">azithromycin 1000 mg PO x 1 dose</a></li>
+  <li><a href="./Rx05E.html#Erythromycin">erythromycin 500 mg PO QID x 7 j</a></li>
+  <li><a href="./Rx04D.html#Doxycycline">doxycyclin 100 mg PO BID x 7 j</a></li>
+  <li><a href="./Rx15O.html#Ofloxacin">ofloxacin 300 mg PO BID x 7 j</a></li>
+            </ul>]]></ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Cystite aiguë</indication>
   <ancrei><![CDATA[<a name="CystiteAigue">Cystite aiguë</a>]]></ancrei>
-  <grossesse1> Amoxicillin, cephalexin, nitrofurantoin, penicillin V, clindamycin</grossesse1>
-  <grossesse2> Trimethoprim + sulfamethoxazole (à partir du deuxième trimestre), trimethoprim (à partir du deuxième trimestre)</grossesse2>
-  <grossesse3> Fosfomycin</grossesse3>
-  <grossesse4> Trimethoprim (premier trimestre et accouchememt imminent), trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</grossesse4>
+  <grossesse1> Amoxicillin 500 mg PO TID x 3-7 j, 
+  cephalexin 250-500 mg PO QID x 3-7 j, 
+  nitrofurantoin 100 mg PO QID x 3-7 j, 
+  penicillin V 300 mg PO QID x 7j, 
+  clindamycin 300 mg PO QID x 7 j</grossesse1>
+  <grossesse2> Trimethoprim + sulfamethoxazole 160/800 mg PO BID x 3 j (à partir du deuxième trimestre), 
+  trimethoprim 200 mg PO BID x 3 j (à partir du deuxième trimestre)</grossesse2>
+  <grossesse3> Fosfomycin 3 g PO x 1 dose</grossesse3>
+  <grossesse4> Trimethoprim (premier trimestre et accouchememt imminent), 
+  trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)
+  ciprofloxacin, 
+  levofloxacin, 
+  norfloxacin,
+  ofloxacin</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[ <a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim (à partir du deuxième trimestre)</a>]]></ancreg2>
-  <ancreg3><![CDATA[<a href="./Rx06F.html#Fosfomycin">fosfomycin</a>]]></ancreg3>
-  <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx01A.html#Amoxicillin">amoxicillin 500 mg PO TID x 3-7 j</a></li>
+  <li><a href="./Rx03C.html#Cephalexin">cephalexin 250-500 mg PO TID x 3-7 j</a></li>
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin 100 mg PO QID x 3-7 j</a></li>
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin macrocristaux 100 mg PO BID x 3-7 j</a></li>
+  <li><a href="./Rx16P.html#PenicillinV">penicillin V 300 mg PO QID x 7 j</a></li>
+  <li><a href="./Rx03C.html#Clindamycin">clindamycin 300 mg PO QID x 7 j</a></li>
+	       </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<ul>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 160/800 mg PO BID x 3 j (à partir du deuxième trimestre)</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim 200 mg PO BID x 3 j (à partir du deuxième trimestre)</a></li>
+	       </ul>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx06F.html#Fosfomycin">fosfomycin 3 g PO x 1 dose</a>]]></ancreg3>
+  <ancreg4><![CDATA[<ul>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim (premier trimestre et accouchement imminent)</a></li>
+  <li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a></li>
+  <li><a href="./Rx12L.html#Levofloxacin">levofloxacin</a></li>
+  <li><a href="./Rx14N.html#Norfloxacin">norfloxacin</a></li>
+  <li><a href="./Rx15O.html#Ofloxacin">ofloxacin</a></li>
+	       </ul>]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Amoxicillin, cephalexin, nitrofurantoin, penicillin V, clindamycin, fosfomycin, trimethoprim + sulfamethoxazole, trimethoprim, ciprofloxacin, levofloxacin, norfloxacin, ofloxacin </allaitement1>
-  <allaitement2> Sans objet</allaitement2>
-  <ancrea1><![CDATA[ <a href="./Rx01A.html#Amoxicillin">amoxicillin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim</a>, <a href="./Rx06F.html#Fosfomycin">fosfomycin</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx12L.html#Levofloxacin">levofloxacin</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a> ]]></ancrea1>
+  <allaitement1>nitrofurantoin 100 mg PO QID x 3-7 j, 
+  nitrofurantoin macrocristaux 100 mg PO BID x 3-7 j,
+  trimethoprim 200 mg PO BID x 3 j, 
+  trimethoprim + sulfamethoxazole 160/800 mg PO BID x 3 j,
+  ciprofloxacin, 
+  levofloxacin,
+  norfloxacin,
+  ofloxacin </allaitement1>
+  <allaitement2> amoxicillin, cephalexin, penicillin V, clindamycin, fosfomycin (à cause de la résistance bactérienne élevée à ces médicaments)</allaitement2>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin 100 mg PO QID x 7 j</a></li>
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin macrocristaux 100 mg PO BID x 7 j</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 160/800 mg PO BID x 3-7 j</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim 200 mg PO BID x 3-7 j</a></li>
+  <li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 250 mg PO BID x 3-7 j</a></li>
+  <li><a href="./Rx12L.html#Levofloxacin">levofloxacin 250-500 mg PO DIE x 3-7 j</a></li>
+  <li><a href="./Rx14N.html#Norfloxacin">norfloxacin 400 mg PO BID x 3-7 j</a></li>
+  <li><a href="./Rx15O.html#Ofloxacin">ofloxacin 200 mg PO BID x 3-7 j</a></li>
+	  </ul>]]></ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Diabète gestationnel</indication>
   <ancrei><![CDATA[<a name="Diabete">Diabète gestationnel</a>]]></ancrei>
-  <grossesse1> Insuline humaine (régulière, NPH, lente, ultralente), insuline aspart, insuline lispro</grossesse1>
-  <grossesse2> Metformin, glyburide</grossesse2>
+  <grossesse1> Insuline humaine (régulière, NPH, lente, ultralente), 
+  insuline aspart,
+  insuline lispro</grossesse1>
+  <grossesse2> Metformin, 
+  glyburide</grossesse2>
   <grossesse3> Combinaisons des traitements ci-dessus</grossesse3>
   <grossesse4> Insuline detemir, insuline glargine, nateglinide, repaglinide, chlorpropramide, gliclazide, glimepiride, tolbutamide, pioglitazone, rosiglitazone, acarbose, orlistat</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx09I.html#InsulineHumaine">insuline humaine (régulière, NPH, lente, ultra-lente)</a>, <a href="./Rx09I.html#InsulineAspart">Insuline aspart</a>, <a href="./Rx09I.html#InsulineLispro">Insuline lispro</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx13M.html#Metformin">metformin</a>, <a href="./Rx07G.html#Glyburide">glyburide</a> ]]></ancreg2>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx09I.html#InsulineHumaine">insuline humaine (régulière, NPH, lente, ultra-lente)</a></li>
+  <li><a href="./Rx09I.html#InsulineAspart">insuline aspart</a></li>
+  <li><a href="./Rx09I.html#InsulineLispro">insuline lispro</a></li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<ul>
+  <li><a href="./Rx13M.html#Metformin">metformin</a></li>
+  <li><a href="./Rx07G.html#Glyburide">glyburide</a></li>
+           </ul>]]></ancreg2>
   <ancreg3>combinaison des traitements ci-dessus</ancreg3>
   <ancreg4><![CDATA[<a href="./Rx09I.html#InsulineDetemir">insuline detemir</a>, <a href="./Rx09I.html#InsulineGlargine">insuline glargine</a>, <a href="./Rx14N.html#Nateglinide">nateglinide</a>, <a href="./Rx18R.html#Repaglinide">repaglinide</a>, <a href="./Rx03C.html#Chlorpropramide">chlorpropramide</a>, <a href="./Rx07G.html#Gliclazide">gliclazide</a>, <a href="./Rx07G.html#Glimepiride">glimepiride</a>, <a href="./Rx20T.html#Tolbutamide">tolbutamide</a>, <a href="./Rx16P.html#Pioglitazone">pioglitazone</a>, <a href="./Rx18R.html#Rosiglitazone">rosiglitazone</a>, <a href="./Rx01A.html#Acarbose">acarbose</a>, <a href="./Rx15O.html#Orlistat">orlistat</a> ]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Insuline humaine (régulière, NPH, lente, ultralente), insuline aspart, insuline lispro,  insuline detemir, insuline glargine, glyburide, metformin </allaitement1>
+  <allaitement1> Insuline humaine (régulière, NPH, lente, ultralente), 
+  insuline aspart, 
+  insuline lispro, 
+  insuline detemir, 
+  insuline glargine, 
+  glyburide, 
+  metformin </allaitement1>
   <allaitement2> Nateglinide, repaglinide, chlorpropramide, gliclazide, glimepiride, tolbutamide, pioglitazone, rosiglitazone, acarbose, orlistat </allaitement2>
-  <ancrea1><![CDATA[<a href="./Rx09I.html#InsulineHumaine">insuline humaine (régulière, NPH, lente, ultra-lente)</a>, <a href="./Rx09I.html#InsulineAspart">Insuline aspart</a>, <a href="./Rx09I.html#InsulineLispro">Insuline lispro</a>, <a href="./Rx13M.html#Metformin">metformin</a>, <a href="./Rx07G.html#Glyburide">glyburide</a>, <a href="./Rx09I.html#InsulineDetemir">insuline detemir</a>, <a href="./Rx09I.html#InsulineGlargine">insuline glargine</a> ]]></ancrea1>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx09I.html#InsulineHumaine">insuline humaine (régulière, NPH, lente, ultra-lente)</a></li>
+  <li><a href="./Rx09I.html#InsulineAspart">insuline aspart</a></li>
+  <li><a href="./Rx09I.html#InsulineLispro">insuline lispro</a></li>
+  <li><a href="./Rx13M.html#Metformin">metformin</a></li>
+  <li><a href="./Rx07G.html#Glyburide">glyburide</a></li>
+  <li><a href="./Rx09I.html#InsulineDetemir">insuline detemir</a></li>
+  <li><a href="./Rx09I.html#InsulineGlargine">insuline glargine</a></li>
+           </ul>]]></ancrea1>
   <ancrea2><![CDATA[<a href="./Rx14N.html#Nateglinide">nateglinide</a>, <a href="./Rx18R.html#Repaglinide">repaglinide</a>, <a href="./Rx03C.html#Chlorpropramide">chlorpropramide</a>, <a href="./Rx07G.html#Gliclazide">gliclazide</a>, <a href="./Rx07G.html#Glimepiride">glimepiride</a>, <a href="./Rx20T.html#Tolbutamide">tolbutamide</a>, <a href="./Rx16P.html#Pioglitazone">pioglitazone</a>, <a href="./Rx18R.html#Rosiglitazone">rosiglitazone</a>, <a href="./Rx01A.html#Acarbose">acarbose</a>, <a href="./Rx15O.html#Orlistat">orlistat</a> ]]></ancrea2>
  </tableau>
 
  <tableau>
   <indication> Fibrose kystique, exacerbation en: traitement ponctuel d'une surinfection légère à modérée ou suppression bactérienne chronique</indication>
   <ancrei><![CDATA[<a name="FibroseKystiqueLegere">Fibrose kystique, exacerbation en: traitement ponctuel d'une surinfection légère à modérée ou suppression bactérienne chronique</a>]]></ancrei>
-  <grossesse1> Tobramycin injectable sans phénol (pour inhaler), tobramycin en poudre pour inhalation, colistimethate injectable (pour inhaler), ciprofloxacin</grossesse1>
+  <grossesse1> Tobramycin injectable sans phénol (pour inhaler) 80-160 mg par nébulisation BID x 3 sems ou en en continu, 
+  tobramycin en poudre pour inhalation 300 mg par nébulisation BID x 4 sems ou x 4 sem en alternance avec 4 sems de pause, 
+  colistimethate injectable (pour inhaler) 75-150 mg par nébulisation BID x 3 sems ou en continu, 
+  ciprofloxacin 750-1000 mg PO BID x 3 sems</grossesse1>
   <grossesse2> Sans objet</grossesse2>
   <grossesse3> Sans objet </grossesse3>
   <grossesse4> Sans objet </grossesse4>
   <grossesse5> Sans objet </grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx20T.html#Tobramycin">tobramycin injectable sans phénol (pour inhaler), tobramycin en poudre pour inhalation</a>, <a href="./Rx03C.html#Colistimethate">colistimethate injectable (pour inhaler)</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ]]></ancreg1>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx20T.html#Tobramycin">tobramycin injectable sans phénol (pour inhaler) 80-160 mg par nébulisation BID x 3 sems ou en continu</a></li>
+  <li><a href="./Rx20T.html#Tobramycin">tobramycin en poudre pour inhalation 300 mg par nébulisation BID x 4 sems ou x 4 sems en alternance avec 4 sems de pause</a></li>
+  <li><a href="./Rx03C.html#Colistimethate">colistimethate injectable (pour inhaler) 75-150 mg par nébulisation BID x 3 sems ou en continu</a></li>
+  <li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 750-1000 mg PO BID x 3 sems</a></li>
+           </ul>]]></ancreg1>
   <ancreg2>sans objet</ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4>sans objet</ancreg4>
@@ -119,13 +234,29 @@
  <tableau>
   <indication> Fibrose kystique, exacerbation en: surinfection modérée à sévère</indication>
   <ancrei><![CDATA[<a name="FibroseKystiqueSevere">Fibrose kystique, exacerbation en: surinfection modérée à sévère</a>]]></ancrei>
-  <grossesse1> Piperacillin avec ou sans tazobactam + [tobramycin ou amikacin] + [ciprofloxacin ou non], [ticarcillin + clavulanate] + [tobramycin ou amikacin] + [ciprofloxacin ou non], ceftazidime + [tobramycin ou amikacin] + [ciprofloxacin ou non]</grossesse1>
-  <grossesse2> Meropenem + [tobramycin ou amikacin] + [ciprofloxacin ou non], imipenem + [tobramycin ou amikacin] + [ciprofloxacin ou non], cefepime + [tobramycin ou amikacin] + [ciprofloxacin ou non]</grossesse2>
+  <grossesse1> Piperacillin avec ou sans tazobactam 3-4 g IV q6h + [tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h ou amikacin 7.5-10 mg/kg/dose IV q8h] + [ciprofloxacin 400 mg IV q8h ou non], 
+  [ticarcillin + clavulanate 3-4 g IV q6h] + [tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h ou amikacin 7.5-10 mg/kg/dose IV q8h] + [ciprofloxacin 400 mg IV q8h ou non], 
+  ceftazidime 2 g IV q8h + [tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h ou amikacin 7.5-10 mg/kg/dose IV q8h] + [ciprofloxacin 400 mg IV q8h ou non]
+  durée de traitement pour toutes les options ci-dessus: 14-21 j ou plus</grossesse1>
+  <grossesse2> Meropenem 2 g IV q8h + [tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h ou amikacin 7.5-10 mg/kg/dose IV q8h] + [ciprofloxacin 400 mg IV q8h ou non],
+  imipenem 1 g IV q6h + [tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h ou amikacin 7.5-10 mg/kg/dose IV q8h] + [ciprofloxacin 400 mg IV q8h ou non],
+  cefepime 2 g IV q8h + [tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h ou amikacin 7.5-10 mg/kg/dose IV q8h] + [ciprofloxacin 400 mg IV q8h ou non]
+  durée de traitement pour toutes les options ci-dessus: 14-21 j ou plus</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Sans objet</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<ul><li><a href="./Rx16P.html#Piperacillin">piperacillin avec ou sans tazobactam</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li><li><a href="./Rx20T.html#Ticarcillin">ticarcillin + clavulanate</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li><li><a href="./Rx03C.html#Ceftazidime">ceftazidime</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li></ul>]]></ancreg1>
-  <ancreg2><![CDATA[<ul><li><a href="./Rx13M.html#Meropenem">meropenem</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li><li><a href="./Rx09I.html#Imipenem">imipenem</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li><li><a href="./Rx03C.html#Cefepime">cefepime</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin</a> ou <a href="./Rx01A.html#Amikacin">amikacin</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou non)</li></ul> ]]></ancreg2>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx16P.html#Piperacillin">piperacillin avec ou sans tazobactam 3-4 g IV q6h</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h</a> ou <a href="./Rx01A.html#Amikacin">amikacin 7.5-10 mg/kg/dose IV q8h</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q8h</a> ou non)</li>
+  <li><a href="./Rx20T.html#Ticarcillin">ticarcillin + clavulanate 3-4 g IV q6h</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h</a> ou <a href="./Rx01A.html#Amikacin">amikacin 7.5-10 mg/kg/dose IV q8h</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q8h</a> ou non)</li>
+  <li><a href="./Rx03C.html#Ceftazidime">ceftazidime 2 g IV q8h</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h</a> ou <a href="./Rx01A.html#Amikacin">amikacin 7.5-10 mg/kg/dose IV q8h</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q8h</a> ou non)</li>
+  <li>durée de traitement pour toutes les options ci-dessus: 14-21 j ou plus</li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<ul>
+  <li><a href="./Rx13M.html#Meropenem">meropenem 2 g IV q8h</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h</a> ou <a href="./Rx01A.html#Amikacin">amikacin 7.5-10 mg/kg/dose IV q8h</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q8h</a> ou non)</li>
+  <li><a href="./Rx09I.html#Imipenem">imipenem 1 g IV q6h</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h</a> ou <a href="./Rx01A.html#Amikacin">amikacin 7.5-10 mg/kg/dose IV q8h</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q8h</a> ou non)</li>
+  <li><a href="./Rx03C.html#Cefepime">cefepime 2 g IV q8h</a> + (<a href="./Rx20T.html#Tobramycin">tobramycin 3 mg/kg/dose IV q8h ou 5 mg/kg/dose IV q12h</a> ou <a href="./Rx01A.html#Amikacin">amikacin 7.5-10 mg/kg/dose IV q8h</a>) + (<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q8h</a> ou non)</li>
+  <li>durée de traitement pour toutes les options ci-dessus: 14-21 j ou plus</li>
+           </ul> ]]></ancreg2>
   <ancreg2>sans objet</ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4>sans objet</ancreg4>
@@ -139,14 +270,43 @@
  <tableau>
   <indication> Fibrose kystique, exacerbation pulmonaire en: surinfection à bactéries Gram négatif</indication>
   <ancrei><![CDATA[<a name="FibroseKystiqueGramNegatif">Fibrose kystique, exacerbation pulmonaire en: surinfection à bactéries Gram négatif</a>]]></ancrei>
-  <grossesse1> Infection à Stenotrophonomas maltophilia: ticarcillin + clavulanate, trimethoprim + sulfamethoxazole (en intraveineuse)</grossesse1>
-  <grossesse2> Infection à Burkholderia cepacia: minocycline, trimethoprim + sulfamethoxazole (en intraveineuse), meropenem, ceftazidime, amikacin</grossesse2>
-  <grossesse3> Infection à Achromobacter xylosoxidans: minocycline, ciprofloxacin, meropenem, imipenem</grossesse3>
+  <grossesse1> Infection à Stenotrophonomas maltophilia: 
+  ticarcillin + clavulanate 3-4 g IV q6h x 14-21 j, 
+  trimethoprim + sulfamethoxazole 4-5 mg/kg/dose IV q8-12h x 14-21 j</grossesse1>
+  <grossesse2> Infection à Burkholderia cepacia:
+  minocycline 2 mg/kg/dose PO BID (max 100 mg PO BID, formulation IV non disponible au Canada),
+  trimethoprim + sulfamethoxazole 5 mg/kg/dose IV q6h, 
+  meropenem 2 g IV q8h, 
+  ceftazidime 2 g IV q6h, 
+  amikacin 7.5-10 mg/kg/dose IV q8h
+  durée de traitement pour toutes les options ci-dessus: 14-21 j</grossesse2>
+  <grossesse3> Infection à Achromobacter xylosoxidans: 
+  minocycline 2 mg/kg/dose PO BID (max 100 mg PO BID, formulation IV non disponible au Canada), 
+  ciprofloxacin 400 mg PO IV q8h, 
+  meropenem 2 g IV q8h,
+  imipenem 1 g IV q6h
+  durée de traitement pour toutes les options ci-dessus: 14-21 j</grossesse3>
   <grossesse4> Sans objet</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[ Infection à Stenotrophonomas maltophilia: <a href="./Rx20T.html#Ticarcillin">ticarcillin + clavulanate</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (en intraveineuse)</a> ]]></ancreg1>
-  <ancreg2><![CDATA[ Infection à Burkholderia cepacia: <a href="./Rx13M.html#"Minocyclin>minocycline</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (en intraveineuse)</a>, <a href="./Rx13M.html#Meropenem">meropenem</a>, <a href="./Rx03C.html#Ceftazidime">ceftazidime</a>, <a href="./Rx01A.html#Amikacin">amikacin</a> ]]></ancreg2>
-  <ancreg3><![CDATA[ Infection à Achromobacter xylosoxidans: <a href="./Rx13M.html#"Minocyclin>minocycline</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx13M.html#Meropenem">meropenem</a>, <a href="./Rx09I.html#Imipenem">imipenem</a> ]]></ancreg3>
+  <ancreg1><![CDATA[ Infection à Stenotrophonomas maltophilia: <ul>
+  <li><a href="./Rx20T.html#Ticarcillin">ticarcillin + clavulanate 3-4 g IV q6h 14-21 j</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 4-5 mg/kg/dose IV q8-12h x 14-21 j</a></li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[ Infection à Burkholderia cepacia: <ul>
+  <li><a href="./Rx13M.html#"Minocyclin>minocycline 2 mg/kg/dose PO BID (max 100 mg PO BID</a>, formulation IV non disponible au Canada)</li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 4-5 mg/kg/dose IV q8-12h</a></li>
+  <li><a href="./Rx13M.html#Meropenem">meropenem 2 g IV q8h</a></li>
+  <li><a href="./Rx03C.html#Ceftazidime">ceftazidime 2 g q6h</a></li>
+  <li><a href="./Rx01A.html#Amikacin">amikacin 7.5-10 mg/kg/dose IV q8h</a></li>
+  <li>durée de traitement pour les options ci-dessus: 14-21 j</li>
+           </ul>]]></ancreg2>
+  <ancreg3><![CDATA[ Infection à Achromobacter xylosoxidans: <ul>
+  <li><a href="./Rx13M.html#"Minocyclin>minocycline 2 mg/kg/dose PO BID (max 100 mg PO BID</a>, formulation IV non disponible au Canada)</li>
+  <li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q8h</a></li>
+  <li><a href="./Rx13M.html#Meropenem">meropenem 2 g IV q8h</a></li>
+  <li><a href="./Rx09I.html#Imipenem">imipenem 1 g IV q6h</a></li>
+  <li>durée de traitement pour les options ci-dessus: 14-21 j</li>
+           </ul>]]></ancreg3>
   <ancreg4>sans objet</ancreg4>
   <ancreg5>sans objet</ancreg5>
   <allaitement1> Idem</allaitement1>
@@ -158,13 +318,21 @@
  <tableau>
   <indication> Gonorrhée</indication>
   <ancrei><![CDATA[<a name="Gonorrhee">Gonorrhée</a>]]></ancrei>
-  <grossesse1> Cefixime, ceftriaxone</grossesse1>
-  <grossesse2> Azithromycin, spectinomycin (programme d'accès spécial de Santé Canada)</grossesse2>
+  <grossesse1> Cefixime 400 mg x 1 dose, 
+  ceftriaxone 125 mg IM x 1 dose</grossesse1>
+  <grossesse2> Azithromycin 2 g PO x 1 dose, 
+  spectinomycin 2 g IM x 1 dose (programme d'accès spécial de Santé Canada)</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Sans objet</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx03C.html#Cefixime">cefixime</a>, <a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin</a>, <a href="./Rx19S.html#Spectinomycin">spectinomycin</a> ]]></ancreg2>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx03C.html#Cefixime">cefixime 400 mg PO x 1 dose</a></li>
+  <li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone 125 mg IM x 1 dose</a></li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<ul>
+  <li><a href="./Rx01A.html#Azithromycin">azithromycin 1000 mg PO x 1 dose</a></li>
+  <li><a href="./Rx19S.html#Spectinomycin">spectinomycin 2 g IM x 1 dose (programme d'accès spécial de Santé Canada)</a></li>
+           </ul>]]></ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4>sans objet</ancreg4>
   <ancreg5>sans objet</ancreg5>
@@ -177,19 +345,104 @@
  <tableau>
   <indication> Hypertension artérielle</indication>
   <ancrei><![CDATA[<a name="Hypertension">Hypertension artérielle</a>]]></ancrei>
-  <grossesse1> Methyldopa, clonidine (en cas de crise hypertensive)</grossesse1>
-  <grossesse2> Labetalol</grossesse2>
-  <grossesse3> Nifedipine (à partir du deuxième trimestre), methyldopa + labetalol, methyldopa + hydralazine, clonidine, propranolol, metoprolol, atenolol, hydralazine, furosemide</grossesse3>
+  <grossesse1> Methyldopa 250 mg PO BID (augmenter jusqu'à 500 mg PO QID), 
+  clonidine 0.05-0.2 mg PO BID-QID, dose maximale de 0.8 mg/j (en cas de crise hypertensive),
+  labetalol 10 mg IV STAT, puis 20 mg IV 10-15 min plus tard, puis 40 mg q10-15 min, dose maximale: 220 mg/j (en cas de crise hypertensive),
+  labetalol en perfusion IV continue 1-2 mg par min ad objectif atteint, puis 0.5 mg par min (en cas de crise hypertensive),
+  nifedipine co régulier 5-10 mg PO q30min (en cas de crise hypertensive),
+  hydralazine 5 mg IV ou IM, augmenter jusqu'à 10 mg q20-40min, dose maximale de 30 mg/j (en cas de crise hypertensive),
+  hydralazine en perfusion IV continue 0.5-10 mg par heure (en cas de crise hypertensive)</grossesse1>
+  <grossesse2> Labetalol 100-200 mg PO BID (augmenter jusqu'à 300 mg PO QID)</grossesse2>
+  <grossesse3> Nifedipine XL 20-30 mg PO DIE-BID, dose maximale: 120 mg/j (à partir du deuxième trimestre), 
+  methyldopa 250 mg PO BID (augmenter jusqu'à 500 mg PO QID) + labetalol 100-200 mg PO BID (augmenter jusqu'à 300 mg PO QID), 
+  methyldopa 250 mg PO BID (augmenter jusqu'à 500 mg PO QID) + hydralazine 10 mg PO QID (augmenter jusqu'à 50 mg PO QID), 
+  clonidine 0.05-0.2 mg PO BID-QID (dose maximale de 0.8 mg/j), 
+  propranolol, 
+  metoprolol, 
+  atenolol, 
+  hydralazine, 
+  furosemide</grossesse3>
   <grossesse4> Acebutolol, bisoprolol, esmolol, nadolol, oxprenolol, pindolol, timolol,  chlorthalidone, hydrochlorothiazide, indapamide, metolazone, ethacrynique (acide), amiloride</grossesse4>
-  <grossesse5> Nifedipine (premier trimestre), amlodipine, felodipine, diltiazem, verapamil, spironolactone, triamterene, benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril, candesartan, eprosartan, irbesartan, losartan, telmisartan, valsartan</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx13M.html#Methyldopa">methyldopa</a>, <a href="./Rx03C.html#Clonidine">clonidine (en cas de crise hypertensive)</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx12L.html#Labetalol">labetalol</a>]]></ancreg2>
-  <ancreg3><![CDATA[<ul><li><a href="./Rx14N.html#Nifedipine">nifedipine (à partir du deuxième trimestre)</a></li><li><a href="./Rx13M.html#Methyldopa">methyldopa</a> + <a href="./Rx12L.html#Labetalol">labetalol</a></li><li><a href="./Rx13M.html#Methyldopa">methyldopa</a> + <a href="./Rx08H.html#Hydralazine">hydralazine</a></li><li><a href="./Rx03C.html#Clonidine">clonidine</a></li><li><a href="./Rx16P.html#Propranolol">propranolol</a></li><li><a href="./Rx13M.html#Metoprolol">metoprolol</a></li><li><a href="./Rx01A.html#Atenolol">atenolol</a></li><li><a href="./Rx08H.html#Hydralazine">hydralazine</a></li><li><a href="./Rx06F.html#Furosemide">furosemide</a></li></ul>]]></ancreg3>
+  <grossesse5> Methyldopa (si crise hypertensive), nifedipine (premier trimestre), amlodipine, felodipine, diltiazem, verapamil, spironolactone, triamterene, benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril, candesartan, eprosartan, irbesartan, losartan, telmisartan, valsartan</grossesse5>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx13M.html#Methyldopa">methyldopa 250 mg PO BID (augmenter jusqu'à 500 mg PO QID)</a></li>
+  </ul><br />En cas de crise hypertensive:<ul>
+  <li><a href="./Rx03C.html#Clonidine">clonidine 0.05-0.2 mg PO BID-QID (dose maximale de 0.8 mg/j)</a></li>
+  <li><a href="./Rx12L.html#Labetalol">labetalol 10 mg IV STAT, puis 20 mg IV 10-15 min plus tard, puis 40 mg q10-15 min (dose maximale: 220 mg/j)</a></li>
+  <li><a href="./Rx12L.html#Labetalol">labetalol en perfusion IV continue 1-2 mg par min ad objectif atteint, puis 0.5 mg par min</a></li>
+  <li><a href="./Rx14N.html#Nifedipine">nifedipine co régulier 5-10 mg PO q30min</a></li>
+  <li><a href="./Rx08H.html#Hydralazine">hydralazine 5 mg IV ou IM, augmenter jusqu'à 10 mg q20-40min (dose maximale de 30 mg/j)</a></li>
+  <li><a href="./Rx08H.html#Hydralazine">hydralazine en perfusion IV continue 0.5-10 mg par heure</a></li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx12L.html#Labetalol">labetalol 100-200 mg PO BID (augmenter jusqu'à 300 mg PO QID)</a>]]></ancreg2>
+  <ancreg3><![CDATA[<ul>
+  <li><a href="./Rx14N.html#Nifedipine">nifedipine XL 20-30 mg PO DIE-BID, dose maximale: 120 mg/j (à partir du deuxième trimestre)</a></li>
+  <li><a href="./Rx13M.html#Methyldopa">methyldopa 250 mg PO BID (augmenter jusqu'à 500 mg PO QID)</a> + <a href="./Rx12L.html#Labetalol">labetalol 100-200 mg PO BID (augmenter jusqu'à 300 mg PO QID)</a></li>
+  <li><a href="./Rx13M.html#Methyldopa">methyldopa 250 mg PO BID (augmenter jusqu'à 500 mg PO QID)</a> + <a href="./Rx08H.html#Hydralazine">hydralazine 10 mg PO QID (augmenter jusqu'à 50 mg PO QID)</a></li>
+  <li><a href="./Rx03C.html#Clonidine">clonidine 0.05-0.2 mg PO BID-QID (dose maximale de 0.8 mg/j)</a></li>
+  <li><a href="./Rx16P.html#Propranolol">propranolol</a></li>
+  <li><a href="./Rx13M.html#Metoprolol">metoprolol</a></li>
+  <li><a href="./Rx01A.html#Atenolol">atenolol</a></li>
+  <li><a href="./Rx08H.html#Hydralazine">hydralazine</a></li>
+  <li><a href="./Rx06F.html#Furosemide">furosemide</a></li>
+           </ul>]]></ancreg3>
   <ancreg4><![CDATA[<a href="./Rx01A.html#Acebutolol">acebutolol</a>, <a href="./Rx02B.html#Bisoprolol">bisoprolol</a>, <a href="./Rx05E.html#Esmolol">esmolol</a>, <a href="./Rx14N.html#Nadolol">nadolol</a>, <a href="./Rx15O.html#Oxprenolol">oxprenolol</a>, <a href="./Rx16P.html#Pindolol">pindolol</a>, <a href="./Rx20T.html#Timolol">timolol</a>, <a href="./Rx03C.html#Chlorthalidone">chlorthalidone</a>, <a href="./Rx08H.html#Hydrochlorothiazide">hydrochlorothiazide</a>, <a href="./Rx09I.html#Indapamide">indapamide</a>, <a href="./Rx13M.html#Metolazone">metolazone</a>, <a href="./Rx05E.html#Ethacrynique">ethacrynique (acide)</a>, <a href="./Rx01A.html#Amiloride">amiloride</a> ]]></ancreg4>
-  <ancreg5><![CDATA[<a href="./Rx14N.html#Nifedipine">nifedipine (premier trimestre seulement)</a>, <a href="./Rx01A.html#Amlodipine">amlodipine</a>, <a href="./Rx06F.html#Felodipine">felodipine</a>, <a href="./Rx04D.html#Diltiazem">diltiazem</a>, <a href="./Rx22V.html#Verapamil">verapamil</a>, <a href="./Rx19S.html#Spironolactone">spironolactone</a>, <a href="./Rx20T.html#Triamterene">triamterene</a>, <a href="./Rx02B.html#Benazepril">benazepril</a>, <a href="./Rx03C.html#Captopril">captopril</a>, <a href="./Rx03C.html#Cilazapril">cilazapril</a>, <a href="./Rx05E.html#Enalapril">enalapril</a>, <a href="./Rx06F.html#Fosinopril">fosinopril</a>, <a href="./Rx12L.html#Lisinopril">lisinopril</a>, <a href="./Rx16P.html#Perindopril">perindopril</a>, <a href="./Rx17Q.html#Quinapril">quinapril</a>, <a href="./Rx18R.html#Ramipril">ramipril</a>, <a href="./Rx20T.html#Trandolapril">trandolapril</a>, <a href="./Rx03C.html#Candesartan">candesartan</a>, <a href="./Rx05E.html#Eprosartan">eprosartan</a>, <a href="./Rx09I.html#Irbesartan">irbesartan</a>, <a href="./Rx12L.html#Losartan">losartan</a>, <a href="./Rx20T.html#Telmisartan">telmisartan</a>, <a href="./Rx22V.html#Valsartan">valsartan</a> ]]></ancreg5>
-  <allaitement1> Methyldopa, clonidine, bisoprolol, labetalol, metoprolol, oxprenolol, pindolol, propranolol, timolol, nifedipine, diltiazem, verapamil, hydralazine, hydrochlorothiazide, furosemide, spironolactone, benazepril, captopril, cilazapril, enalapril, fosinopril, lisinopril, perindopril, quinapril, ramipril, trandolapril</allaitement1>
+ <ancreg5><![CDATA[<a href="./Rx13M.html#Methyldopa">methyldopa (si crise hypertensive)</a>, <a href="./Rx14N.html#Nifedipine">nifedipine (premier trimestre seulement)</a>, <a href="./Rx01A.html#Amlodipine">amlodipine</a>, <a href="./Rx06F.html#Felodipine">felodipine</a>, <a href="./Rx04D.html#Diltiazem">diltiazem</a>, <a href="./Rx22V.html#Verapamil">verapamil</a>, <a href="./Rx19S.html#Spironolactone">spironolactone</a>, <a href="./Rx20T.html#Triamterene">triamterene</a>, <a href="./Rx02B.html#Benazepril">benazepril</a>, <a href="./Rx03C.html#Captopril">captopril</a>, <a href="./Rx03C.html#Cilazapril">cilazapril</a>, <a href="./Rx05E.html#Enalapril">enalapril</a>, <a href="./Rx06F.html#Fosinopril">fosinopril</a>, <a href="./Rx12L.html#Lisinopril">lisinopril</a>, <a href="./Rx16P.html#Perindopril">perindopril</a>, <a href="./Rx17Q.html#Quinapril">quinapril</a>, <a href="./Rx18R.html#Ramipril">ramipril</a>, <a href="./Rx20T.html#Trandolapril">trandolapril</a>, <a href="./Rx03C.html#Candesartan">candesartan</a>, <a href="./Rx05E.html#Eprosartan">eprosartan</a>, <a href="./Rx09I.html#Irbesartan">irbesartan</a>, <a href="./Rx12L.html#Losartan">losartan</a>, <a href="./Rx20T.html#Telmisartan">telmisartan</a>, <a href="./Rx22V.html#Valsartan">valsartan</a> ]]></ancreg5>
+  <allaitement1> Methyldopa 250 mg PO BID (augmenter jusqu'à 500 mg PO QID), 
+  clonidine 0.05-0.2 mg PO BID-QID (dose maximale de 0.8 mg/j), 
+  bisoprolol, 
+  labetalol 100-200 mg PO BID (augmenter jusqu'à 300 mg PO QID), 
+  metoprolol, 
+  oxprenolol, 
+  pindolol,
+  propranolol, 
+  timolol, 
+  nifedipine XL 20-30 mg PO DIE-BID (dose maximale: 120 mg/j), 
+  diltiazem, 
+  verapamil, 
+  hydralazine 10 mg PO QID (augmenter jusqu'à 50 mg PO QID), 
+  hydrochlorothiazide,
+  furosemide, 
+  spironolactone, 
+  benazepril, 
+  captopril, 
+  cilazapril, 
+  enalapril, 
+  fosinopril, 
+  lisinopril, 
+  perindopril, 
+  quinapril, 
+  ramipril, 
+  trandolapril</allaitement1>
   <allaitement2> Acebutolol, atenolol, amlodipine, felodipine, chlorthalidone, indapamide, metolazone, ethacrynique (acide), amiloride, triamterene, candesartan, eprosartan, irbesartan, losartan, telmisartan, valsartan </allaitement2>
-  <ancrea1><![CDATA[ <a href="./Rx13M.html#Methyldopa">methyldopa</a>, <a href="./Rx03C.html#Clonidine">clonidine</a>, <a href="./Rx12L.html#Labetalol">labetalol</a>, <a href="./Rx02B.html#Bisoprolol">bisoprolol</a>, <a href="./Rx13M.html#Metoprolol">metoprolol</a>, <a href="./Rx15O.html#Oxprenolol">oxprenolol</a>, <a href="./Rx16P.html#Pindolol">pindolol</a>, <a href="./Rx16P.html#Propranolol">propranolol</a>, <a href="./Rx20T.html#Timolol">timolol</a>, <a href="./Rx14N.html#Nifedipine">nifedipine</a>, <a href="./Rx04D.html#Diltiazem">diltiazem</a>, <a href="./Rx22V.html#Verapamil">verapamil</a>, <a href="./Rx08H.html#Hydralazine">hydralazine</a>, <a href="./Rx08H.html#Hydrochlorothiazide">hydrochlorothiazide</a>, <a href="./Rx06F.html#Furosemide">furosemide</a>,  <a href="./Rx19S.html#Spironolactone">spironolactone</a>, <a href="./Rx02B.html#Benazepril">benazepril</a>, <a href="./Rx03C.html#Captopril">captopril</a>, <a href="./Rx03C.html#Cilazapril">cilazapril</a>, <a href="./Rx05E.html#Enalapril">enalapril</a>, <a href="./Rx06F.html#Fosinopril">fosinopril</a>, <a href="./Rx12L.html#Lisinopril">lisinopril</a>, <a href="./Rx16P.html#Perindopril">perindopril</a>, <a href="./Rx17Q.html#Quinapril">quinapril</a>, <a href="./Rx18R.html#Ramipril">ramipril</a>, <a href="./Rx20T.html#Trandolapril">trandolapril</a> ]]></ancrea1>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx13M.html#Methyldopa">methyldopa 250 mg PO BID (augmenter jusqu'à 500 mg PO QID)</a></li>
+  <li><a href="./Rx03C.html#Clonidine">clonidine 0.05-0.2 mg PO BID-QID (dose maximale de 0.8 mg/j)</a></li>
+  <li><a href="./Rx12L.html#Labetalol">labetalol 100-200 mg PO BID (augmenter jusqu'à 300 mg PO QID)</a></li>
+  <li><a href="./Rx02B.html#Bisoprolol">bisoprolol</a></li>
+  <li><a href="./Rx13M.html#Metoprolol">metoprolol</a></li>
+  <li><a href="./Rx15O.html#Oxprenolol">oxprenolol</a></li>
+  <li><a href="./Rx16P.html#Pindolol">pindolol</a></li>
+  <li><a href="./Rx16P.html#Propranolol">propranolol</a></li>
+  <li><a href="./Rx20T.html#Timolol">timolol</a></li>
+  <li><a href="./Rx14N.html#Nifedipine">nifedipine XL 20-30 mg PO DIE-BID (dose maximale: 120 mg/j)</a></li>
+  <li><a href="./Rx04D.html#Diltiazem">diltiazem</a></li>
+  <li><a href="./Rx22V.html#Verapamil">verapamil</a></li>
+  <li><a href="./Rx08H.html#Hydralazine">hydralazine 10 mg PO QID (augmenter jusqu'à 50 mg PO QID)</a></li>
+  <li><a href="./Rx08H.html#Hydrochlorothiazide">hydrochlorothiazide</a></li>
+  <li><a href="./Rx06F.html#Furosemide">furosemide</a></li>
+  <li><a href="./Rx19S.html#Spironolactone">spironolactone</a></li>
+  <li><a href="./Rx02B.html#Benazepril">benazepril</a></li>
+  <li><a href="./Rx03C.html#Captopril">captopril</a></li>
+  <li><a href="./Rx03C.html#Cilazapril">cilazapril</a></li>
+  <li><a href="./Rx05E.html#Enalapril">enalapril</a></li>
+  <li><a href="./Rx06F.html#Fosinopril">fosinopril</a></li>
+  <li><a href="./Rx12L.html#Lisinopril">lisinopril</a></li>
+  <li><a href="./Rx16P.html#Perindopril">perindopril</a></li>
+  <li><a href="./Rx17Q.html#Quinapril">quinapril</a></li>
+  <li><a href="./Rx18R.html#Ramipril">ramipril</a></li>
+  <li><a href="./Rx20T.html#Trandolapril">trandolapril</a></li>
+           </ul>]]></ancrea1>
   <ancrea2><![CDATA[ <a href="./Rx01A.html#Acebutolol">acebutolol</a>, <a href="./Rx01A.html#Atenolol">atenolol</a>, <a href="./Rx01A.html#Amlodipine">amlodipine</a>, <a href="./Rx06F.html#Felodipine">felodipine</a>, <a href="./Rx03C.html#Chlorthalidone">chlorthalidone</a>, <a href="./Rx09I.html#Indapamide">indapamide</a>, <a href="./Rx13M.html#Metolazone">metolazone</a>, <a href="./Rx05E.html#Ethacrynique">ethacrynique (acide)</a>, <a href="./Rx01A.html#Amiloride">amiloride</a>, <a href="./Rx20T.html#Triamterene">triamterene</a>, <a href="./Rx03C.html#Candesartan">candesartan</a>, <a href="./Rx05E.html#Eprosartan">eprosartan</a>, <a href="./Rx09I.html#Irbesartan">irbesartan</a>, <a href="./Rx12L.html#Losartan">losartan</a>, <a href="./Rx20T.html#Telmisartan">telmisartan</a>, <a href="./Rx22V.html#Valsartan">valsartan</a> ]]></ancrea2>
  </tableau>
 
@@ -234,13 +487,25 @@
  <tableau>
   <indication> Pharyngite</indication>
   <ancrei><![CDATA[<a name="Pharyngite">Pharyngite</a>]]></ancrei>
-  <grossesse1> Penicillin V, amoxicillin</grossesse1>
-  <grossesse2> Erythromycin, clarithromycin (à partir du deuxième trimestre), cephalexin, cefadroxil, clindamycin, amoxicillin + clavulanate</grossesse2>
+  <grossesse1> Penicillin V 300 mg PO QID x 10 j</grossesse1>
+  <grossesse2> Erythromycin 500 mg PO QID x 10 j, 
+  clarithromycin 250 mg PO BID x 10 j (à partir du deuxième trimestre), 
+  cephalexin 500 mg PO BID x 10 j, 
+  cefadroxil 1000 mg PO DIE x 10 j, 
+  clindamycin 300 mg PO BID x 10 j,
+  amoxicillin + clavulanate 875 mg PO BID x 10 j</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Clarithromycin (premier trimestre seulement) </grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx16P.html#PenicillinV">penicillin V</a>, <a href="./Rx01A.html#Amoxicillin">amoxicillin</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx03C.html#Cefadroxil">cefadroxil</a>, <a href="./Rx03C.html#Clindamycin">clindamycin</a>, <a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a> ]]></ancreg2>
+  <ancreg1><![CDATA[<a href="./Rx16P.html#PenicillinV">penicillin V 300 mg PO QID x 10 j</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<ul>
+  <li><a href="./Rx05E.html#Erythromycin">erythromycin 500 mg PO QID x 10 j</a></li>
+  <li><a href="./Rx03C.html#Clarithromycin">clarithromycin 250 mg PO BID x 10 j (à partir du deuxième trimestre)</a></li>
+  <li><a href="./Rx03C.html#Cephalexin">cephalexin 500 mg PO BID x 10 j</a></li>
+  <li><a href="./Rx03C.html#Cefadroxil">cefadroxil 1000 mg PO DIE x 10 j</a></li>
+  <li><a href="./Rx03C.html#Clindamycin">clindamycin 300 mg PO BID x 10 j</a></li>
+  <li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate 875 mg PO BID x 10 j</a></li>
+           </ul>]]></ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4><![CDATA[ <a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a> ]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
@@ -253,147 +518,292 @@
  <tableau>
   <indication> Pneumonie acquise en communauté: patiente hospitalisée</indication>
   <ancrei><![CDATA[<a name="PneumoniePatienteHospitalisee">Pneumonie acquise en communauté: patiente hospitalisée</a>]]></ancrei>
-  <grossesse1> Cefotaxime + [erythromycin ou non], ceftriaxone + [erythromycin ou non] </grossesse1>
-  <grossesse2> Azithromycin intraveineux (à partir du deuxième trimestre) </grossesse2>
-  <grossesse3> Ciprofloxacin intraveineux</grossesse3>
-  <grossesse4> Azithromycin intraveineux (premier trimestre seulement) </grossesse4>
+  <grossesse1> Cefotaxime 1-2 g IV q8h + [erythromycin 500-1000 mg PO q6h ou non], 
+  ceftriaxone 1 g IV q12-24h + [erythromycin 500-1000 mg PO q6h ou non] </grossesse1>
+  <grossesse2> Azithromycin 500 mg IV q24h (à partir du deuxième trimestre) </grossesse2>
+  <grossesse3> Ciprofloxacin 400 mg IV q12h</grossesse3>
+  <grossesse4> Azithromycin IV (premier trimestre seulement) </grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<ul><li><a href="./Rx03C.html#Cefotaxime">cefotaxime</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou non)</li><li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou non)</li></ul>]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (en intraveineux, à partir du deuxième trimestre)</a>]]></ancreg2>
-  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin (en intraveineux)</a>]]></ancreg3>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx03C.html#Cefotaxime">cefotaxime 1-2 g IV q8h</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO q6h</a> ou non)</li>
+  <li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone 1 g IV q12-24h</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO q6h</a> ou non)</li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin 500 mg IV q24h (à partir du deuxième trimestre)</a>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q12h</a>]]></ancreg3>
   <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (en intraveineux, premier trimestre seulement)</a>]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Idem</allaitement1>
+  <allaitement1> Cefotaxime 1-2 g IV q8h + [erythromycin 500-1000 mg PO q6h ou non], 
+  ceftriaxone 1 g IV q12-24h + [erythromycin 500-1000 mg PO q6h ou non],
+  levofloxacin 500 mg IV q24h,
+  moxifloxacin 400 mg IV q24h,
+  azithromycin 500 mg IV q24h,
+  ciprofloxacin 400 mg IV q12h</allaitement1>
+  <allaitement2> Sans objet</allaitement2>
+ <ancrea1><![CDATA[<ul>
+ <li><a href="./Rx03C.html#Cefotaxime">cefotaxime 1-2 g IV q8h</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO q6h</a> ou non)</li>
+ <li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone 1 g IV q12-24h</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO q6h</a> ou non)</li>
+ <li><a href="./Rx01A.html#Azithromycin">azithromycin 500 mg IV q24h</a></li>
+ <li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q12h</a></li>
+ <li><a href="./Rx12L.html#Levofloxacin">levofloxacin 500 mg IV q24h</a></li>
+ <li><a href="./Rx13M.html#Moxifloxacin">moxifloxacin 400 mg IV q24h</a></li>
+          </ul>]]></ancrea1>
+ <ancrea2>sans objet</ancrea2>
+ </tableau>
+
+ <tableau>
+  <indication> Pneumonie acquise en communauté: traitement de relais</indication>
+  <ancrei><![CDATA[<a name="PneumonieTxRelais">Pneumonie acquise en communauté: traitement de relais</a>]]></ancrei>
+  <grossesse1> Cefprozil 500 mg PO BID + [erythromycin 500-1000 mg PO QID ou clarithromycin 500 mg PO BID ou non], 
+  cefuroxime axetil 500 mg PO BID + [erythromycin 500-1000 mg PO QID ou clarithromycin 500 mg PO BID ou non],
+  clarithromycin 500 mg PO BID + (cefuroxime axetil 500 mg PO BID ou non),
+  erythromycin 500-1000 mg PO QID + (cefuroxime axetil 500 mg PO BID ou non)
+  durée de traitement pour toutes les options ci-dessus: 10-14 j au total</grossesse1>
+  <grossesse2> Azithromycin 500 mg PO DIE x 10-14 j au total (à partir du deuxième trimestre)</grossesse2>
+  <grossesse3> Ciprofloxacin 500-750 mg PO BID x 10-14 j au total</grossesse3>
+  <grossesse4> Azithromycin (premier trimestre seulement), clarithromycin (premier trimestre seulement)</grossesse4>
+  <grossesse5> Sans objet</grossesse5>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx03C.html#Cefprozil">cefprozil 500 mg PO BID</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO QID</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID (à partir du deuxième trimestre)</a> ou non)</li>
+  <li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil 500 mg PO BID</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO QID</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID (à partir du deuxième trimestre)</a> ou non)</li>
+  <li><a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO QID</a> + (<a href="./Rx03C.html#Cefuroxime">cefuroxime axetil 500 mg PO BID</a> ou non)</li>
+  <li><a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID (à partir du deuxième trimestre)</a> + (<a href="./Rx03C.html#Cefuroxime">cefuroxime axetil 500 mg PO BID</a> ou non)</li>
+  <li>durée de traitement pour toutes les options ci-dessus: 10-14 j au total</li>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin 500 mg PO DIE x 10-14 j au total (à partir du deuxième trimestre)</a>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 500-750 mg PO BID x 10-14 j au total</a>]]></ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>]]></ancreg4>
+  <ancreg5>sans objet</ancreg5>
+  <allaitement1> idem</allaitement1>
   <allaitement2> Sans objet</allaitement2>
   <ancrea1>idem</ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
-  <indication> Pneumonie acquise en communauté: traitement de relais</indication>
-  <ancrei><![CDATA[<a name="PneumonieTxRelais">Pneumonie acquise en communauté: traitement de relais</a>]]></ancrei>
-  <grossesse1> Cefprozil + [erythromycin ou clarithromycin ou non], cefuroxime axetil + [erythromycin ou clarithromycin ou non] </grossesse1>
-  <grossesse2> Azithromycin (à partir du deuxième trimestre) </grossesse2>
-  <grossesse3> Ciprofloxacin</grossesse3>
-  <grossesse4> Azithromycin (premier trimestre seulement), clarithromycin (premier trimestre seulement) </grossesse4>
-  <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<ul><li><a href="./Rx03C.html#Cefprozil">cefprozil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou non)</li></ul>]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a>]]></ancreg2>
-  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>]]></ancreg3>
-  <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>]]></ancreg4>
-  <ancreg5>sans objet</ancreg5>
-  <allaitement1> Cefprozil + [erythromycin ou clarithromycin ou non], cefuroxime axetil + [erythromycin ou clarithromycin ou non], azithromycin, ciprofloxacin </allaitement1>
-  <allaitement2> Sans objet</allaitement2>
-  <ancrea1><![CDATA[<ul><li><a href="./Rx03C.html#Cefprozil">cefprozil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin</a> ou non)</li><li><a href="./Rx01A.html#Azithromycin">azithromycin</a></li><li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a></li></ul>]]></ancrea1>
-  <ancrea2>sans objet</ancrea2>
- </tableau>
-
- <tableau>
   <indication> Pneumonie acquise en communauté: milieu ambulatoire</indication>
   <ancrei><![CDATA[<a name="PneumonieMilieuAmbulatoire">Pneumonie acquise en communauté: milieu ambulatoire</a>]]></ancrei>
-  <grossesse1> Erythromycin, clarithromycin (à partir du deuxième trimestre) </grossesse1>
-  <grossesse2> Azithromycin (à partir du deuxième trimestre), doxycycline (premier trimestre seulement), amoxicillin + [erythromycin ou clarithromycin ou azithromycin ou non], cefprozil [erythromycin ou clarithromycin ou azithromycin ou non], cefuroxime axetil [erythromycin ou clarithromycin ou azithromycin ou non], amoxicillin + clavulanate + [erythromycin ou clarithromycin ou azithromycin ou non] </grossesse2>
+  <grossesse1> Erythromycin 500-1000 mg PO BID-QID x 10-14 j, 
+  clarithromycin 500 mg PO BID x 10-14 j (à partir du deuxième trimestre) </grossesse1>
+  <grossesse2> Azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre),
+  doxycycline 100 mg PO BID (premier trimestre seulement), 
+  amoxicillin 500-1000 mg PO TID + [erythromycin 500-1000 mg PO BID-QID ou clarithromycin 500 mg PO BID ou azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j ou non], 
+  cefprozil 500 mg PO BID + [erythromycin 500-1000 mg PO BID-QID ou clarithromycin 500 mg PO BID ou azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j ou non],
+  cefuroxime axetil 500 mg PO BID + [erythromycin 500-1000 mg PO BID-QID ou clarithromycin 500 mg PO BID ou azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j ou non],
+  amoxicillin + clavulanate 875 mg PO BID + [erythromycin 500-1000 mg PO BID-QID ou clarithromycin 500 mg PO BID ou azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j ou non]
+  durée de traitement pour toutes les options ci-dessus sauf azithromycin:10-14 j</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Azithromycin (premier trimestre seulement), clarithromycin (premier trimestre seulement), doxycycline (deuxième et troisième trimestre), levofloxacin, moxifloxacin </grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx05E.html#Erythromycin">erythromycin</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a>]]></ancreg1>
-  <ancreg2><![CDATA[<ul><li><a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a></li><li><a href="./Rx04D.html#Doxycycline">doxycycline (premier trimestre seulement)</a></li><li><a href="./Rx01A.html#Amoxicillin">amoxicillin</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ou non)</li><li><a href="./Rx03C.html#Cefprozil">cefprozil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ou non)</li><li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin (à partir du deuxième trimestre)</a> ou non)</li></ul>]]></ancreg2>
+  <ancreg1><![CDATA[<ul>
+  <a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg BID-QID x 10-14 j</a>, 
+  <a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID x 10-14 j (à partir du deuxième trimestre)</a>
+           </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<ul>
+  <li><a href="./Rx01A.html#Azithromycin">azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre)</a></li>
+  <li><a href="./Rx04D.html#Doxycycline">doxycycline 100 mg PO BID (premier trimestre seulement)</a></li>
+  <li><a href="./Rx01A.html#Amoxicillin">amoxicillin 500-1000 mg PO TID</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO BID-QID</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre)</a> ou non)</li>
+  <li><a href="./Rx03C.html#Cefprozil">cefprozil 500 mg PO BID </a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO BID-QID</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre)</a> ou non)</li>
+  <li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil 500 mg PO BID </a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO BID-QID</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre)</a> ou non)</li>
+  <li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate 875 mg PO BID</a> + (<a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg PO BID-QID</a> ou <a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID (à partir du deuxième trimestre)</a> ou <a href="./Rx01A.html#Azithromycin">azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre)</a> ou non)</li>
+  <li>durée de traitement pour toutes les options ci-dessus sauf azithromycin: 10-14 j</li>
+  </ul>]]></ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4><![CDATA[<a href="./Rx01A.html#Azithromycin">azithromycin (premier trimestre seulement)</a>, <a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>, <a href="./Rx04D.html#Doxycycline">doxycycline (deuxième et troisième trimestres)</a>, <a href="./Rx12L.html#Levofloxacin">levofloxacin</a>, <a href="./Rx13M.html#Moxifloxacin">moxifloxacin</a></li></ul> ]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Idem, levofloxacin, moxifloxacin</allaitement1>
+  <allaitement1> Idem, 
+  levofloxacin 500 mg PO DIE x 7-10 j, 
+  moxifloxacin 400 mg PO DIE x 7-10 j</allaitement1>
   <allaitement2> Sans objet</allaitement2>
-  <ancrea1><![CDATA[ Idem, <a href="./Rx12L.html#Levofloxacin">levofloxacin</a>, <a href="./Rx13M.html#Moxifloxacin">moxifloxacin</a> ]]></ancrea1>
+  <ancrea1><![CDATA[<ul>
+  <li>idem</li>
+  <li><a href="./Rx12L.html#Levofloxacin">levofloxacin 500 mg PO DIE x 7-10 j</a></li>
+  <li><a href="./Rx13M.html#Moxifloxacin">moxifloxacin 400 mg PO DIE x 7-10 j</a></li>
+           </ul>]]></ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Prophylaxie post-coïtale</indication>
   <ancrei><![CDATA[<a name="ProphylaxiePostCoitale">Prophylaxie post-coïtale</a>]]></ancrei>
-  <grossesse1> Nitrofurantoin, cephalexin</grossesse1>
+  <grossesse1> Nitrofurantoin 50 mg PO x 1 dose, 
+  cephalexin 250 mg PO x 1 dose</grossesse1>
   <grossesse2> Sans objet</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> trimethoprim + sulfamethoxazole, norfloxacin, ciprofloxacin, ofloxacin</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a> ]]></ancreg1>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin 50 mg PO x 1 dose</a></li>
+  <li><a href="./Rx03C.html#Cephalexin">cephalexin 250 mg PO x 1 dose</a></li>
+           </ul>]]></ancreg1>
   <ancreg2>sans objet</ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a> ]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Nitrofurantoin, trimethoprim + sulfamethoxazole, norfloxacin, ciprofloxacin, ofloxacin, cephalexin</allaitement1>
+  <allaitement1> Nitrofurantoin 50-100 mg PO x 1 dose, 
+  trimethoprim + sulfamethoxazole 40/200 mg PO x 1 dose, 
+  norfloxacin 200 mg PO x 1 dose,
+  ciprofloxacin 250 mg PO x 1 dose, 
+  ofloxacin 100 mg PO x 1 dose, 
+  cephalexin 250 mg PO x 1 dose</allaitement1>
   <allaitement2> Sans objet</allaitement2>
-  <ancrea1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>, <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a> ]]></ancrea1>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin 50-100 mg PO x 1 dose</a></li>
+  <li><a href="./Rx03C.html#Cephalexin">cephalexin 250 mg PO x 1 dose</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 40/200 mg PO x 1 dose</a></li>
+  <li><a href="./Rx14N.html#Norfloxacin">norfloxacin 200 mg PO x 1 dose</a></li>
+  <li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 250 mg PO x 1 dose</a></li>
+  <li><a href="./Rx15O.html#Ofloxacin">ofloxacin 200 mg PO x 1 dose</a></li>
+           </ul>]]></ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Prophylaxie: traitement suppressif de l'infection urinaire</indication>
   <ancrei><![CDATA[<a name="ProphylaxieTxSuppressif">Prophylaxie: traitement suppressif de l'infection urinaire</a>]]></ancrei>
-  <grossesse1> Nitrofurantoin</grossesse1>
+  <grossesse1> Nitrofurantoin 100 mg PO DIE</grossesse1>
   <grossesse2> Sans objet</grossesse2>
   <grossesse3> Sans objet</grossesse3>
-  <grossesse4> trimethoprim, trimethoprim + sulfamethoxazole, norfloxacin </grossesse4>
+  <grossesse4> trimethoprim, 
+  trimethoprim + sulfamethoxazole, 
+  norfloxacin </grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a> ]]></ancreg1>
+  <ancreg1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin 100 mg PO DIE</a>]]></ancreg1>
   <ancreg2>sans objet</ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Nitrofurantoin, trimethoprim, trimethoprim + sulfamethoxazole, norfloxacin</allaitement1>
+  <allaitement1> Nitrofurantoin 50-100 mg PO DIE, 
+  trimethoprim 100 mg PO DIE,
+  trimethoprim + sulfamethoxazole 40/200 mg PO DIE ou 3 fois par sem,
+  norfloxacin 200 mg PO DIE</allaitement1>
   <allaitement2> Sans objet</allaitement2>
-  <ancrea1><![CDATA[<a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>]]></ancrea1>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin 50-100 mg PO DIE</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 40/200 mg PO DIE ou 3 fois par semaine</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim 100 mg PO DIE</a></li>
+  <li><a href="./Rx14N.html#Norfloxacin">norfloxacin 200 mg PO DIE</a></li>
+           </ul>]]></ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Pyélonéphrite aiguë</indication>
   <ancrei><![CDATA[<a name="PyelonephriteAigue">Pyélonéphrite aiguë</a>]]></ancrei>
-  <grossesse1> Ampicillin + [gentamicin ou non], cefazolin + [gentamicin ou non], cefuroxime, ceftriaxone, gentamicin</grossesse1>
+  <grossesse1> ampicillin 1-2 g IV q6h + [gentamicin 1.5 mg/kg/dose IV q8h ou non], 
+  cefazolin 1-2 g IV q8h + [gentamicin 1.5 mg/kg/dose IV q8h ou non],
+  cefuroxime 0.75-1.5 g IV q8h,
+  ceftriaxone 1-2 g IV ou IM q24h,
+  gentamicin 1.5 mg/kg/dose IV q8h
+  durée de traitement pour toutes les options ci-dessus: ad 48 h afébrile puis traitement oral de relais</grossesse1>
   <grossesse2> Sans objet</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Sans objet</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<ul><li><a href="./Rx01A.html#Ampicillin">ampicillin</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin</a> ou non)</li><li><a href="./Rx03C.html#Cefazolin">cefazolin</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime (en intraveineux)</a></li><li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a></li><li><a href="./Rx07G.html#Gentamicin">gentamicin</a></li></ul>]]></ancreg1>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx01A.html#Ampicillin">ampicillin 1-2 g IV q6h</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin 1.5 mg/kg/dose IV q8h</a> ou non)</li>
+  <li><a href="./Rx03C.html#Cefazolin">cefazolin 1-2 g IV q8h</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin 1.5 mg/kg/dose IV q8h</a> ou non)</li>
+  <li><a href="./Rx03C.html#Cefuroxime">cefuroxime 0.75-1.5 g IV q8h</a></li>
+  <li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone 1-2 g IV ou IM q24h</a></li>
+  <li><a href="./Rx07G.html#Gentamicin">gentamicin 1.5 mg/kg/dose IV q8h</a></li>
+  <li>durée de traitement pour toutes les options ci-dessus: ad 48 h afébrile puis traitement oral de relais</li>
+           </ul>]]></ancreg1>
   <ancreg2>sans objet</ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4>sans objet</ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Ampicillin + [gentamicin ou non], gentamycin + [ampicillin ou ciprofloxacin ou levofloxacin ou piperacillin ou non], ciprofloxacin + [gentamicin ou non]</allaitement1>
-  <allaitement2> Cefazolin, cefuroxime, ceftriaxone </allaitement2>
-  <ancrea1><![CDATA[<ul><li><a href="./Rx01A.html#Ampicillin">ampicillin</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin</a> ou non)</li><li><a href="./Rx07G.html#Gentamicin">gentamicin</a> + (<a href="./Rx01A.html#Ampicillin">ampicillin</a> ou <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ou <a href="./Rx12L.html#Levofloxacin">levofloxacin</a> ou <a href="./Rx16P.html#Piperacillin">piperacillin avec ou sans tazobactam</a> ou non)</li><li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin</a> ou non) </li></ul>]]></ancrea1>
-  <ancrea2><![CDATA[<a href="./Rx03C.html#Cefazolin">cefazolin</a>, <a href="./Rx03C.html#Cefuroxime">cefuroxime (en intraveineux)</a>, <a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a> (Les céphalosporines, malgré leur compatibilité en grossesse, sont en général moins efficaces que les traitements ci-dessus pour cette indication à cause de la forte résistance bactérienne à cette classe d'antibiotiques.) ]]></ancrea2>
+  <allaitement1> ampicillin 1-2 g IV q6h + [gentamicin 1.5 mg/kg/dose IV q8h ou non], 
+  gentamycin 1.5 mg/kg/dose IV q8h + [ampicillin 1-2 g IV q6h ou ciprofloxacin 400 mg IV q12h ou levofloxacin 250-500 mg IV q24h ou piperacillin 2 g IV q6h ou non],
+  ciprofloxacin 400 mg IV q12h + [gentamicin 1.5 mg/kg/dose IV q8h ou non]
+  durée de traitement pour toutes les options ci-dessus: ad 48 h afébrile puis traitement oral de relais
+  </allaitement1>
+  <allaitement2> Cefazolin, 
+  cefuroxime,
+  ceftriaxone </allaitement2>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx01A.html#Ampicillin">ampicillin 1-2 g IV q6h</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin 1.5 mg/kg/dose IV q8h</a> ou non)</li>
+  <li><a href="./Rx07G.html#Gentamicin">gentamicin 1.5 mg/kg/dose IV q8h</a> + (<a href="./Rx01A.html#Ampicillin">ampicillin 1-2 g IV q6h</a> ou <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q12h</a> ou <a href="./Rx12L.html#Levofloxacin">levofloxacin 250-500 mg IV q24h</a> ou <a href="./Rx16P.html#Piperacillin">piperacillin avec ou sans tazobactam 2 g IV q6h</a> ou non)</li>
+  <li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 400 mg IV q12h</a> + (<a href="./Rx07G.html#Gentamicin">gentamicin 1.5 mg/kg/dose IV q8h</a> ou non)</li>
+   <li>durée de traitement pour toutes les options ci-dessus: ad 48 h afébrile puis traitement oral de relais</li>
+           </ul>]]></ancrea1>
+  <ancrea2><![CDATA[<ul>
+  <li><a href="./Rx03C.html#Cefazolin">cefazolin</a></li>
+  <li><a href="./Rx03C.html#Cefuroxime">cefuroxime (en intraveineux)</a></li>
+  <li><a href="./Rx03C.html#Ceftriaxone">ceftriaxone</a></li>
+  <li>Les céphalosporines, malgré leur compatibilité en grossesse, sont en général moins efficaces que les traitements ci-dessus pour cette indication à cause de la forte résistance bactérienne à cette classe d'antibiotiques.</li>
+	       </ul>]]></ancrea2>
  </tableau>
 
  <tableau>
   <indication> Pyélonéphrite aiguë: traitement de relais</indication>
   <ancrei><![CDATA[<a name="PyelonephriteAigueTxRelais">Pyélonéphrite aiguë: traitement de relais</a>]]></ancrei>
-  <grossesse1> Cephalexin, cefprozil, amoxicillin + clavulanate, trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</grossesse1>
+  <grossesse1> Cephalexin 500 mg PO QID, 
+  cefprozil 500 mg PO BID, 
+  amoxicillin + clavulanate 875 mg PO BID, 
+  trimethoprim + sulfamethoxazole 160/800 mg PO BID (à partir du deuxième trimestre)
+  durée de traitement pour toutes les options ci-dessus: 10-14 jours au total
+  </grossesse1>
   <grossesse2> Sans objet</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent) </grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx03C.html#Cefprozil">cefprozil</a>, <a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a> ]]></ancreg1>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx03C.html#Cephalexin">cephalexin 500 mg PO QID</a></li>
+  <li><a href="./Rx03C.html#Cefprozil">cefprozil 500 mg PO BID</a></li>
+  <li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate 875 mg PO BID</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 160/800 mg PO BID (à partir du deuxième trimestre)</a></li>
+  <li>durée de traitement pour toutes les options ci-dessus: 10-14 jours au total</li>
+	       </ul>]]></ancreg1>
   <ancreg2>sans objet</ancreg2>
   <ancreg3>sans objet</ancreg3>
-  <ancreg4><![CDATA[<a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
+  <ancreg4><![CDATA[<a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Ciprofloxacin, levofloxacin, norfloxacin, ofloxacin, trimethoprim + sulfamethoxazole, nitrofurantoin</allaitement1>
-  <allaitement2> Cephalexin, cefprozil, amoxicillin + clavulanate </allaitement2>
-  <ancrea1><![CDATA[ <a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a>, <a href="./Rx12L.html#Levofloxacin">levofloxacin</a>, <a href="./Rx14N.html#Norfloxacin">norfloxacin</a>, <a href="./Rx15O.html#Ofloxacin">ofloxacin</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole</a>, <a href="./Rx14N.html#Nitrofurantoin">nitrofurantoin</a> ]]></ancrea1>
-  <ancrea2><![CDATA[<a href="./Rx03C.html#Cephalexin">cephalexin</a>, <a href="./Rx03C.html#Cefprozil">cefprozil</a>, <a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a> (Ces médicaments, malgré leur compatibilité en grossesse, sont en général moins efficaces que les traitements ci-dessus pour cette indication à cause de la forte résistance bactérienne à ces antibiotiques.) ]]></ancrea2>
+  <allaitement1> Ciprofloxacin 500 mg PO BID,
+  levofloxacin 250-500 mg PO DIE,
+  norfloxacin 400 mg PO BID,
+  ofloxacin 400 mg PO BID, 
+  trimethoprim + sulfamethoxazole 160/800 mg PO BID,
+  cephalexin 500 mg PO QID,
+  cefprozil 500 mg PO BID,
+  amoxicillin + clavulanate 875 mg PO BID
+  durée de traitement pour toutes les options ci-dessus: 10-14 jours au total</allaitement1>
+  <allaitement2>sans objet</allaitement2>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 500 mg PO BID</a></li>
+  <li><a href="./Rx12L.html#Levofloxacin">levofloxacin 250-500 mg PO DIE</a></li>
+  <li><a href="./Rx14N.html#Norfloxacin">norfloxacin 400 mg PO BID</a></li>
+  <li><a href="./Rx15O.html#Ofloxacin">ofloxacin 400 mg PO BID</a></li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 160/800 mg PO BID</a></li>
+  <li><a href="./Rx03C.html#Cephalexin">cephalexin 500 mg PO QID</a></li>
+  <li><a href="./Rx03C.html#Cefprozil">cefprozil 500 mg PO BID</a></li>
+  <li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate 875 mg PO BID</a></li>
+  <li>durée de traitement pour toutes les options ci-dessus: 10-14 jours au total</li>
+	       </ul>]]></ancrea1>
+  <ancrea2>sans objet</ancrea2>
  </tableau>
 
  <tableau>
   <indication> Sinusite</indication>
   <ancrei><![CDATA[<a name="Sinusite">Sinusite</a>]]></ancrei>
-  <grossesse1> Amoxicillin</grossesse1>
-  <grossesse2> Amoxicillin + clavulanate + [clindamycin ou metronidazole ou non], cefprozil + [clindamycin ou metronidazole ou non], cefuroxime axetil + [clindamycin ou metronidazole ou non], clarithromycin (à partir du deuxième trimestre)  + [clindamycin ou metronidazole ou non], trimethoprim + sulfamethoxazole (deuxième trimestre seulement) + [clindamycin ou metronidazole ou non]</grossesse2>
-  <grossesse3> Ciprofloxacin</grossesse3>
+  <grossesse1> Amoxicillin 500 mg PO TID x 10-14 j</grossesse1>
+  <grossesse2> Amoxicillin + clavulanate 875 mg PO BID + [clindamycin 300-450 mg PO TID-QID ou metronidazole 500 mg PO TID-QID ou non], 
+  cefprozil 250-500 mg PO BID + [clindamycin 300-450 mg PO TID-QID ou metronidazole 500 mg PO TID-QID ou non], 
+  cefuroxime axetil 250-500 mg PO BID + [clindamycin 300-450 mg PO TID-QID ou metronidazole 500 mg PO TID-QID ou non], 
+  clarithromycin 500 mg PO BID (à partir du deuxième trimestre)  + [clindamycin 300-450 mg PO TID-QID ou metronidazole 500 mg PO TID-QID ou non], 
+  trimethoprim + sulfamethoxazole 160/800 mg PO BID (deuxième trimestre seulement) + [clindamycin 300-450 mg PO TID-QID ou metronidazole 500 mg PO TID-QID ou non]
+  durée de traitement pour toutes les options ci-dessus: 10-14 j</grossesse2>
+  <grossesse3> Ciprofloxacin 500-750 mg PO BID x 10-14 j</grossesse3>
   <grossesse4> Clarithromycin (premier trimestre seulement), trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx01A.html#Amoxicillin">Amoxicillin</a> ]]></ancreg1>
-  <ancreg2><![CDATA[<ul><li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li><li><a href="./Rx03C.html#Cefprozil">cefprozil</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li><li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li><li><a href="./Rx03C.html#Clarithromycin">clarithromycin (à partir du deuxième trimestre)</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li><li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (à partir du deuxième trimestre)</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole</a> ou non)</li></ul> ]]></ancreg2>
-  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin</a> ]]></ancreg3>
+  <ancreg1><![CDATA[<a href="./Rx01A.html#Amoxicillin">Amoxicillin 500 mg PO TID x 10-14 j</a> ]]></ancreg1>
+  <ancreg2><![CDATA[<ul>
+  <li><a href="./Rx01A.html#AmoxicillinClavulanate">amoxicillin + clavulanate 875 mg PO BID</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin 300-450 mg PO TID-QID</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole 500 mg PO TID-QID</a> ou non)</li>
+  <li><a href="./Rx03C.html#Cefprozil">cefprozil 250-500 mg PO BID</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin 300-450 mg PO TID-QID</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole 500 mg PO TID-QID</a> ou non)</li>
+  <li><a href="./Rx03C.html#Cefuroxime">cefuroxime axetil 250-500 mg PO BID</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin 300-450 mg PO TID-QID</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole 500 mg PO TID-QID</a> ou non)</li>
+  <li><a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID (à partir du deuxième trimestre)</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin 300-450 mg PO TID-QID</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole 500 mg PO TID-QID</a> ou non)</li>
+  <li><a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole 160/800 mg PO BID (à partir du deuxième trimestre)</a> + (<a href="./Rx03C.html#Clindamycin">clindamycin 300-450 mg PO TID-QID</a> ou <a href="./Rx13M.html#Metronidazole">metronidazole 500 mg PO TID-QID</a> ou non)</li>
+  <li>durée de traitement pour toutes les options ci-dessus: 10-14 j</li>
+           </ul>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx03C.html#Ciprofloxacin">ciprofloxacin 500-750 mg PO BID x 10-14 j</a> ]]></ancreg3>
   <ancreg4><![CDATA[<a href="./Rx03C.html#Clarithromycin">clarithromycin (premier trimestre seulement)</a>, <a href="./Rx20T.html#Trimethoprim">trimethoprim + sulfamethoxazole (premier trimestre et accouchement imminent)</a> ]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
   <allaitement1> Idem</allaitement1>
@@ -405,14 +815,16 @@
  <tableau>
   <indication> Syphilis</indication>
   <ancrei><![CDATA[<a name="Syphilis">Syphilis</a>]]></ancrei>
-  <grossesse1> Si syphilis primaire, secondaire et latente précoce (moins de 1 an): penicillin G benzathine</grossesse1>
-  <grossesse2> Si syphilis latente tardive ou si syphilis latente de durée inconnue: penicillin G benzathine</grossesse2>
-  <grossesse3> Si neurosyphilis: penicillin G sodique</grossesse3>
+  <grossesse1> Si syphilis primaire, secondaire et latente précoce (moins de 1 an): 
+  penicillin G benzathine 2.4 millions U IM x 1 dose</grossesse1>
+  <grossesse2> Si syphilis latente tardive ou si syphilis latente de durée inconnue: 
+  penicillin G benzathine 2.4 millions U IM q1sem x 3 sem</grossesse2>
+  <grossesse3> Si neurosyphilis: penicillin G sodique 3 à 4 millions U IV q4h (16 à 24 millions U par jour) x 10-14 j</grossesse3>
   <grossesse4> Sans objet</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[Si syphilis primaire, secondaire et latente précoce (moins de 1 an): <a href="./Rx16P.html#PenicillinG">penicillin G</a> benzathine]]></ancreg1>
-  <ancreg2><![CDATA[ Si syphilis latente tardive ou si syphilis latente de durée inconnue: <a href="./Rx16P.html#PenicillinG">penicillin G</a> benzathine]]></ancreg2>
-  <ancreg3><![CDATA[ Si neurosyphilis: <a href="./Rx16P.html#PenicillinG">penicillin G</a> sodique]]></ancreg3>
+  <ancreg1><![CDATA[ Si syphilis primaire, secondaire et latente précoce (moins de 1 an): <a href="./Rx16P.html#PenicillinG">penicillin G benzathine 2.4 millions U IM x 1 dose</a>]]></ancreg1>
+  <ancreg2><![CDATA[ Si syphilis latente tardive ou si syphilis latente de durée inconnue: <a href="./Rx16P.html#PenicillinG">penicillin G benzathine 2.4 millions U IM q1sem x 3 sem</a>]]></ancreg2>
+  <ancreg3><![CDATA[ Si neurosyphilis: <a href="./Rx16P.html#PenicillinG">penicillin G sodique 3 à 4 millions U IV q4h x 10-14 j</a>]]></ancreg3>
   <ancreg4>sans objet</ancreg4>
   <ancreg5>sans objet</ancreg5>
   <allaitement1> Idem</allaitement1>
@@ -424,13 +836,13 @@
  <tableau>
   <indication> Trichomonase</indication>
   <ancrei><![CDATA[<a name="Trichomonase">Trichomonase</a>]]></ancrei>
-  <grossesse1> Metronidazole (voie orale unidose)</grossesse1>
-  <grossesse2> Metronidazole (voie orale, traitement de 7 jours)</grossesse2>
+  <grossesse1> Metronidazole 2 g PO x 1 dose</grossesse1>
+  <grossesse2> Metronidazole 500 mg PO BID x 7 j</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Sans objet</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie orale unidose)]]></ancreg1>
-  <ancreg2><![CDATA[<a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie orale, traitement de 7 jours)]]></ancreg2>
+  <ancreg1><![CDATA[<a href="./Rx13M.html#Metronidazole">metronidazole 2 g PO x 1 dose</a>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx13M.html#Metronidazole">metronidazole 500 mg PO BID x 7 j</a>]]></ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4>sans objet</ancreg4>
   <ancreg5>sans objet</ancreg5>
@@ -443,19 +855,31 @@
  <tableau>
   <indication> Vaginose bactérienne</indication>
   <ancrei><![CDATA[<a name="Vaginose">Vaginose bactérienne</a>]]></ancrei>
-  <grossesse1> Clindamycin (voie orale), metronidazole (voie orale)</grossesse1>
+  <grossesse1> Clindamycin 300 mg PO BID x 7 j,
+  metronidazole 500 mg PO BID x 7 j ou 250 mg PO TID x 7 j</grossesse1>
   <grossesse2> Sans objet</grossesse2>
   <grossesse3> Sans objet</grossesse3>
   <grossesse4> Clindamycin (voie orale unidose ou intravaginale), metronidazole (voie orale unidose ou intravaginale)</grossesse4>
   <grossesse5> Sans objet</grossesse5>
-  <ancreg1><![CDATA[<a href="./Rx03C.html#Clindamycin">clindamycin</a> (voie orale,  traitement de 7 jours), <a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie orale, traitement de 7 jours) ]]></ancreg1>
+  <ancreg1><![CDATA[<ul>
+  <li><a href="./Rx03C.html#Clindamycin">clindamycin 300 mg PO BID x 7 j</a></li>
+  <li><a href="./Rx13M.html#Metronidazole">metronidazole 500 mg PO BID x 7 j ou 250 mg PO TID x 7 j</a></li>
+           </ul>]]></ancreg1>
   <ancreg2>sans objet</ancreg2>
   <ancreg3>sans objet</ancreg3>
   <ancreg4><![CDATA[<a href="./Rx03C.html#Clindamycin">clindamycin</a> (voie orale unidose ou intravaginale), <a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie orale unidose ou intravaginale) ]]></ancreg4>
   <ancreg5>sans objet</ancreg5>
-  <allaitement1> Clindamycin (voie topique de préférence, voie orale acceptable), metronidazole (voie topique de préférence, voie orale acceptable) </allaitement1>
+  <allaitement1> Clindamycin gel 2 % 1 dose intravaginale de 5 g DIE x 7 j, 
+  metronidazole gel 0.75 % 1 dose intravaginale de 5 g DIE x 5 j,
+  clindamycin 300 mg PO BID x 7 j,
+  metronidazole 500 mg BID x 7 j </allaitement1>
   <allaitement2> Sans objet</allaitement2>
-  <ancrea1><![CDATA[<a href="./Rx03C.html#Clindamycin">clindamycin</a> (voie topique de préférence, voie orale acceptable), <a href="./Rx13M.html#Metronidazole">metronidazole</a> (voie topique de préférence, voie orale acceptable) ]]></ancrea1>
+  <ancrea1><![CDATA[<ul>
+  <li><a href="./Rx03C.html#Clindamycin">clindamycin gel 2 % 1 dose intravaginale de 5 g DIE x 7 j</a></li>
+  <li><a href="./Rx03C.html#Clindamycin">metronidazole gel 2 % 1 dose intravaginale de 5 g DIE x 5 j</a></li>
+  <li><a href="./Rx13M.html#Metronidazole">metronidazole 500 mg PO BID x 7 j</a></li>
+  <li><a href="./Rx13M.html#Metronidazole">clindamycin 300 mg PO BID x 7 j</a></li>
+           </ul>]]></ancrea1>
   <ancrea2>sans objet</ancrea2>
  </tableau>
 

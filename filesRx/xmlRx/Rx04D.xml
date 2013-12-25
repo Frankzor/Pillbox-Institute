@@ -4,7 +4,7 @@
 
  <tableau>
   <molecule> Dalacin (clindamycin)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Clindamycin">Dalacin (clindamycin)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Clindamycin">Dalacin (clindamycin)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -31,7 +31,7 @@
 
  <tableau>
   <molecule> Diabeta (glyburide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx07G.html#Glyburide">Diabeta (glyburide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx07G.html#Glyburide">Diabeta (glyburide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -58,7 +58,7 @@
 
  <tableau>
   <molecule> Diabinese (chlorpropramide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Chlorpropramide">Diabinese (chlorpropramide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Chlorpropramide">Diabinese (chlorpropramide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -85,7 +85,7 @@
 
  <tableau>
   <molecule> Diamicron (gliclazide)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx07G.html#Gliclazide">Diamicron (gliclazide)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx07G.html#Gliclazide">Diamicron (gliclazide)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -112,7 +112,7 @@
 
  <tableau>
   <molecule> Dilaudid (hydromorphone)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx08H.html#Hydromorphone">Dilaudid (hydromorphone)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx08H.html#Hydromorphone">Dilaudid (hydromorphone)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1> 
@@ -139,7 +139,7 @@
 
  <tableau>
   <molecule> Diltiazem</molecule>
-  <ancrem><![CDATA[<h1><a name="Diltiazem">Diltiazem</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Diltiazem">Diltiazem</a>]]></ancrem>
   <indication> Hypertension</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#Hypertension">Hypertension artérielle</a>]]></ancrei>
   <grossesse1> Malformations squelettiques rapportées chez les animaux avec des doses supérieures aux doses humaines.</grossesse1>
@@ -152,7 +152,7 @@
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
   <recommandationgrossesse> Étant donné les informations limitées, il est préférable d'éviter les bloqueurs de canaux calciques durant le premier trimestre, l'embryogenèse étant un processus dépendant du calcium. Pour le traitement de l'hypertension chronique, il est préférable d'utiliser la methyldopa en premier recours au premier trimestre. Après le premier trimestre, la nifedipine demeure l'agent de premier recours parmi les bloquants du canal calcique pour le traitement de l'hypertension.</recommandationgrossesse>
-  <allaitement1> Dose reçue par l'enfant estimée à moins de 1 % de la dose maternelle ajustée au poids (un seul cas rapporté).</allaitement1>
+  <allaitement1> Passage du médicament dans le lait maternel: dose reçue par l'enfant estimée à moins de 1 % de la dose maternelle ajustée au poids (un seul cas rapporté).</allaitement1>
   <allaitement2> Risque théorique d'hypotension et de bradycardie.</allaitement2>
   <allaitement3> </allaitement3>
   <allaitement4> </allaitement4>
@@ -166,7 +166,7 @@
 
  <tableau>
   <molecule> Diovan (valsartan)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx22V.html#Valsartan">Diovan (valsartan)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx22V.html#Valsartan">Diovan (valsartan)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -193,7 +193,7 @@
  
  <tableau>
   <molecule> Dostinex (cabergoline)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cabergoline">Dostinex (cabergoline)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Cabergoline">Dostinex (cabergoline)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -220,7 +220,7 @@
 
  <tableau>
   <molecule> Doxycycline</molecule>
-  <ancrem><![CDATA[<h1><a name="Doxycycline">Doxycycline</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a name="Doxycycline">Doxycycline</a>]]></ancrem>
   <indication> Pneumonie acquise en communauté, chlamydiose</indication>
   <ancrei><![CDATA[<a href="./00TxPatho.html#PneumonieMilieuAmbulatoire">pneumonie acquise en communauté: milieu ambulatoire</a>, <a href="./00TxPatho.html#Chlamydiose">chlamydiose</a> ]]></ancrei>
   <grossesse1> Pas d'augmentation du taux de malformations majeures notée dans des études de surveillance montrant de nombreux cas de nouveau-nés exposés à des tetracyclines au premier trimestre: plus de 1000 à la tetracycline, près de 1800 à la doxycycline, près de 200 à la minocycline. </grossesse1>
@@ -232,22 +232,22 @@
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Les tetracyclines sont à éviter durant la grossesse, en particulier à partir de 16 semaines de grossesse. Cependant, une exposition à une tetracycline au premier trimestre ne requiert pas de suivi obstétrical particulier.</recommandationgrossesse>
+  <recommandationgrossesse> Les tétracyclines sont à éviter durant la grossesse, en particulier à partir de 16 semaines de grossesse. Cependant, une exposition à une tétracycline au premier trimestre ne requiert pas de suivi obstétrical particulier.</recommandationgrossesse>
   <allaitement1> Biodisponibilité orale bonne.</allaitement1>
-  <allaitement2> Liaison aux protéines plasmatiques: de 80 à 93 %.</allaitement2>
-  <allaitement3> Temps de demi-vie: de 15 à 24 h.</allaitement3>
-  <allaitement4> Les tetracyclines se lient fortement au calcium et aux protéines de lait, ce qui pourrait diminuer l'absorption par l'enfant.</allaitement4>
+  <allaitement2> Liaison aux protéines plasmatiques: 80 à 93 %.</allaitement2>
+  <allaitement3> Temps de demi-vie: 15 à 24 h.</allaitement3>
+  <allaitement4> Les tétracyclines se lient fortement au calcium et aux protéines de lait, ce qui pourrait diminuer l'absorption par l'enfant.</allaitement4>
   <allaitement5> Passage du médicament dans le lait maternel: 27 % de la dose utilisée en pédiatrie (à partir de 8 ans).</allaitement5>
   <allaitement6> Aucun effet indésirable à la suite d'une exposition par le lait maternel n'a été retracé dans la littérature médicale. </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> Si une tetracycline est le traitement de premier recours, l'utilisation à court terme (moins de 3 semaines) des tetracyclines n'est pas contre-indiquée. Toutefois, l'utilisation à long terme (le traitement de l'acné, par exemple) n'est pas recommandé afin d'éviter la coloration permanente des dents, même si ceci n'a pas été rapporté suite à une exposition parble lait maternel. </recommandationallaitement>
+  <recommandationallaitement> Si une tétracycline est le traitement de premier recours, l'utilisation à court terme (moins de 3 semaines) des tétracyclines n'est pas contre-indiquée. Toutefois, l'utilisation à long terme (le traitement de l'acné, par exemple) n'est pas recommandé afin d'éviter la coloration permanente des dents, même si ceci n'a pas été rapporté suite à une exposition par le lait maternel. </recommandationallaitement>
  </tableau>
 
  <tableau>
   <molecule> Duricef (cefadroxil)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx03C.html#Cefadroxil">Duricef (cefadroxil)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx03C.html#Cefadroxil">Duricef (cefadroxil)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
@@ -274,7 +274,7 @@
 
  <tableau>
   <molecule> Dyrenium (triamterene)</molecule>
-  <ancrem><![CDATA[<h1><a href="./Rx20T.html#Triamterene">Dyrenium (triamterene)</a></h1>]]></ancrem>
+  <ancrem><![CDATA[<a href="./Rx20T.html#Triamterene">Dyrenium (triamterene)</a>]]></ancrem>
   <indication> </indication>
   <ancrei> </ancrei>
   <grossesse1> </grossesse1>
