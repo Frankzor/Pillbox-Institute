@@ -6,7 +6,7 @@
     
     options = options || {};
     var defaults = {
-      sort: true, // boolean: if the items should be sorted in the toc and within the page content
+      sort: false, // boolean: if the items should be sorted in the toc and within the page content
       debug: false, // boolean: output debug information to console
       filterInput: null, // a selector: the input element to be used to filter the ToC and content.
       title: ':first', // a selector: Where the title text for each ToC entry is taken from. Default is take from `first`.
@@ -142,7 +142,7 @@
 
     function createFilterInput() {
       var html = '<div class="dynamictoc-filter">' +
-                    '<label>Find</label>' +
+                    '<label>Rechercher:</label>' +
                     '<input type="text" />' +
                   '</div>';
       return $(html);

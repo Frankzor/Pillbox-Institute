@@ -1,3 +1,7 @@
+.highlight
+{
+background-color:yellow;
+}
 .appearOn1
 {
 display: block;
@@ -24,7 +28,11 @@ text-align: center;
 }
 .bigfish
 {
-font-size: 1.4em;
+font-size: 1.2em;
+}
+.verybigfish
+{
+font-size: 1.7em;
 }
 .checkOn
 {
@@ -60,6 +68,10 @@ height: 70px;
 {
 color: rgb(100,0,100);
 }
+.rouge
+{
+color: rgb(240,0,100);
+}
 .blanc
 {
 color: rgb(255,255,255);
@@ -92,7 +104,7 @@ input[type=checkbox]
 body
 {
 margin: 1;
-font-size: 1.2em;
+font-size: 1em;
 }
 .header
 {
@@ -106,12 +118,22 @@ padding-top: 3%;
 .nav
 {
 height: 30px;
+/*
 background-color: #D7D7D7;
+*/
+background-color:#ffffff;
 font-size: 16px;
+/*
 text-align: center;
+*/
+/*
 color: #000;
+*/
+color:#ffffff;
 padding-top: 5px;
 width: 100%;
+opacity:0.6;
+filter:alpha(opacity=40); /* For IE8 and earlier */
 }
 html
 {

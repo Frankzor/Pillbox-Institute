@@ -595,8 +595,8 @@
   <grossesse4> Azithromycin (premier trimestre seulement), clarithromycin (premier trimestre seulement), doxycycline (deuxième et troisième trimestre), levofloxacin, moxifloxacin </grossesse4>
   <grossesse5> Sans objet</grossesse5>
   <ancreg1><![CDATA[<ul>
-  <a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg BID-QID x 10-14 j</a>, 
-  <a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID x 10-14 j (à partir du deuxième trimestre)</a>
+  <li><a href="./Rx05E.html#Erythromycin">erythromycin 500-1000 mg BID-QID x 10-14 j</a></li>, 
+  <li><a href="./Rx03C.html#Clarithromycin">clarithromycin 500 mg PO BID x 10-14 j (à partir du deuxième trimestre)</a></li>
            </ul>]]></ancreg1>
   <ancreg2><![CDATA[<ul>
   <li><a href="./Rx01A.html#Azithromycin">azithromycin 500 mg PO DIE x 1 j, 250 mg PO DIE x 4 j (à partir du deuxième trimestre)</a></li>
@@ -781,6 +781,38 @@
   <ancrea2>sans objet</ancrea2>
  </tableau>
 
+ <tableau>
+  <indication> Rhume ou grippe: congestion nasale</indication>
+  <ancrei><![CDATA[<a name="CongestionNasale">Rhume ou grippe: congestion nasale</a>]]></ancrei>
+  <grossesse1> eau saline, 
+  oxymétazoline 0.05 % 1 vap DCN TID PRN x 3-5 j max,
+  xylométazoline 0.05-0.1 % 1 vap DCN BID x 3-5 j max
+  </grossesse1>
+  <grossesse2> pseudoephedrine 30-120 mg PO BID (à partir du deuxième trimestre)</grossesse2>
+  <grossesse3> sans objet</grossesse3>
+  <grossesse4> pseudoephedrine (premier trimestre seulement), phenylephrine, etafedrine, ephedrine</grossesse4>
+  <grossesse5> sans objet</grossesse5>
+  <ancreg1><![CDATA[<ul>
+  <li>eau saline 1 vap DCN PRN</li>
+  <li><a href="./Rx15O.html#Oxymetazoline">oxymetazoline 0.05 % 1 vap DCN TID PRN x 3-5 j max</a></li>
+  <li><a href="./Rx24X.html#Xylometazoline">xylometazoline 0.05-0.1 % 1 vap DCN BID x 3-5 j max</a></li>
+  </ul>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx16P.html#Pseudoephedrine">pseudoephedrine 30-120 mg PO BID (à partir du deuxième trimestre)</a> ]]></ancreg2>
+  <ancreg3> sans objet</ancreg3>
+ <ancreg4><![CDATA[<a href="./Rx16P.html#Pseudoephedrine">pseudoephedrine (premier trimestre seulement)</a>, <a href="./Rx16P.html#Phenylephrine">phenylephrine</a>, <a href="./Rx05E.html#Etafedrine">etafedrine</a>, <a href="./Rx05E.html#Ephedrine">ephedrine</a>]]></ancreg4>
+  <ancreg5> sans objet</ancreg5>
+  <allaitement1> eau saline, 
+  oxymétazoline 0.05 % 1 vap DCN TID PRN x 3-5 j max,
+  xylométazoline 0.05-0.1 % 1 vap DCN BID x 3-5 j max </allaitement1>
+  <allaitement2> pseudoephedrine, phenylephrine, etafedrine, ephedrine</allaitement2>
+  <ancrea1><![CDATA[<ul>
+  <li>eau saline 1 vap DCN PRN</li>
+  <li><a href="./Rx15O.html#Oxymetazoline">oxymetazoline 0.05 % 1 vap DCN TID PRN x 3-5 j max</a></li>
+  <li><a href="./Rx24X.html#Xylometazoline">xylometazoline 0.05-0.1 % 1 vap DCN BID x 3-5 j max</a></li>
+  </ul>]]></ancrea1>
+  <ancrea2><![CDATA[<a href="./Rx16P.html#Pseudoephedrine">pseudoephedrine</a>, <a href="./Rx16P.html#Phenylephrine">phenylephrine</a>, <a href="./Rx05E.html#Etafedrine">etafedrine</a>, <a href="./Rx05E.html#Ephedrine">ephedrine</a> ]]> </ancrea2>
+ </tableau>
+ 
  <tableau>
   <indication> Sinusite</indication>
   <ancrei><![CDATA[<a name="Sinusite">Sinusite</a>]]></ancrei>

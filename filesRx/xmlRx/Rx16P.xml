@@ -407,4 +407,31 @@
   <recommandationallaitement> Le propylthiouracil est un médicament de première intention pendant l'allaitement. Certains auteurs recommandent de surveiller les taux de T4 et de TSH chez le bébé au cours du traitement. Cependant, une surveillance clinique semble suffisante en raison de la faible dose à laquelle est exposé le bébé.</recommandationallaitement>
  </tableau>
  
+ <tableau>
+  <molecule> Pseudoephedrine</molecule>
+  <ancrem><![CDATA[<a name="Pseudoephedrine">Pseudoephedrine</a>]]></ancrem>
+  <indication> Rhume et grippe: congestion nasale</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#CongestionNasale">Rhume et grippe: congestion nasale</a>]]></ancrei>
+  <grossesse1> Absence d'augmentation du risque d'anomalies congénitales dans les études épidémiologiques comptant près de 2000 femmes exposées au premier trimestre.</grossesse1>
+  <grossesse2> Lien entre l'exposition au premier trimestre et un risque de gastroschisis suggéré dans 2 études cas-témoins (rapports de cote = 3.2 et 1.8); association non confirmée dans une étude menée par d'autres chercheurs. Le gastroschisis est une anomalie majeure rare qui résulte d'un défaut de fermeture de la cavité abdominale du foetus au cours du premier trimestre et qui s'observe chez 1 ou 2 nouveau-nés par 10 000 naissances dans la population générale.</grossesse2>
+  <grossesse3> Pas d'altération significative des paramètres hémodynamiques foeto-maternelles après une dose unique de 60 mg au troisième trimestre chez 12 femmes enceintes.</grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Même si le risque de gastroschisis relié à la prise de pseudoephedrine demeure très faible (4 à 6 cas par 10 000 naissances), il est préférable d'éviter d'exposer une femme enceinte pendant le premier trimestre de la grossesse. Après le premier trimestre, la pseudoephedrine constitue le décongestionnant systémique de premier recours, en l'absence des contre-indications habituelles. L'exposition devrait être limitée à quelques jours.</recommandationgrossesse>
+  <allaitement1> Faible transfert dans le lait maternel: au cours d'une journée, l'enfant allaité reçoit moins de 5 % de la dose maternelle ajustée au poids.</allaitement1>
+  <allaitement2> Cas d'irritabilité parfois rapportés chez des nourrissons dont la mère recevait la pseudoephedrine en combinaison avec un antihistaminique.</allaitement2>
+  <allaitement3> Réduction de 24 % de la production lactée après une dose unique de 60 mg de pseudoephedrine dans une étude effectuée chez 8 mères; l'effet était plus marqué chez les mères allait un nourrisson plus âgé.</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> L'utilisation occasionnelle de la pseudoephedrine pendant quelques jours par une femme qui allaite pose peu de risques pour le nourrisson. La pseudoephedrine devrait être cessée si la femme observe un effet sur sa production de lait ou de l'irritabilité chez le nourrisson.</recommandationallaitement>
+ </tableau>
+ 
 </livre>

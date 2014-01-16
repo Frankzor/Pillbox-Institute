@@ -218,6 +218,33 @@
   <recommandationallaitement> Les aminosides sont compatibles avec l'allaitement. Ils passent en petite quantité dans le lait maternel et leur biodisponibilité orale est faible. C'est pourquoi il est peu probable que des effets indésirables soient observés chez les bébés. </recommandationallaitement>
  </tableau>
 
+<tableau>
+  <molecule> Sudafed (pseudoephedrine)</molecule>
+  <ancrem><![CDATA[<a href="./Rx16P.html#Pseudoephedrine"> Sudafed (pseudoephedrine) </a>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
  <tableau>
   <molecule> Sulfamides (sulfacetamide, sulfadiazine, sulfisoxazole, etc.)</molecule>
   <ancrem><![CDATA[<a name="Sulfamides">Sulfamides (sulfacetamide, sulfadiazine, sulfisoxazole, etc.)</a>]]></ancrem>

@@ -245,6 +245,33 @@
   <recommandationallaitement> Si une tétracycline est le traitement de premier recours, l'utilisation à court terme (moins de 3 semaines) des tétracyclines n'est pas contre-indiquée. Toutefois, l'utilisation à long terme (le traitement de l'acné, par exemple) n'est pas recommandé afin d'éviter la coloration permanente des dents, même si ceci n'a pas été rapporté suite à une exposition par le lait maternel. </recommandationallaitement>
  </tableau>
 
+<tableau>
+  <molecule> Dristan (oxymetazoline)</molecule>
+  <ancrem><![CDATA[<a href="./Rx15O.html#Oxymetazoline">Dristan (oxymetazoline)</a>]]></ancrem>
+  <indication> </indication>
+  <ancrei> </ancrei>
+  <grossesse1> </grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> </recommandationgrossesse>
+  <allaitement1> </allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> </recommandationallaitement>
+ </tableau>
+
  <tableau>
   <molecule> Duricef (cefadroxil)</molecule>
   <ancrem><![CDATA[<a href="./Rx03C.html#Cefadroxil">Duricef (cefadroxil)</a>]]></ancrem>
