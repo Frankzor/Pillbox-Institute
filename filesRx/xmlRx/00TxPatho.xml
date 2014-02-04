@@ -814,6 +814,25 @@
  </tableau>
  
  <tableau>
+  <indication> Rhume et grippe: toux</indication>
+  <ancrei><![CDATA[<a name="Toux">Rhume et grippe: toux</a>]]></ancrei>
+  <grossesse1> Dextromethorphan</grossesse1>
+  <grossesse2> Codeine</grossesse2>
+  <grossesse3> Hydrocodone</grossesse3>
+  <grossesse4> Clophedianol, chlorure d'ammonium</grossesse4>
+  <grossesse5> Guaifenesine</grossesse5>
+  <ancreg1><![CDATA[<a href="./Rx04D.html#Dextromethorphan">dextromethorphan 30 mg PO TID</a>]]></ancreg1>
+  <ancreg2><![CDATA[<a href="./Rx03C.html#Codeine">codeine 15 mg PO TID</a>]]></ancreg2>
+  <ancreg3><![CDATA[<a href="./Rx08H.html#Hydrocodone">hydrocodone 5 mg PO TID</a>]]></ancreg3>
+  <ancreg4><![CDATA[<a href="./Rx03C.html#Clophedianol">clophedianol</a>, <a href="./Rx03C.html#ChlorureAmmonium">chlorure d'ammonium</a> ]]></ancreg4>
+  <ancreg5><![CDATA[<a href="./Rx07G.html#Guaifenesine">guaifenesine</a>]]></ancreg5>
+  <allaitement1> Idem</allaitement1>
+  <allaitement2> Idem</allaitement2>
+  <ancrea1>idem</ancrea1>
+  <ancrea2>idem</ancrea2>
+ </tableau>
+ 
+ <tableau>
   <indication> Sinusite</indication>
   <ancrei><![CDATA[<a name="Sinusite">Sinusite</a>]]></ancrei>
   <grossesse1> Amoxicillin 500 mg PO TID x 10-14 j</grossesse1>

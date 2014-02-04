@@ -29,6 +29,33 @@
   <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
+<tableau>
+  <molecule> Etafedrine</molecule>
+  <ancrem><![CDATA[<a name="Etafedrine">Etafedrine</a>]]></ancrem>
+  <indication> Rhume et grippe: congestion nasale</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#CongestionNasale">Rhume et grippe: congestion nasale</a>]]></ancrei>
+  <grossesse1> Aucune donnée retracée.</grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'évaluation des risques est impossible.</recommandationgrossesse>
+  <allaitement1> Transfert inconnu dans le lait maternel.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Préférer la pseudoephedrine, mieux connue.</recommandationallaitement>
+ </tableau>
+
  <tableau>
   <molecule> Enalapril</molecule>
   <ancrem><![CDATA[<a name="Enalapril">Enalapril</a>]]></ancrem>
@@ -54,6 +81,33 @@
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
   <recommandationallaitement> Les IECA qui ont été étudiés passent dans le lait maternel en faible quantité et pourraient être compatibles avec l'allaitement. Toutefois, les enfants prématurés et les nouveau-nés peuvent être plus sensibles aux effets des IECA. </recommandationallaitement>
+ </tableau>
+
+<tableau>
+  <molecule> Ephedrine</molecule>
+  <ancrem><![CDATA[<a name="Ephedrine">Ephedrine</a>]]></ancrem>
+  <indication> Rhume et grippe: congestion nasale </indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#CongestionNasale">Rhume et grippe: congestion nasale</a>]]></ancrei>
+  <grossesse1> Pas d'augmentation du risque de malformations majeures dans une étude de surveillance comptant 373 femmes exposées en début de grossesse.</grossesse1>
+  <grossesse2> Pas d'association entre l'exposition à l'ephedrine et le gastroschisis dans une étude cas-témoin.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'ephedrine est moins étudiée que la pseudoephedrine et pourrait comporter plus de risques de vasoconstriction systémique; elle devrait probablement être évitée durant la grossesse.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale: 85 %.</allaitement1>
+  <allaitement2> Demi-vie d'élimination: 3-5 h.</allaitement2>
+  <allaitement3> Transfert inconnu dans le lait maternel.</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Préférer la pseudoephedrine, mieux connue. L'utilisation occasionnelle pose probablement peu de risques étant donné l'élimination rapide du médicament.</recommandationallaitement>
  </tableau>
 
  <tableau>

@@ -29,6 +29,33 @@
   <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
+<tableau>
+  <molecule> Dextromethorphan</molecule>
+  <ancrem><![CDATA[<a name="Dextromethorphan">Dextromethorphan</a>]]></ancrem>
+  <indication> Rhume et grippe: toux</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Toux">Rhume et grippe: toux</a>]]></ancrei>
+  <grossesse1> Absence d'augmentation du risque de malformations majeures dans 3 études de cohorte compilant près de 500 expositions au premier trimestre.</grossesse1>
+  <grossesse2> Absence de lien entre l'exposition au premier trimestre et des malformations majeures dans une étude cas-témoins.</grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> Les résultats de ces études et l'utilisation répandue du dextromethorphan en font un médicament de premier recours chez la femme enceinte à tous les trimestres.</recommandationgrossesse>
+  <allaitement1> Biodisponibilité orale: 100 %.</allaitement1>
+  <allaitement2> Demi-vie d'élimination: moins de 4 h.</allaitement2>
+  <allaitement3> Transfert inconnu dans le lait maternel.</allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> Étant donné sa structure similaire à celle de la codeine, ses propriétés pharmacocinétiques et le fait qu'il présente peu d'effets indésirables aux doses usuelles, son utilisation à court terme chez la femme qui allaite est jugée sûre pour le nourrisson.</recommandationallaitement>
+ </tableau>
+
  <tableau>
   <molecule> Diabeta (glyburide)</molecule>
   <ancrem><![CDATA[<a href="./Rx07G.html#Glyburide">Diabeta (glyburide)</a>]]></ancrem>

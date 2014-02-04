@@ -623,6 +623,33 @@
   <recommandationallaitement> </recommandationallaitement>
  </tableau>
 
+<tableau>
+  <molecule> Clophedianol</molecule>
+  <ancrem><![CDATA[<a name="Clophedianol">Clophedianol</a>]]></ancrem>
+  <indication> Rhume et grippe: toux</indication>
+  <ancrei><![CDATA[<a href="./00TxPatho.html#Toux">Rhume et grippe: toux</a>]]></ancrei>
+  <grossesse1> Aucune donnée retracée.</grossesse1>
+  <grossesse2> </grossesse2>
+  <grossesse3> </grossesse3>
+  <grossesse4> </grossesse4>
+  <grossesse5> </grossesse5>
+  <grossesse6> </grossesse6>
+  <grossesse7> </grossesse7>
+  <grossesse8> </grossesse8>
+  <grossesse9> </grossesse9>
+  <recommandationgrossesse> L'évaluation des risques est impossible.</recommandationgrossesse>
+  <allaitement1> Transfert inconnu dans le lait maternel.</allaitement1>
+  <allaitement2> </allaitement2>
+  <allaitement3> </allaitement3>
+  <allaitement4> </allaitement4>
+  <allaitement5> </allaitement5>
+  <allaitement6> </allaitement6>
+  <allaitement7> </allaitement7>
+  <allaitement8> </allaitement8>
+  <allaitement9> </allaitement9>
+  <recommandationallaitement> La structure apparentée à la diphenhydramine suggère un faible risque avec une exposition occasionnelle, mais d'autres agents antitussifs mieux attestés doivent être privilégiés.</recommandationallaitement>
+ </tableau>
+
  <tableau>
   <molecule> Chlorpropramide</molecule>
   <ancrem><![CDATA[<a name="Chlorpropramide">Chlorpropramide</a>]]></ancrem>
@@ -950,28 +977,28 @@
  <tableau>
   <molecule> Codeine</molecule>
   <ancrem><![CDATA[<a name="Codeine">Codeine</a>]]></ancrem>
-  <indication> Syndrome des jambes sans repos</indication>
-  <ancrei>Syndrome des jambes sans repos, douleur</ancrei>
+  <indication> Syndrome des jambes sans repos, rhume et grippe: toux, migraine, douleur</indication>
+  <ancrei><![CDATA[Syndrome des jambes sans repos, <a href="./00TxPatho.html#Toux">rhume et grippe: toux</a>, migraine, douleur]]></ancrei>
   <grossesse1> Opiacés non associés à un risque accru de malformations majeures dans la plupart des études (près de 10 000 expositions au premier trimestre à la codeine).</grossesse1> 
-  <grossesse2> PLusieurs études rétrospectives ont associé l'utilisation de la codeine avec diverses anomalies (voies respiratoires, génito-urinaires, hernies ombilicales ou inguinales, sténose du pylore, hydrocéphalie, anomalies cardiaques, neuroblastome, fentes labio-palatines.) Les limites méthodologiques présentes dans ces études et l'absence de patron reproductible d'anomalies ne permettent pas d'établir clairement un lien de causalité.</grossesse2>
+  <grossesse2> Plusieurs études rétrospectives ont associé l'utilisation de la codeine avec diverses anomalies (voies respiratoires, génito-urinaires, hernies ombilicales ou inguinales, sténose du pylore, hydrocéphalie, anomalies cardiaques, neuroblastome, fentes labio-palatines.) Les limites méthodologiques présentes dans ces études et l'absence de patron reproductible d'anomalies ne permettent pas d'établir clairement un lien de causalité.</grossesse2>
   <grossesse3> Opiacés associés à un risque de syndrome de sevrage chez les bébés à la naissance. Symptômes de sevrage (perturbation du système nerveux central [par exemple, tremblements, température instable, pleurs et sursauts spontanés] et du système gastro-intestinal [par exemple, difficulté à s'alimenter, vomissements] pris en charge par des mesures allant d'un simple emmaillotement à l'administration d'un traitement pharmacologique de courte durée pour les cas plus graves (par exemple, faibles doses de morphine).</grossesse3>
-  <grossesse4> </grossesse4>
-  <grossesse5> </grossesse5>
+  <grossesse4> Plus de 7000 expositions au premier trimestre dans des études de surveillance, sans augmentation du risque de malformation.</grossesse4>
+  <grossesse5> Pour une utilisation en fin de grossesse, des cas de syndrome de sevrage sont décrits même pour des posologies habituelles.</grossesse5>
   <grossesse6> </grossesse6>
   <grossesse7> </grossesse7>
   <grossesse8> </grossesse8>
   <grossesse9> </grossesse9>
-  <recommandationgrossesse> Un traitement par un opiacé est possible au cours de la grossesse. La codeine est à privilégier au premier trimestre, étant plus documentée chez la femme enceinte. D'autres opiacés pourraient être utilisés selon le jugement clinique; l'utilisation d'un opiacé ayant une structure similaire à celle de la codeine pourrait alors être privilégiée. Lors d'une utilisation répétée en fin de grossesse, suivi plus étroit nécessaire chez le nouveau-né dans les premiers jours de vie.</recommandationgrossesse>
-  <allaitement1> </allaitement1>
-  <allaitement2> </allaitement2>
-  <allaitement3> </allaitement3>
-  <allaitement4> </allaitement4>
+  <recommandationgrossesse> Un traitement par un opiacé dans le syndrome des jambes sans repos est possible au cours de la grossesse. La codeine est à privilégier au premier trimestre, étant plus documentée chez la femme enceinte. D'autres opiacés pourraient être utilisés selon le jugement clinique; l'utilisation d'un opiacé ayant une structure similaire à celle de la codeine pourrait alors être privilégiée. Lors d'une utilisation répétée en fin de grossesse, suivi plus étroit nécessaire chez le nouveau-né dans les premiers jours de vie. La codeine est un des opiacés de premier recours durant la grossesse dans la migraine ou dans la douleur. Malgré son profil d'innocuité favorable durant la grossesse, la codeine devrait être réservée en deuxième recours comme antitussif à cause de ses effets indésirables plus fréquents que le dextromeotrphan pour une efficacité similaire.</recommandationgrossesse>
+  <allaitement1> L'enfant est exposé au maximum à 1.2 % de la dose pédiatrique (n=11, 1 à 12 doses par jour).</allaitement1>
+  <allaitement2> Médicament largement utilisé en pédiatrie.</allaitement2>
+  <allaitement3> Quatre cas d'apnée chez des enfants par l'allaitement où les mères prenaient 60 mg toutes les 4 à 6 heures alors que la codeine n'était pas détectée dans le sérum des enfants. Les apnées ont cessé après l'allaitement de la mère.</allaitement3>
+  <allaitement4> Un cas récemment rapporté de décès au 13e jour de vie du nourrisson allaité par une mère prenant 60 mg par voie orale 2 fois par jour puis la moitié de la dose à partir du 2e jour après l'accouchement. La mère était métabolatrice ultra-rapide de codeine en morphine et au jour 10, des concentration de 87 ng/mL de morphine dans le lait ont été mesurées (concentrations usuelles dans le lait de 1.9 à 20.5 ng/mL). Ce sont les signes de constipation et de surdosage présentés par la mère qui avaient mené à la diminution de la dose.</allaitement4>
   <allaitement5> </allaitement5>
   <allaitement6> </allaitement6>
   <allaitement7> </allaitement7>
   <allaitement8> </allaitement8>
   <allaitement9> </allaitement9>
-  <recommandationallaitement> </recommandationallaitement>
+  <recommandationallaitement> Son faible passage dans le lait et son utilisation en pédiatrie fait que la codeine est considérée dans les premiers choix de médicaments antalgiques en allaitement. Elle est souvent administrée aux mères pour traiter la douleur post-partum. Une dose cumulative de moins de 240 mg par jour est recommandée par certains auteurs. Une attention particulière à des signes de surdosage (somnolence, constipation) doit être portée pour la mère comme pour l'enfant pour éviter une exposition trop importante du nourrisson. Une utilisation à doses antitussives pour quelques jours ne pose pas de risques connus pour le nourrisson. La codeine devrait être réservée en deuxième recours comme antitussif à cause de ses effets indésirables plus fréquents que le dextrometorphan pour une efficacité similaire.</recommandationallaitement>
  </tableau>
 
  <tableau>
